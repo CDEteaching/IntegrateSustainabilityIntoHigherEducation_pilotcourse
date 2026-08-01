@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 # ── Site metadata ────────────────────────────────────────
 # EDIT: update title, description, site-url, and repo-url
