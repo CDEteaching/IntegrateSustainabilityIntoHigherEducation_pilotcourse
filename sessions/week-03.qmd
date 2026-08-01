@@ -1,0 +1,104 @@
+---
+title: "Week 3: Socio-Technical Transitions and Transformation Theory"
+description: "How do large-scale sustainability transformations happen? Key frameworks: Multi-Level Perspective, transition management, and leverage points."
+categories: [Foundations, Lecture, Workshop]
+navbar: false
+---
+
+::: {.session-header}
+
+::: {.session-meta-row}
+[Week 3]{.session-badge .badge-lecture}
+[Lecture + Workshop · 90 min]{.session-badge .badge-lecture}
+:::
+
+### Socio-Technical Transitions and Transformation Theory
+
+This session closes the foundations block by introducing theories of change for sustainability transformations.
+Students encounter the Multi-Level Perspective (MLP) on socio-technical transitions, transition management,
+and Meadows' leverage points — building a toolkit for the case-study work in later weeks.
+
+:::
+
+---
+
+## Session Overview
+
+| | |
+|---|---|
+| **Format** | Lecture + Workshop |
+| **Duration** | 90 minutes |
+| **Preparation for participants** | ~30 minutes reading |
+
+---
+
+## Learning Objectives
+
+1. Describe the Multi-Level Perspective (landscape, regime, niche) and apply it to a transition example.
+2. Explain what leverage points are and identify at least three high-leverage intervention types.
+3. Distinguish between technological, institutional, and cultural dimensions of sustainability transitions.
+4. Assess the strengths and blind spots of transition frameworks (agency, power, justice).
+
+---
+
+## Session Outline
+
+**1. The Multi-Level Perspective** (25 min)
+: Landscape pressures, incumbent regime, niche innovations; transition pathways (substitution, transformation,
+  de-alignment/re-alignment); example: energy systems in Kenya and Germany compared.
+
+**2. Transition management and governance** (20 min)
+: Transition arenas; front-runner coalitions; backcasting; limits and critiques (who is at the table?).
+
+**3. Leverage points** (20 min)
+: Meadows' 12 leverage points; which interventions change a system most deeply (paradigms, goals, rules
+  vs. parameters and feedback); application to climate and food systems.
+
+**4. Workshop: Where is the leverage?** (20 min)
+: Groups map a transition they know (energy, food, mobility, land use) using the MLP and identify
+  leverage points. Brief plenary sharing.
+
+**5. Synthesis and critical reflection** (5 min)
+: What do these frameworks miss? (Power, colonialism, justice.)
+
+---
+
+## Materials
+
+**Required reading**
+
+- Geels, F.W. (2002). Technological transitions as evolutionary reconfiguration processes. *Research Policy*, 31, 1257–1274. (Sections 1–3)
+- Meadows, D. (1999). Leverage Points: Places to Intervene in a System. Sustainability Institute. (Short essay, ~15 pp.)
+
+**Optional**
+
+- Loorbach, D. (2010). Transition management for sustainable development. *Governance*, 23(1), 161–183.
+
+---
+
+## Preparation tasks & learning activities
+
+::: {.callout-note .callout-before appearance="simple" icon=false}
+**Before the session**
+Read the Meadows leverage points essay. Identify one leverage point you think is underused in your regional context and bring a one-sentence justification.
+:::
+
+::: {.callout-note .callout-during appearance="simple" icon=false}
+**During the session**
+*Add in-class activities, discussion questions, or workshop instructions here.*
+:::
+
+::: {.callout-note .callout-after appearance="simple" icon=false}
+**After the session**
+Begin identifying your **case study topic** for the student case presentations. The case should be a sustainability transition initiative in your region. Confirm your choice with the teaching team by end of Session 04.
+:::
+
+---
+
+## Recommendation for facilitation
+
+---
+
+::: {.session-nav}
+← [Session 02](week-02.qmd)   |   [Session 04 →](week-04.qmd)
+:::

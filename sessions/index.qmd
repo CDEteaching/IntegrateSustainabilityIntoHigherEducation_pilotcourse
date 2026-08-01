@@ -1,0 +1,37 @@
+---
+title: "Course Sessions"
+navbar: false
+listing:
+  - id: sessions
+    contents:
+      - week-01.qmd
+      - week-02.qmd
+      - week-03.qmd
+      - week-04.qmd
+      - week-05.qmd
+    type: grid
+    grid-columns: 2
+    fields: [title, description, categories]
+    sort: false
+toc: false
+page-layout: full
+---
+
+::: {.container style="padding: 2rem 2rem 0;"}
+
+::: {.section-label}
+Session by session
+:::
+
+## All Sessions
+
+::: {.section-intro}
+Each session page includes materials, tasks, and **recommendations for facilitation** guiding partner institutions on how to adapt examples and case studies to their regional context.
+:::
+
+:::
+
+---
+
+::: {#sessions style="padding: 0 2rem 2rem;"}
+:::

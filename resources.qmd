@@ -1,0 +1,129 @@
+---
+title: "Resources"
+navbar: false
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::: section-label
+Materials & reading
+:::
+
+## Course Resources
+
+::: section-intro
+All required readings, slide decks, and tools used in this course. Where
+possible, open-access versions are linked. For readings behind paywalls,
+enrolled students should access materials through their institutional
+library.
+:::
+
+------------------------------------------------------------------------
+
+## Core Readings by Block
+
+### Session 01 — Introduction to Sustainable Development
+
+| Reading | Access |
+|------------------------------------|------------------------------------|
+| Tooze, A. (2022). Welcome to the world of the polycrisis. *FT*. | [Open access](https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33) |
+| Rockström et al. (2009). A safe operating space for humanity. *Nature*, 461. | [Open access](https://www.nature.com/articles/461472a) |
+| Richardson et al. (2023). Earth beyond six of nine planetary boundaries. *Science Advances*, 9. | [Open access](https://www.science.org/doi/10.1126/sciadv.adh2458) |
+| Raworth, K. (2017). *Doughnut Economics*. Ch. 1 & 7. | Library / purchase |
+| Geels, F.W. (2002). Technological transitions as evolutionary reconfiguration processes. *Research Policy*, 31. | Library |
+| Meadows, D. (1999). Leverage Points: Places to Intervene in a System. | [Open access](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) |
+
+### Session 02 — Interlinkages of Sustainability Dimensions and Role of Science & Education
+
+| Reading | Access |
+|------------------------------------|------------------------------------|
+| Hickel, J. (2020). *Less Is More*. Ch. 2. | Library / purchase |
+| Norgaard, R.B. (1994). The case for methodological pluralism. *Ecological Economics*, 1(1). | Library |
+| Schlosberg, D. (2007). *Defining Environmental Justice*. Ch. 1. | Library |
+| Hickel, J. et al. (2022). Imperialist appropriation in the world economy. *Global Environmental Change*, 73. | [Open access](https://doi.org/10.1016/j.gloenvcha.2022.102507) |
+| Martinez-Alier, J. (2002). *The Environmentalism of the Poor*. Introduction. | Library |
+
+### Session 03 — Education for Sustainable Development (ESD) & Constructive Alignment
+
+| Reading | Access |
+|------------------------------------|------------------------------------|
+| Ostrom, E. (2010). Polycentric systems for coping with collective action. *Global Environmental Change*, 20(4). | Library |
+| Biermann, F. et al. (2012). Navigating the anthropocene. *Science*, 335. | Library |
+| Lang, D.J. et al. (2012). Transdisciplinary research in sustainability science. *Sustainability Science*, 7(1). | [Open access](https://doi.org/10.1007/s11625-011-0149-x) |
+
+------------------------------------------------------------------------
+
+## Slide Decks
+
+Slides are released after each session. EDIT: link to your slides
+repository or platform.
+
+- [Week 1 slides (PDF)](resources/slides/week-01-slides.pdf) — *upload
+  after session*
+- [Week 2 slides (PDF)](resources/slides/week-02-slides.pdf)
+- [Week 3 slides (PDF)](resources/slides/week-03-slides.pdf)
+- [Week 4 slides (PDF)](resources/slides/week-04-slides.pdf)
+- [Week 5 slides (PDF)](resources/slides/week-05-slides.pdf)
+- [Week 6 slides (PDF)](resources/slides/week-06-slides.pdf)
+
+------------------------------------------------------------------------
+
+## Useful Tools and Databases
+
+**Sustainability data**
+
+- [Global Footprint Network](https://www.footprintnetwork.org) —
+  ecological footprint and biocapacity by country
+- [Our World in Data](https://ourworldindata.org) — open data on energy,
+  food, inequality, health
+- [Stockholm Resilience
+  Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+  — planetary boundaries updates
+- [Environmental Justice Atlas](https://ejatlas.org) — global database
+  of environmental conflicts
+
+**Teaching tools**
+
+- [Kumu](https://kumu.io) — systems mapping tool (free tier available)
+- [Loopy](https://ncase.me/loopy/) — simple interactive causal loop
+  diagrams, browser-based and free
+
+**Systems thinking**
+
+- [Kumu](https://kumu.io) — systems mapping tool (free tier available)
+- [Loopy](https://ncase.me/loopy/) — simple interactive causal loop
+  diagrams, browser-based and free
+
+**Academic search**
+
+- [Google Scholar](https://scholar.google.com)
+- [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net)
+  — strong for open-access
+- [Unpaywall browser extension](https://unpaywall.org) — finds legal
+  open-access versions of paywalled papers
+
+------------------------------------------------------------------------
+
+## Reflection Journal Guidelines
+
+The reflection journal is a weekly 300–400 word entry responding to a
+prompt from each session. Entries are submitted via the course platform
+within one week of each session.
+
+**Grading**: Journals are graded holistically at the end of the course
+on depth of engagement (40%), use of course concepts (40%), and
+intellectual honesty — including expressing genuine uncertainty (20%).
+There is no penalty for "wrong" answers; the journal rewards careful
+thinking.
+
+------------------------------------------------------------------------
+
+::: license-banner
+⚖️
+
+<p>All course materials are published under
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC
+BY 4.0</a>. Where external readings are cited, copyright remains with
+the original publishers.</p>
+:::

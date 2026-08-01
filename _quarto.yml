@@ -1,0 +1,108 @@
+project:
+  type: website
+  output-dir: _site
+
+# ── Site metadata ────────────────────────────────────────
+# EDIT: update title, description, site-url, and repo-url
+website:
+  title: "Integrating SD into HEI"
+  description: >
+    An open educational resource co-developed by CDE (University of Bern)
+    and partner institutions in Kenya and Ethiopia.
+  site-url: https://cdeteaching.github.io/[REPO-NAME]
+  repo-url: https://github.com/CDEteaching/[REPO-NAME]
+  repo-actions: [edit, issue]
+  favicon: assets/favicon.ico
+
+  # ── Footer ─────────────────────────────────────────────
+  page-footer:
+    background: "#0c641f"
+    foreground: light
+    left: |
+      © Centre for Development and Environment, University of Bern ·
+      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    right:
+      - text: "CDE Teaching"
+        href: https://cdeteaching.github.io
+      - text: "GitHub"
+        href: https://github.com/CDEteaching/[REPO-NAME]
+
+  # ── Open Graph / social ────────────────────────────────
+  open-graph:
+    title: "Introduction to Sustainability Transformations – CDE OER"
+    description: >
+      Open Educational Resources for sustainability education,
+      co-developed by CDE University of Bern and Global South partners.
+    image: assets/og-image.png
+
+  # ── Top navigation bar (landing page only) ─────────────
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Sessions"
+        menu:
+          - text: "Session 01"
+            href: sessions/week-01.qmd
+          - text: "Session 02"
+            href: sessions/week-02.qmd
+          - text: "Session 03"
+            href: sessions/week-03.qmd
+          - text: "Session 04"
+            href: sessions/week-04.qmd
+          - text: "Session 05"
+            href: sessions/week-05.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Adapt & Reuse"
+        href: adapt.qmd
+
+  # ── Left sidebar (all pages except landing) ────────────
+  sidebar:
+    style: "docked"
+    background: light
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Sessions"
+        href: sessions/index.qmd
+        contents:
+          - text: "Session 01"
+            href: sessions/week-01.qmd
+          - text: "Session 02"
+            href: sessions/week-02.qmd
+          - text: "Session 03"
+            href: sessions/week-03.qmd
+          - text: "Session 04"
+            href: sessions/week-04.qmd
+          - text: "Session 05"
+            href: sessions/week-05.qmd
+      - text: "Resources"
+        href: resources.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Adapt & Reuse"
+        href: adapt.qmd
+
+# ── Default HTML format ──────────────────────────────────
+format:
+  html:
+    theme: [cosmo, styles/cde-theme.scss]
+    toc: true
+    toc-title: "Contents"
+    toc-depth: 3
+    number-sections: false
+    link-external-newwindow: true
+    link-external-icon: false
+    anchor-sections: true
+    smooth-scroll: true
+    include-in-header: styles/google-fonts.html
+
+# ── Execution defaults ───────────────────────────────────
+execute:
+  freeze: auto   # re-render only when source changes
+  echo: false
+  warning: false
+  message: false

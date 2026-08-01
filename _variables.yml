@@ -1,0 +1,33 @@
+# Course metadata — edit once here, referenced throughout the site
+# Usage in .qmd files: {{< var course.title >}}
+
+course:
+  title: "Integrating Sustainability into Higher Education"
+  subtitle: "Theories, Concepts, and Practical Strategies"
+  language: "English"
+  format: "Hybrid (lecture + workshop)"
+  license: "CC BY 4.0"
+  version: "v1.0 · 2026"
+  github: "https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse"
+  site: "https://cdeteaching.github.io/IntegrateSustainabilityIntoHigherEducation_pilotcourse"
+  syllabus: "#"   # EDIT: replace with link to PDF syllabus
+  miro: "https://miro.com/app/board/uXjVH26AKO8=/?share_link_id=764120965509"       # EDIT: replace with Miro board link if used
+
+cde:
+  name: "Centre for Development and Environment"
+  short: "CDE"
+  university: "University of Bern"
+  address: "Mittelstrasse 43, 3012 Bern, Switzerland"
+  website: "https://www.cde.unibe.ch"
+  teaching: "https://cdeteaching.github.io"
+
+# EDIT: update with actual partner names and URLs
+partners:
+  p1:
+    name: "University of Nairobi, Kenya"
+    short: "[Short name]"
+    url: "#"
+  p2:
+    name: "Addis Ababa University"
+    short: "[Short name]"
+    url: "#"

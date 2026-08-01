@@ -1,0 +1,145 @@
+---
+title: "Adapt & Reuse"
+navbar: false
+---
+
+::: {.section-label}
+Open Educational Resource
+:::
+
+## Adapting This Course
+
+::: {.section-intro}
+This course is designed to be adopted and adapted by Higher Education Institutions worldwide.
+Everything here — sessions, slides, frameworks, assessment designs — is published under CC BY 4.0.
+You are free to take what you need, leave what you don't, and build something better.
+This page explains how.
+:::
+
+---
+
+::: {.adapt-grid}
+
+::: {.adapt-card}
+### 1. Use individual sessions
+
+You do not need to run the whole course. Any session can stand alone as a guest lecture,
+workshop module, or seminar input. Each session page is self-contained with learning objectives,
+materials, tasks, and a localisation note.
+
+**How**: Download the session QMD file from GitHub, or copy the content into your own course design.
+:::
+
+::: {.adapt-card}
+### 2. Swap in local case studies
+
+Every session includes a **localisation note** — a yellow panel at the bottom of the page —
+that guides you on how to replace our default examples (often European or generic global)
+with cases from your own regional context.
+
+**How**: Follow the localisation note. If you develop a strong local example, please share it
+via a GitHub pull request so other institutions can benefit.
+:::
+
+::: {.adapt-card}
+### 3. Translate
+
+All materials are licensed for translation. A German version is in preparation at CDE.
+If you translate materials into another language, please notify the course team so we can
+link to your version from the repository.
+
+**How**: Fork the GitHub repository, edit the QMD files, and publish your translated version.
+:::
+
+::: {.adapt-card}
+### 4. Remix and extend
+
+Add sessions, change the sequence, integrate your own assessments, or embed this course within
+a larger programme. The Quarto format makes structural edits straightforward.
+
+**How**: Fork the repository. The `_quarto.yml` navigation and `sessions/index.qmd` listing
+control the structure. `_variables.yml` lets you update course metadata in one place.
+:::
+
+::: {.adapt-card}
+### 5. Run a co-taught version
+
+This course was designed for co-teaching across institutions. The case presentations (Weeks 9–10)
+and the field session (Week 11) are especially powerful when run jointly between partner institutions
+via video link.
+
+**How**: Contact the CDE coordination team at [cde@unibe.ch](mailto:cde@unibe.ch) to discuss
+scheduling a joint cohort with another partner institution.
+:::
+
+::: {.adapt-card}
+### 6. Contribute back
+
+The course improves when institutions share what they changed and why. Contributions welcome:
+new case studies, updated readings, improved localisation notes, translations, additional sessions.
+
+**How**: Open an issue or pull request on the [GitHub repository]({{< var course.github >}}).
+All contributors are acknowledged in the course team page.
+:::
+
+:::
+
+---
+
+## Technical Setup
+
+The course is built with [Quarto](https://quarto.org) — an open-source scientific publishing system.
+You need Quarto installed to render the site locally.
+
+**Quick start:**
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/CDEteaching/[REPO-NAME].git
+cd [REPO-NAME]
+
+# 2. Install Quarto (see https://quarto.org/docs/get-started/)
+
+# 3. Preview locally
+quarto preview
+
+# 4. Render to _site/ folder
+quarto render
+```
+
+Deployment to GitHub Pages is automated via the included GitHub Actions workflow
+(`.github/workflows/publish.yml`). Push to `main` and the site rebuilds automatically.
+
+**Editing in RStudio**: Open the project folder in RStudio — it will detect the Quarto project
+automatically. Use the Render button to preview individual pages.
+
+---
+
+## Attribution
+
+When using or adapting these materials, please attribute as follows:
+
+> *[Course name]. Developed by the Centre for Development and Environment (CDE), University of Bern,
+> and partner institutions. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+
+A link back to the original repository is appreciated but not required.
+
+---
+
+## Contact
+
+Questions about adaptation, co-teaching, or contributing materials:
+
+**Centre for Development and Environment (CDE)**
+University of Bern
+[cde@unibe.ch](mailto:cde@unibe.ch)
+[{{< var cde.website >}}]({{< var cde.website >}})
+
+---
+
+::: {.license-banner}
+⚖️
+<p><strong>Open License.</strong> All materials are published under
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
+unless stated otherwise. You are free to share and adapt for any purpose with attribution.</p>
+:::

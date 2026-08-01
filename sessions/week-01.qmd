@@ -1,0 +1,128 @@
+---
+title: "Session 1: Introduction to Sustainable Development"
+categories: [Foundations, Lecture]
+navbar: false
+---
+
+::: {.session-header}
+
+::: {.session-meta-row}
+[Week 1]{.session-badge .badge-lecture}
+[Lecture · 90 min]{.session-badge .badge-lecture}
+[Plenary]{.session-badge}
+:::
+
+### Introduction to Sustainable Development
+
+The opening session introduces students to the concept of the *polycrisis* — the simultaneous intensification of interconnected crises (climate, biodiversity, inequality, geopolitical instability) — and makes the case for why incremental reform is insufficient. By the end, students should understand why transformation is both necessary and contested.
+
+:::
+
+---
+
+## Session Overview
+
+| | |
+|---|---|
+| **Block** | Foundations (Sessions 1–3) |
+| **Format** | Lecture + Q&A |
+| **Duration** | 3h |
+| **Preparation for participants** | ~45 minutes reading |
+
+---
+
+## Learning Objectives
+
+By the end of this session, students will be able to:
+
+1. Participants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.
+2. Participants discuss the relevance of sustainable development in their country contexts.
+
+
+---
+
+## Session Outline
+
+::: {.session-topics}
+
+**1. Opening provocation** (15 min)
+: What does "sustainable development" mean to you? Brief pair discussion and plenary report-back.
+
+**2. The polycrisis concept** (20 min)
+: Origins of the term (Adam Tooze); how compounding crises interact; why conventional risk analysis breaks down.
+
+**3. Planetary boundaries** (25 min)
+: The nine planetary boundaries framework (Rockström et al., Steffen et al.); current status of each boundary;
+  hotspots of transgression; equity dimensions (who transgresses, who suffers).
+
+**4. From crisis to transformation** (20 min)
+: Incremental vs. structural change; the case for sustainability transformations; why transformation is contested
+  (winners and losers, path dependencies, power).
+
+**5. Closing reflection** (10 min)
+: One-minute paper: "What surprised you? What questions remain?"
+
+:::
+
+---
+
+## Materials
+
+::: {.materials-grid}
+
+::: {.materials-col}
+**Required reading**
+
+- [Tooze, A. (2022). Welcome to the world of the polycrisis. *Financial Times*.]{.material-link .reading}
+- [Rockström et al. (2009). A safe operating space for humanity. *Nature*, 461, 472–475.]{.material-link .reading}
+- [IPCC (2023). Summary for Policymakers. *AR6 Synthesis Report*. Sections A & B only.]{.material-link .reading}
+
+**Slides**
+
+- [Week 1 lecture slides (PDF)](../resources/slides/week-01-slides.pdf){.material-link}
+:::
+
+::: {.materials-col}
+**Optional / going deeper**
+
+- [Steffen et al. (2015). Planetary boundaries: Guiding human development on a changing Earth. *Science*, 347.]{.material-link .reading}
+- [Meadows, D. (2008). *Thinking in Systems*. Chapters 1–2.]{.material-link .reading}
+
+:::
+
+:::
+
+---
+
+## Preparation tasks & learning activities
+
+::: {.callout-note .callout-before appearance="simple" icon=false}
+**Before the session**
+
+Read the Tooze (2022) FT article and write a 3-sentence answer to: *"Which of the crises Tooze describes feels most urgent to you, and why?"* Bring this to class.
+:::
+
+::: {.callout-tip .callout-during appearance="simple" icon=false}
+**During the session**
+
+*Add in-class activities, discussion questions, or workshop instructions here.*
+:::
+
+::: {.callout-warning .callout-after appearance="simple" icon=false}
+**After the session**
+
+Write your first **reflection journal entry** (300–400 words): How does the polycrisis concept change how you think about sustainability challenges you are familiar with from your own context?
+Submit via the course platform by the following Monday.
+:::
+
+## Recommendation for facilitation
+
+- The opening pair discussion (step 1) often surfaces wide variation in prior knowledge. Use this to frame the course as exploratory, not a transmission of fixed truths.
+- In the planetary boundaries segment, avoid the temptation to present the framework as settled science — acknowledge ongoing debates about thresholds, especially for novel entities and functional diversity.
+- Students from climate-vulnerable regions often have strong experiential knowledge of multiple crises. Create space for this — it will be valuable throughout the course.
+
+---
+
+::: {.session-nav}
+← [Back to all sessions](index.qmd)   |   [Session 02 →](week-02.qmd)
+:::

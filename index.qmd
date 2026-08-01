@@ -1,0 +1,287 @@
+---
+title: "CDE - OER"
+page-layout: custom
+toc: false
+sidebar: false
+---
+
+```{=html}
+<!-- ══════════════════════════════════════════════════════
+     HERO BANNER
+     EDIT: title, description, partner badges, meta values
+════════════════════════════════════════════════════════ -->
+<div class="cde-hero">
+  <div class="cde-hero-inner">
+
+    <!-- Left: text -->
+    <div class="cde-hero-text">
+      <span class="cde-hero-tag">Education for Sustainable Development</span>
+
+      <!-- EDIT: Course title -->
+      <h1>Integrating Sustainability into Higher Education: Theories, Concepts, and Practical Strategies</h1>
+
+      <!-- EDIT: 2-3 sentence description -->
+      <p class="lead">
+        A co-created course integrating sustainability into curricula. Designed as a modular,
+        openly licensed resource for HEIs in the Global South and North.
+      </p>
+
+      <div>
+        <a href="sessions/index.qmd" class="btn-cde-primary">Browse sessions</a>
+        <a href="https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse" target="_blank" rel="noopener"
+           class="btn-cde-outline">GitHub repository</a>
+      </div>
+
+      <!-- EDIT: Partner institution names -->
+      <div class="partner-strip">
+        <span class="partner-strip-label">Developed with</span>
+        <span class="partner-badge">CDE · UniBE, Switzerland</span>
+        <span class="partner-badge">University of Nairobi, Kenya</span>
+        <span class="partner-badge">[Addis Ababa University]</span>
+      </div>
+    </div>
+
+    <!-- Right: meta panel -->
+    <div class="cde-hero-meta">
+      <div class="cde-meta-panel">
+        <div class="cde-meta-panel-title">Course at a glance</div>
+
+        <!-- EDIT: Update metadata values -->
+        <div class="cde-meta-row">
+          <span>🎓</span>
+          <span class="cde-meta-label">Level</span>
+          <span class="cde-meta-value">Bachelor / Introductory</span>
+        </div>
+        <div class="cde-meta-row">
+          <span>📅</span>
+          <span class="cde-meta-label">Duration</span>
+          <span class="cde-meta-value">5-6 weeks · 5 sessions</span>
+        </div>
+        <div class="cde-meta-row">
+          <span>🌐</span>
+          <span class="cde-meta-label">Language</span>
+          <span class="cde-meta-value">English</span>
+        </div>
+        <div class="cde-meta-row">
+          <span>🏛️</span>
+          <span class="cde-meta-label">Format</span>
+          <span class="cde-meta-value">Hybrid · lecture + workshop</span>
+        </div>
+        <div class="cde-meta-row">
+          <span>📋</span>
+          <span class="cde-meta-label">Prerequisites</span>
+          <span class="cde-meta-value">None</span>
+        </div>
+        <div class="cde-meta-row">
+          <span>⚖️</span>
+          <span class="cde-meta-label">License</span>
+          <span class="cde-meta-value">CC BY 4.0</span>
+        </div>
+
+        <div style="margin-top:1.2rem; display:flex; gap:0.6rem; flex-wrap:wrap;">
+          <!-- EDIT: link to syllabus PDF -->
+          <a href="#" class="btn-cde-outline" style="padding:0.4rem 0.9rem; font-size:0.82rem;">
+            Download syllabus
+          </a>
+          <a href="https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse" target="_blank"
+             class="btn-cde-outline" style="padding:0.4rem 0.9rem; font-size:0.82rem;">
+            View on GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+```
+
+<!-- ══════════════════════════════════════════════════════
+     LEARNING OUTCOMES
+════════════════════════════════════════════════════════ -->
+
+::: {.container style="padding: 3rem 2rem;"}
+
+::: {.section-label}
+What you will learn
+:::
+
+## Learning Outcomes
+
+::: {.section-intro}
+By the end of this course, students should be able to:
+:::
+
+::: {.outcomes-grid}
+
+::: {.outcome-item}
+::: {.outcome-num}
+1
+:::
+To empower higher education faculty in Kenya with the knowledge, tools, and strategies to effectively integrate sustainable development (SD) concepts and theories into their teaching.
+:::
+
+::: {.outcome-item}
+::: {.outcome-num}
+2
+:::
+To provide an in-depth understanding of key SD concepts and theories.
+:::
+
+::: {.outcome-item}
+::: {.outcome-num}
+3
+:::
+To guide participants in establishing thematic connections between SD and their respective fields.
+:::
+
+::: {.outcome-item}
+::: {.outcome-num}
+4
+:::
+To highlight the importance of Education for Sustainable Development (ESD) for sustainable futures, and to provide knowledge, tools, and strategies to integrate ESD approaches into their teaching.
+:::
+
+::: {.outcome-item}
+::: {.outcome-num}
+5
+:::
+To develop an individual action plan on how to integrate SD and ESD approaches into teaching.
+:::
+
+::: {.outcome-item}
+::: {.outcome-num}
+6
+:::
+Communicate sustainability challenges to diverse audiences including policy makers and civil society.
+:::
+
+:::
+
+:::
+
+<!-- ══════════════════════════════════════════════════════
+     SESSIONS PREVIEW
+════════════════════════════════════════════════════════ -->
+
+::: {.container style="padding: 3rem 2rem; background: var(--bg-alt);"}
+
+::: {.section-label}
+Session overview
+:::
+
+## Course Sessions
+
+::: {.section-intro}
+The course runs over 5-6 weeks combining lectures, workshops, field sessions, and guest expert inputs.
+Each session page includes materials, tasks, and localisation notes for partner institutions.
+:::
+
+::: {.cde-cards}
+
+::: {.cde-card .cde-card-individual}
+::: {.cde-card-accent}
+:::
+::: {.cde-card-body}
+[Foundations]{.cde-card-tag}
+### Session 01: Introduction to Sustainable Development
+
+Participants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.
+:::
+::: {.cde-card-footer}
+[View session](sessions/week-01.qmd){.cde-card-link}
+:::
+:::
+
+::: {.cde-card .cde-card-individual}
+::: {.cde-card-accent}
+:::
+::: {.cde-card-body}
+[Foundations]{.cde-card-tag}
+### Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Education
+
+Participants examine the links between social, economic, and environmental dimensions of sustainable development. 
+:::
+::: {.cde-card-footer}
+[View session](sessions/week-02.qmd){.cde-card-link}
+:::
+:::
+
+::: {.cde-card .cde-card-individual}
+::: {.cde-card-accent}
+:::
+::: {.cde-card-body}
+[Foundations]{.cde-card-tag}
+### Session 03: Education for Sustainable Development (ESD) & Constructive Alignment
+
+Participants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.
+:::
+::: {.cde-card-footer}
+[View session](sessions/week-03.qmd){.cde-card-link}
+:::
+:::
+
+::: {.cde-card .cde-card-individual}
+::: {.cde-card-accent}
+:::
+::: {.cde-card-body}
+[Presentations]{.cde-card-tag}
+### Session 04: Presentation of Action Plans
+
+Participants present the action plan they have developed on how to integrate (E)SD into their own teaching. .
+:::
+::: {.cde-card-footer}
+[View session](sessions/week-04.qmd){.cde-card-link}
+:::
+:::
+
+::: {.cde-card .cde-card-individual}
+::: {.cde-card-accent}
+:::
+::: {.cde-card-body}
+[Reflexions]{.cde-card-tag}
+### Session 05: Reflection session
+
+Participants provide feedback on course content, structure, etc.
+:::
+::: {.cde-card-footer}
+[View session](sessions/week-05.qmd){.cde-card-link}
+:::
+:::
+
+:::
+
+:::
+
+<!-- ══════════════════════════════════════════════════════
+     OER TEASER + LICENSE
+════════════════════════════════════════════════════════ -->
+
+::: {.container style="padding: 3rem 2rem;"}
+
+::: {.section-label}
+Open Educational Resource
+:::
+
+## Adapt This Course
+
+This course is designed to be adopted and adapted by Higher Education Institutions worldwide.
+Materials are modular — individual sessions can be integrated without running the full course.
+Each session includes a **recommendations for facilitation**.
+
+::: {.callout-note .callout-during appearance="simple" icon=false}
+**Positionality & cultural context**
+
+*Add disclaimer for positionality and adaptation to cultural context here.*
+:::
+
+→ [Full adaptation guide](adapt.qmd)
+
+::: {.license-banner}
+⚖️
+<p><strong>Open License.</strong> All materials are published under
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
+unless stated otherwise. You are free to share and adapt for any purpose with attribution to
+CDE, University of Bern.</p>
+:::
+
+:::

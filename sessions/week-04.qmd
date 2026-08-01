@@ -1,0 +1,107 @@
+---
+title: "Week 4: Post-Growth Economics and Plural Economies"
+description: "Beyond GDP: degrowth, doughnut economics, and pluralist economic frameworks for sustainability."
+categories: [Economics & Justice, Lecture]
+navbar: false
+---
+
+::: {.session-header}
+
+::: {.session-meta-row}
+[Week 4]{.session-badge .badge-lecture}
+[Lecture · 90 min]{.session-badge .badge-lecture}
+:::
+
+### Post-Growth Economics and Plural Economies
+
+What is the economy *for*? This session challenges the growth imperative at the heart of mainstream economics
+and introduces pluralist alternatives — ecological economics, degrowth, post-growth, and care economics —
+that make different assumptions about what an economy should prioritise and how it should be organised.
+
+:::
+
+---
+
+## Session Overview
+
+| | |
+|---|---|
+| **Format** | Lecture |
+| **Duration** | 90 minutes |
+| **Preparation for participants** | ~45 minutes reading |
+
+---
+
+## Learning Objectives
+
+1. Critique the GDP growth paradigm from an ecological and social perspective.
+2. Describe the main tenets of ecological economics, degrowth, and post-growth frameworks.
+3. Compare neoclassical and heterodox economic frameworks on the question of sustainability.
+4. Evaluate the political economy of transitioning away from growth dependency.
+
+---
+
+## Session Outline
+
+**1. The problem with GDP** (15 min)
+: What GDP measures and what it misses; historical context (Kuznets' original warning); Easterlin paradox;
+  GDP vs. well-being indicators (HDI, Genuine Progress Indicator, Happy Planet Index).
+
+**2. Ecological economics** (20 min)
+: The economy as a subsystem of the biosphere; throughput (matter-energy flows); limits to growth revisited;
+  steady-state economy; Herman Daly's principles.
+
+**3. Degrowth and post-growth** (25 min)
+: Degrowth vs. post-growth distinction; key claims (GDP growth drives ecological overshoot;
+  redistribution over growth; sufficiency rather than efficiency); political feasibility and critiques;
+  Global South perspectives — is degrowth a Northern luxury?
+
+**4. Care economy and feminist economics** (15 min)
+: Unpaid care work; the iceberg economy; why sustainability transformations require recognising reproductive labour.
+
+**5. Discussion: Growth, development, and the Global South** (15 min)
+: Should post-growth apply universally? What does "enough" mean across different contexts?
+
+---
+
+## Materials
+
+**Required reading**
+
+- Hickel, J. (2020). *Less Is More*. Chapter 2: The birth of growth. (~30 pp.)
+- Raworth, K. (2017). *Doughnut Economics*. Chapter 7: Be agnostic about growth.
+- Norgaard, R.B. (1994). The case for methodological pluralism. *Ecological Economics*, 1(1). (Sections 1–2 only)
+
+**Optional**
+
+- Kallis, G. (2018). *Degrowth*. Chapters 1–2.
+- Mies, M. & Shiva, V. (1993). *Ecofeminism*. Chapter 1.
+
+---
+
+## Preparation tasks & learning activities
+
+::: {.callout-note .callout-before appearance="simple" icon=false}
+**Before the session**
+Read Hickel Chapter 2. Come prepared to discuss: *Is GDP growth compatible with staying within planetary boundaries? Why or why not?*
+:::
+
+::: {.callout-note .callout-during appearance="simple" icon=false}
+**During the session**
+*Add in-class activities, discussion questions, or workshop instructions here.*
+:::
+
+::: {.callout-note .callout-after appearance="simple" icon=false}
+**After the session**
+Reflection journal entry 3 (300 words): Is degrowth a relevant concept in your context? If yes, what would it look like in practice? If no, why not — and what alternative framing would you propose?
+:::
+
+---
+
+## Recommendation for facilitation
+
+---
+
+::: {.session-nav}
+← [Session 03](week-03.qmd)   |   [Back to all sessions](index.qmd)   |   [Session 05 →](week-05.qmd)
+:::

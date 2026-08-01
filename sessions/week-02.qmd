@@ -1,0 +1,101 @@
+---
+title: "Week 2: Planetary Boundaries and Sustainability Frameworks"
+description: "Deep dive into planetary boundaries science, the Doughnut model, and frameworks for thinking about sustainability trade-offs."
+categories: [Foundations, Lecture]
+navbar: false
+---
+
+::: {.session-header}
+
+::: {.session-meta-row}
+[Week 2]{.session-badge .badge-lecture}
+[Lecture + Workshop · 90 min]{.session-badge .badge-lecture}
+:::
+
+### Planetary Boundaries and Sustainability Frameworks
+
+Building on the polycrisis framing from Week 1, this session goes deeper into the planetary boundaries science and introduces
+complementary frameworks — in particular Kate Raworth's Doughnut model — for thinking about how social foundations and
+ecological ceilings interact.
+
+:::
+
+---
+
+## Session Overview
+
+| | |
+|---|---|
+| **Format** | Lecture + Workshop |
+| **Duration** | 90 minutes |
+| **Preparation for participants** | ~30 minutes reading |
+
+---
+
+## Learning Objectives
+
+1. Explain the scientific basis for at least five planetary boundaries, including key tipping point dynamics.
+2. Describe the Doughnut model and explain how it relates social and ecological dimensions.
+3. Apply a sustainability framework to evaluate a development policy choice.
+4. Articulate tensions between economic development goals and planetary boundaries.
+
+---
+
+## Session Outline
+
+**1. Planetary boundaries: science and debate** (30 min)
+: The latest boundary updates (Richardson et al. 2023); which boundaries are most transgressed; scientific
+  uncertainties and ongoing debates; how boundaries relate to one another (Earth system interactions).
+
+**2. The Doughnut model** (20 min)
+: Social foundation (12 dimensions from the SDGs) + ecological ceiling (based on planetary boundaries);
+  the "safe and just space"; national and city-level Doughnut analyses.
+
+**3. Workshop: Applying the Doughnut** (30 min)
+: Small groups apply the Doughnut model to a development scenario (infrastructure project, agricultural
+  expansion, urban growth). Each group maps social benefits and ecological risks, then shares findings.
+
+**4. Debrief and discussion** (10 min)
+: What trade-offs emerged? Whose perspective determines where to draw the line?
+
+---
+
+## Materials
+
+**Required reading**
+
+- Richardson et al. (2023). Earth beyond six of nine planetary boundaries. *Science Advances*, 9.
+- Raworth, K. (2017). *Doughnut Economics*. Chapter 1: Change the goal.
+
+**Workshop material**
+
+- [Week 2 scenario cards (PDF)](../resources/slides/week-02-scenarios.pdf) — 4 regional scenarios (East Africa, Mekong, Global North city, Global South megacity)
+
+---
+
+## Preparation tasks & learning activities
+
+::: {.callout-note .callout-before appearance="simple" icon=false}
+**Before the session**
+Read Richardson et al. (2023) Abstract + sections 1 and 4. Identify one boundary and one mechanism you didn't know about.
+:::
+
+::: {.callout-note .callout-during appearance="simple" icon=false}
+**During the session**
+*Add in-class activities, discussion questions, or workshop instructions here.*
+:::
+
+::: {.callout-note .callout-after appearance="simple" icon=false}
+**After the session**
+Reflection journal entry 2 (300 words): Which dimension of the Doughnut model is most under-served in your context — social foundation or ecological ceiling? Justify with one example.
+:::
+
+---
+
+## Recommendation for facilitation
+
+---
+
+::: {.session-nav}
+← [Session 01](week-01.qmd)   |   [Session 03 →](week-03.qmd)
+:::

@@ -1,0 +1,124 @@
+---
+title: "Course Team"
+navbar: false
+---
+
+::: {.section-label}
+Who made this
+:::
+
+## Course Team
+
+::: {.section-intro}
+This course was co-created by teams at the Centre for Development and Environment (University of Bern)
+and partner institutions in Kenya, Ethiopia, and Laos. Each team contributed regional expertise,
+case studies, and localisation materials.
+:::
+
+---
+
+### Centre for Development and Environment — University of Bern
+
+::: {.team-grid}
+
+::: {.team-card}
+#### [Coordinator Name]
+**Role**: Course coordinator · Lead author
+
+Research areas: sustainability transformations, political ecology, transdisciplinary methods.
+
+[📧 email@unibe.ch](mailto:email@unibe.ch)
+:::
+
+::: {.team-card}
+#### [Team Member Name]
+**Role**: Content author · Weeks 4–5
+
+Research areas: ecological economics, North–South resource flows, environmental justice.
+
+[📧 email@unibe.ch](mailto:email@unibe.ch)
+:::
+
+::: {.team-card}
+#### [Team Member Name]
+**Role**: Instructional design · OER coordination
+
+[📧 email@unibe.ch](mailto:email@unibe.ch)
+:::
+
+:::
+
+---
+
+::: {.team-group-label}
+[Partner – Kenya]
+:::
+
+::: {.team-grid}
+
+::: {.team-card}
+#### [Name]
+**Role**: Partner lead · Localisation (Kenya)
+
+[📧 email@partner.ac.ke](mailto:email@partner.ac.ke)
+:::
+
+::: {.team-card}
+#### [Name]
+**Role**: Case study author — East Africa sessions
+
+[📧 email@partner.ac.ke](mailto:email@partner.ac.ke)
+:::
+
+:::
+
+---
+
+::: {.team-group-label}
+[Partner – Ethiopia]
+:::
+
+::: {.team-grid}
+
+::: {.team-card}
+#### [Name]
+**Role**: Partner lead · Localisation (Ethiopia)
+
+[📧 email@partner.ac.et](mailto:email@partner.ac.et)
+:::
+
+:::
+
+---
+
+::: {.team-group-label}
+[Partner – Laos]
+:::
+
+::: {.team-grid}
+
+::: {.team-card}
+#### [Name]
+**Role**: Partner lead · Localisation (Laos / Mekong)
+
+[📧 email@partner.ac.la](mailto:email@partner.ac.la)
+:::
+
+:::
+
+---
+
+## Acknowledgements
+
+This course was developed with support from [Funding body / project name].
+We thank the students who participated in the pilot cohorts at all partner institutions for their
+feedback and contributions to the localisation notes.
+
+---
+
+::: {.license-banner}
+⚖️
+<p>All course materials are published under
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
+unless stated otherwise. Please attribute: "Developed by CDE, University of Bern and partners (CC BY 4.0)."</p>
+:::
