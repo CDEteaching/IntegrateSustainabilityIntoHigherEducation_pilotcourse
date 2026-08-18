@@ -1,0 +1,76 @@
+---
+title: "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education"
+description: "Background reading that unpacks the core concepts from the Week 2 slides in more depth, with pointers into the Basics of Sustainability textbook."
+navbar: false
+---
+
+::: {.session-header}
+### Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education
+
+This reader expands on the [Week 2 slides](../resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone text if you are adapting this course and did not attend the live delivery.
+:::
+
+---
+
+## From separate dimensions to interlinkages
+
+Week 1 introduced the environmental, social, and economic dimensions of sustainable development largely side by side. Week 2 starts from a simple observation: in practice, no real-world sustainability challenge stays inside one dimension. Different diagrams try to capture this differently. The classic three-circles model treats the dimensions as overlapping but separate; a concentric-circles model instead nests them, economy inside society inside environment, on the argument that society is a subsystem of the environment, and the economy in turn a subsystem of society, so an economy cannot outgrow the social and ecological systems it depends on. The SDGs' own "wedding cake" model (Stockholm Resilience Centre) makes the same nested argument visually: a biosphere layer at the base, a society layer built on top of it, and an economy layer on top of that, with the 17 SDGs distributed across the three tiers rather than treated as a flat, unordered list.
+
+An Integrated Landscape (Watershed) Management example from Ethiopia (Providoli, 2023) is used to make the interlinkage concrete rather than abstract. Bio-physical measures (rehabilitating the water cycle, improving vegetation cover to reduce erosion, compost and fuel-saving stoves) sit alongside new income-generating activities (home gardens, cash crops, beekeeping) and social-level changes (community grazing management, networking among community groups, extending responsibility to people without formal land rights). None of these measures works in isolation: a purely biophysical intervention without a matching social or economic one tends not to hold, which is exactly the "systemic perspective" the slides emphasise. The same point is made through two further, less resolved cases from Ethiopia: conflict over grazing land and water for cattle, and conflict among people over fishing rights, both cases where environmental scarcity, social relationships, and economic livelihoods are impossible to disentangle.
+
+📖 Textbook: [Three dimensions of sustainability](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#three-dimensions-of-sustainability){.material-link} · [A four-dimensional model of sustainability](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#a-four-dimensional-model-of-sustainability){.material-link}
+
+## The role of science: from understanding to transformation
+
+The session draws directly on the UN's Global Sustainable Development Report (GSDR) argument that "business as usual is no longer an option" for science and higher education. The claim is specific: science should not stop at understanding human-nature interactions better, it should also actively help change those interactions along more sustainable trajectories. That reframes the research question from "what is happening?" to "how do we orient research so it also helps overcome the problems it describes?", which in turn requires rethinking how science and society relate to each other and how relevant knowledge gets produced in the first place.
+
+This is usually discussed through three research modes of increasing openness to non-academic input:
+
+- **Disciplinary** research stays within a single discipline.
+- **Interdisciplinary** research combines several disciplines.
+- **Transdisciplinary** research goes a step further: Jahn, Bergmann & Keil (2012) define it as a reflexive research approach that addresses societal problems through interdisciplinary collaboration *and* through collaboration between researchers and non-scientific actors (policymakers, practitioners, affected communities), with the explicit aim of enabling mutual learning between science and society, not just extracting data from practitioners. Schneider & Buser (2018), reviewing 16 transdisciplinary projects, found the degree of actual stakeholder interaction varies considerably across the research phases of a project (problem framing, knowledge production, and integration/application), a reminder that "transdisciplinary" is a spectrum, not a label a project either has or lacks.
+
+A table from Herweg (CDE) lines up what sustainable development *demands* of research against what science can *offer* in response: understanding complex society-environment interrelations calls for interdisciplinary cooperation; managing "wicked problems" with incomplete knowledge and contradictory agendas calls for transdisciplinary cooperation; multi-level interactions from local to global call for multi-level, multi-stakeholder approaches; and non-linear, accelerating change calls for flexible, creative research methods, alongside teaching that builds knowledge, skills, and values together rather than knowledge alone. A worked example makes the case: research on land degradation in the Ethiopian highlands, where 80% of the population depends directly on the land, cannot be solved with biophysical methods alone, since any viable solution has to be simultaneously environmentally sound, economically viable, and socially compatible, which is only possible by integrating biophysical and socio-economic methods within one research design (Herweg et al., 2017). A parallel case from Kenya's Ewaso Ng'iro river basin makes the same point for water: rising abstraction and seasonal drying of the river needed a combination of technical, social, and institutional solutions, plus sustained multi-level stakeholder engagement, not a purely hydrological fix.
+
+📖 Textbook: [Sustainability science: origins and understanding](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#understanding-sustainability-science){.material-link} · [Types of knowledge for sustainable development](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#types-of-knowledge-for-sustainable-development){.material-link} · [Empirical-analytical vs normative](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#empirical-analytical-vs-normative){.material-link} · [Global challenges as wicked problems](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#global-challenges-as-wicked-problems){.material-link}
+
+## The role of higher education
+
+If research needs to change, so does the institution that produces most of it. Price et al. (2021) argue that universities have an "untapped potential" for sustainability leadership precisely because a business-as-usual approach has not produced a breakthrough on global challenges: universities train the researchers, teachers, administrators, and private- and public-sector professionals who will go on to shape sustainable development in practice, in "many places" at once, which is a different kind of leverage than any single research project has on its own.
+
+The session illustrates this with three institutional examples, not as a benchmark to copy but as a set of concrete starting points:
+
+- **University of Bern**: sustainability as one of five institutional priority topics, a commitment to climate neutrality by 2025, a cross-faculty Commission for Sustainable Development, a joint Sustainability Day with other Bern institutions, funding for student sustainability projects, a teaching grant for "Promoting SD in teaching," specific SD degree programmes (Bachelor minors and a Master's in Sustainability Transformations), and, notably, a mandatory double lesson on SD integrated into every Bachelor's programme university-wide, a comparatively low-cost intervention designed for maximum reach.
+- **Addis Ababa University** (and other Ethiopian universities): a dedicated Centre for Sustainability, solar energy use on campus, SD integrated as a taught course, and campus greening and conservation initiatives.
+- **University of Nairobi**: dedicated research centres such as the Wangari Maathai Institute of Peace and Environmental Studies, and Master's-level programmes (biodiversity and natural resource development; sustainable urban development and environmental planning) run as integrated programmes for students from mixed disciplinary backgrounds.
+
+::: {.callout-note .localisation-note}
+**Adapting this for your own institution**
+
+These three institutions are illustrations, not a fixed reference set. If you are adapting this course elsewhere, replace them with sustainability initiatives from your own university, or invite participants to name their own institution's examples during the session, the exercise works better as a mirror than as a lecture.
+:::
+
+## Reflecting on disciplinary contributions
+
+The session uses the parable of blindfolded people each touching a different part of an elephant, one feels a trunk and thinks "snake," another a leg and thinks "tree," and concludes: everyone is somehow right, everyone is somehow wrong, and nobody captures the full picture alone. Applied to a concrete case, rapid urbanisation in Addis Ababa, this maps onto real disciplinary fragments: green space, mobility, energy, agriculture, housing, industry, health, pollution, infrastructure, security, and communication are all genuinely part of the same problem, but each is usually studied, and taught, by a different discipline in isolation.
+
+Herweg et al. (2021) offer a more systematic way to locate a given discipline's contribution to SD, since the link is often "hidden or indirect" rather than obvious. They distinguish four possible interfaces: a discipline's **research topics** may connect directly to core SD issues (resource degradation, migration, globalisation); its **research methodology** may help measure or track key variables regardless of topic; its **theory** may contribute to conceptual debates about SD; and its **application** may have direct real-world SD impact (a new technology, a new regulation, a piece of ESD curriculum). Mapped against the three sustainability dimensions, this produces a 4×3 grid that any discipline can use to locate its own contribution. The slides work through psychology as a worked example: research topics might include behavioural interventions for pro-environmental behaviour or community resilience; methodology might range from surveys to longitudinal studies; theory might draw on the Theory of Planned Behaviour or ecopsychology; and application might mean behaviour-change campaigns or workplace well-being programmes, none of which is "environmental psychology" in name, but all of it substantively connected to SD once the grid makes the connection explicit.
+
+The University of Bern's own "Links to SD" information sheets (`bne.unibe.ch`) apply exactly this exercise across every discipline taught at the university, specifically to help lecturers locate their own course content within SD rather than treating sustainability as an add-on subject.
+
+## Key messages
+
+1. Every sustainability challenge needs to be examined from the perspective of all three (or more) dimensions at once, not one at a time.
+2. Research for sustainable development requires inter- and transdisciplinary approaches, since no single discipline captures a "wicked problem" fully.
+3. Higher education institutions, and their individual lecturers, carry real responsibility for equipping future leaders to advance sustainable development.
+4. Every discipline holds knowledge that can support sustainable development, even where the connection is not immediately obvious.
+
+## Looking ahead: Task after Session 2
+
+Building on this session, the task is to identify concrete opportunities to incorporate SD into your own course, using the SDGs (or another framework relevant to your context), global sustainability challenges, or the different worldviews introduced in Week 1, and to articulate explicitly what links your own discipline has with sustainable development. The four-interface grid (research topics, methodology, theory, application) introduced above is a direct tool for that task, not just an illustration.
+
+---
+
+::: {.session-nav}
+← [Back to Session 02](week-02.qmd)
+:::

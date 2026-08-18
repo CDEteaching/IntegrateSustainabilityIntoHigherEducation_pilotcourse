@@ -1,0 +1,75 @@
+---
+title: "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment"
+description: "Background reading that unpacks the core concepts from the Week 3 slides in more depth, with pointers into the Basics of Sustainability textbook where relevant."
+navbar: false
+---
+
+::: {.session-header}
+### Reader: Education for Sustainable Development (ESD) & Constructive Alignment
+
+This reader expands on the [Week 3 slides](../resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery.
+
+Unlike Weeks 1 and 2, this session is about pedagogy and course design rather than sustainability content, so most of it does not map onto the Basics of Sustainability textbook, which is a content textbook, not a teaching-methods one. Where it genuinely does connect (the two worked examples below), the link is there; where it does not, the reader relies on its own sources instead.
+:::
+
+---
+
+## From "spray and pray" to Education for Sustainable Development
+
+The session opens with a deliberately unflattering image: "spray and pray", the assumption that if students are exposed to enough scientific facts, they will somehow go on to change the world professionally once they leave the classroom. Naming this as the default and then setting it aside is the point of the session: sustainability challenges are complex enough that information alone rarely changes what people do with it, which is why the UN's 2030 Agenda explicitly calls for a new kind of science and a new kind of education, not just more of the same content delivered more urgently.
+
+UNESCO defines Education for Sustainable Development (ESD) as an approach that "gives learners of all ages the knowledge, skills, values and agency to address interconnected global challenges including climate change, loss of biodiversity, unsustainable use of resources, and inequality," empowering them "to make informed decisions and take individual and collective action to change society and care for the planet." UNESCO's 2021 Berlin Declaration goes further, calling ESD "the foundation for the required transformation," equipping people to become change agents rather than informed bystanders. The founding value behind both formulations is respect: for other people, for future generations, and for the planet and what it provides.
+
+A useful distinction sharpens what this actually means in practice: **education about sustainable development** is an awareness lesson or theoretical discussion, information transfer. **Education for sustainable development** uses education as a tool to build the capacity to act, giving people knowledge and skills for lifelong learning so they can find new solutions to environmental, economic, and social problems themselves. The "about" version can leave a course entirely unchanged in structure while adding sustainability as a topic; the "for" version changes what students are asked to do, not just what they are told.
+
+ESD is not a peripheral add-on to the SDGs, it is written into them directly. SDG 4 (Quality Education) is a stand-alone goal, but its Target 4.7 specifically commits UN member states to ensuring that, by 2030, all learners acquire the knowledge and skills to promote sustainable development, explicitly including education for sustainable development, human rights, gender equality, and global citizenship. The African Union's Agenda 2063 makes a parallel commitment under Goal 2, "Well Educated Citizens and Skills Revolution," underpinned by science, technology, and innovation.
+
+## Competences, not just content
+
+ESD is built around **competences** rather than content coverage. Following Abelha et al. (2020), a competence is an umbrella term for a person's knowledge, skills, and abilities: it presumes a background of prior resources (knowledge, skills, experience, values), requires those resources to be mobilised in a specific context (such as solving a real problem), and is only visible once applied in that context. This is a stronger claim than it might first sound: a competence is not "knowing about" something, it is being able to do something with what you know, in a situation where it actually matters.
+
+This competence orientation is not abstract policy language, it is already reshaping curricula on the ground. Kenya's shift from the older 8-4-4 system (an objective-driven, content-based curriculum with performance-based assessment) to the competence-based 2-6-3-3-3 system is one concrete example: the newer system foregrounds student-centred teaching and practical experience, aiming to build 21st-century skills such as critical thinking and problem-solving, with creativity, inclusivity, and sustainable development named as core competences expected of every learner.
+
+Rieckmann (2018) identifies three pedagogical shifts that follow from taking competences seriously: knowledge should be actively constructed by learners rather than transferred to them (the educator becomes a facilitator of learning processes, not a source of facts); learners should engage in action and reflect on their own experience of it (the educator's job is to create environments that prompt that reflection); and learners should be empowered to question and change how they see and think about the world (the educator becomes someone who challenges learners, not just informs them). Translated into concrete teaching principles: work on real-world problems and be solution-oriented, bring students from different disciplines together rather than teaching within a single subject silo, build on participation and cooperation, involve practitioners, foreground values-based learning and critical thinking over memorisation, and favour locally relevant information over generic national or global material.
+
+## Constructive alignment
+
+Constructive alignment, introduced by John Biggs in the mid-1990s, is the design tool this session uses to translate ESD principles into an actual course unit. The idea is that three elements have to be deliberately aligned with each other: **learning outcomes** (what competences the course is meant to build), **learning activities** (the teaching-learning arrangements that give students a chance to build them), and **assessment** (how you find out whether they actually did). The word "constructive" signals that learners make content meaningful themselves, through the learning activities, rather than having meaning delivered to them ready-made.
+
+In practice, this means answering three questions in sequence and keeping the answers consistent with each other: What should students know or be able to do by the end (learning outcomes)? What activities will actually help them get there (learning activities)? And how will you know if they got there (assessment)? A course can have excellent learning outcomes and a rigorous exam and still fail at constructive alignment, if the learning activities in between do not actually build toward what the outcomes promise and the assessment then tests.
+
+**Learning outcomes** should be formulated in an action-oriented way, specifying not just what learners should know but what they should be able to do with it, including being able to self-assess their own attitudes and values by the end of the course. A standard tool for writing them precisely is a taxonomy of active verbs pegged to performance level: *remembering* uses verbs like recall, name, list, or cite; *understanding* uses explain, describe, compare, or interpret; *problem-solving* uses apply, analyse, design, justify, or create. Choosing the verb is not a wording exercise, it commits you to a specific, checkable level of performance.
+
+**Learning activities** that foster sustainability competences tend to share a family resemblance: dialogic strategies (discussion, debate, dialogue), critical reflection on locally and globally relevant issues, hypothetical or real cases (role-play, simulation, case studies), collaboration on shared projects, experiential activities such as community action, interdisciplinary joint problem-framing, project- or problem-based learning, and action-research cycles of planning, acting, observing, and reflecting (Tejedor et al., 2019).
+
+**Assessment** has to be valid, meaning it actually tests what the course intended to teach, and it comes in several recognisable formats: solving set tasks, explaining or defining terms in one's own words, working through real or constructed cases, writing essays or technical reports, or writing reviews and critical statements. Assessment also serves two distinct functions that are easy to conflate: a **formative** function during the course, giving learners feedback on where they currently stand so they can adjust; and a **summative** function at the end, where the result "counts" toward a grade or certificate. A course that only assesses summatively gives students no chance to course-correct before the result is final.
+
+## Two worked examples
+
+The session works through two full constructive-alignment examples end to end, each mapped across the three sustainability dimensions (environment, society, economy) before the learning outcomes, activities, and assessment are built on top.
+
+**Example 1: Land degradation.** The topics span all three dimensions: environmentally, depletion of natural resources (soil fertility, water quality, biodiversity), soil erosion, and rising temperatures; socially, effects on land tenure systems, migration patterns, and access to resources, which can generate conflict within communities; economically, reduced agricultural productivity and income, migration pressure, and shifting power dynamics around trade and resource extraction. The resulting learning outcomes are deliberately spread across knowledge, skills, and attitude: understanding the causes and consequences of land degradation (knowledge), applying field observation and analysis skills during a guided site visit (skills), and demonstrating an appreciation for the perspectives of stakeholders affected by land degradation gathered through exchanges and interviews (attitude). The learning activities, a presentation, a guided field visit, and stakeholder interviews, and the assessment, a written report covering environmental, societal, and economic aspects, are built to match.
+
+**Example 2: Urban migration.** Structured the same way: environmentally, urban expansion, habitat loss, deforestation, and rising resource consumption; socially, strain on urban infrastructure and services, and increased inequality; economically, globalisation of labour markets and unequal distribution of resources and opportunities. Learning outcomes again span knowledge (understanding the drivers of urban migration), skills (collecting and presenting information through multiple media, such as video and photography), and attitude (engaging constructively in group debate and proposing solutions). Learning activities include brainstorming, multimedia information-gathering, and structured debate; assessment is a written reflection proposing a solution and a strategy, alongside a short report built partly from interviews with community elders.
+
+::: {.callout-note .localisation-note}
+**Adapting the worked examples**
+
+Both examples were built for the Ethiopia/Kenya pilot cohorts and use topics with direct local relevance there. If you are adapting this course for a different context, keep the three-dimension table structure and the knowledge/skills/attitude split, they are the transferable part, but swap in a topic your own participants will recognise from their own discipline and region.
+:::
+
+📖 Textbook: [Land use change](https://cdeteaching.github.io/Basics-of-sustainability/3_ecological-sustainability/3_intro.html#land-use-change){.material-link} covers the land degradation example's environmental dimension in more depth (soil degradation, land tenure and land rights, land use conflicts). The urban migration example does not have a direct match in the textbook, which does not currently treat urbanisation or migration as a dedicated topic.
+
+## Reflection: the muddiest point
+
+The session closes with a "muddiest point" reflection: participants write down the most difficult or confusing part of the session, which the facilitator then reviews and addresses at the start of the next session, rather than leaving it unresolved. It is a small technique, but it does something a general "any questions?" rarely achieves: it surfaces confusion that participants might not feel confident raising out loud, and it commits the facilitator to actually closing the loop.
+
+## Looking ahead: your own Action Plan
+
+The task after this session is to put constructive alignment into practice: find a topic related to sustainable development in your own discipline, and design a session for it, formulating at least three learning outcomes, choosing learning activities that actively engage students with SD and ESD principles, and designing a matching assessment format. This is the piece of the overall ESD Action Plan you will present in Session 4, so it is worth treating as a real design exercise, not a hypothetical one, ideally for a session you could actually teach.
+
+---
+
+::: {.session-nav}
+← [Back to Session 03](week-03.qmd)
+:::

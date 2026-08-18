@@ -1,0 +1,45 @@
+---
+title: "Week 4 Reader: Presentation of Action Plans"
+description: "A short guide to finishing, presenting, and getting the most out of your ESD Action Plan in the closing session."
+navbar: false
+---
+
+::: {.session-header}
+### Reader: Presentation of Action Plans
+
+Session 4 does not introduce new sustainability content. It is where the three previous sessions come together in your own **ESD Action Plan**. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn.
+:::
+
+---
+
+## What the Action Plan is actually made of
+
+By this session, your Action Plan already has three parts, one from each of the previous sessions, and this session asks you to bring them together into a single short presentation:
+
+1. **From Session 1:** a review of how sustainable development currently shows up (or doesn't) in your own teaching content and syllabi, using the dimensions, frameworks, and historical grounding covered there as your reference points.
+2. **From Session 2:** the concrete opportunities you identified to bring SD into your course, framed through the SDGs, Agenda 2063, or another relevant framework, and articulated through your own discipline's specific links to sustainability.
+3. **From Session 3:** a fully developed lesson or session built with constructive alignment, at least three learning outcomes, learning activities that actively engage students with those outcomes, and an assessment format that actually measures them.
+
+If you want a refresher on any of these before presenting, the [Week 1](week-01-reader.qmd), [Week 2](week-02-reader.qmd), and [Week 3](week-03-reader.qmd) readers cover them in depth, including the textbook links for Sessions 1 and 2.
+
+## Presenting in six minutes
+
+The presentation itself is short by design, roughly six minutes per participant or group, so it works best as a structured walk-through rather than a comprehensive account. The slides suggest covering, in order: your current state (what you found in the Session 1 review), the opportunities and gaps you identified (Session 2), and the developed lesson itself (Session 3), naming its three learning outcomes, the learning activities that support them, and how you would assess them. Resist the pull to spend most of the six minutes on background and context, the constructive-alignment design is the part your listeners are there to react to and give feedback on.
+
+## Giving useful peer feedback
+
+Listeners are asked to take notes and prepare constructive feedback while others present. Because action plans span many different disciplines, the most useful feedback usually isn't "does this work well within its own field," but rather **whether and how a presented idea could translate into a different field**. A constructive-alignment design built for a hydrology course and one built for a literature course rarely transfer directly, but the underlying moves (a clearer learning outcome, a more active learning activity, a better-aligned assessment) usually do. Framing feedback this way is also what turns individual presentations into the basis for the collaboration discussion that follows.
+
+## From presentations to collaboration
+
+After the presentations, the session moves to a synthesis of the key insights that came up (recurring challenges, and where people said they need more support), followed by a structured discussion of collaboration opportunities: with other lecturers, other departments, or organisations outside academia already working on sustainability initiatives. This is where the cross-disciplinary variety of the Action Plans becomes an asset rather than a complication, the differences between disciplines are exactly what make collaboration worth pursuing, rather than everyone independently reinventing similar material.
+
+## Closing the course
+
+The course closes with an open reflection on the main learnings from across all four sessions, followed by a course evaluation. Since this pilot course has been delivered in different formats (fully live, self-paced online, and hybrid, across the Kenyan and Ethiopian cohorts), the evaluation should be read and adapted with that specific delivery context in mind, what worked in a live, in-person setting will not always transfer directly to a self-paced asynchronous one, and vice versa.
+
+---
+
+::: {.session-nav}
+← [Back to Session 04](week-04.qmd)
+:::

@@ -1,0 +1,95 @@
+---
+title: "Week 1 Reader: Introduction to Sustainable Development"
+description: "Background reading that unpacks the core concepts from the Week 1 slides in more depth, with pointers into the Basics of Sustainability textbook."
+navbar: false
+---
+
+::: {.session-header}
+### Reader: Introduction to Sustainable Development
+
+This reader expands on the [Week 1 slides](../resources/slides/01_Introduction_to_SD_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery.
+:::
+
+---
+
+## Why "sustainable development"? Framing the session
+
+The session opens with the 1968 "Earthrise" photograph, taken during the Apollo 8 mission, the first time humans saw the whole Earth from space. The image is used deliberately, not as decoration: it is widely credited with shifting public perception of the planet from an unlimited backdrop for human activity to something small, bounded, and shared. That shift, from an implicitly limitless world to a finite one, is the intuitive starting point for everything that follows in this course.
+
+## Defining Sustainable Development
+
+The most widely used definition of sustainable development comes from the 1987 report *Our Common Future*, produced by the World Commission on Environment and Development (WCED) under the Norwegian Prime Minister Gro Harlem Brundtland, and known ever since as the Brundtland Report:
+
+> "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+
+This definition was adopted by the United Nations Conference on Environment and Development (Rio, 1992) and has since become the default global reference point, including in Switzerland's own understanding of sustainable development. Two things are worth noticing about it: it introduces an explicit **temporal dimension** (present versus future generations), and it says nothing about *how* needs should be met, which is exactly why the concept has been filled with very different content ever since.
+
+Alongside the temporal dimension, sustainable development is conventionally broken down into three substantive **dimensions**: environment (resource management, pollution, biodiversity), society (quality of life, education, equity), and economy (employment, productivity, cost of living). This three-dimension model, used for example in Switzerland's MONET sustainability monitoring system, is easy to communicate and therefore widespread, but it can also obscure aspects that do not map neatly onto any one of the three, such as culture, technology, or health, which is why some models extend it to four dimensions or represent the dimensions as nested (economy within society within environment) rather than as three equal, separate circles.
+
+This conceptual looseness is also the concept's main weakness: sustainable development has been criticised as conceptually fuzzy, as having no clear priority ranking between its dimensions, as blurring the line between methods and goals, and as a concept "everyone can agree to" precisely because it lacks specificity. One influential way of sharpening the concept is the distinction between weak and strong sustainability, which asks whether natural capital can be substituted by human-made capital (weak) or must be protected as a non-negotiable minimum (strong).
+
+📖 Textbook: [Brundtland Commission](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#brundtland-commission){.material-link} · [Three dimensions of sustainability](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#three-dimensions-of-sustainability){.material-link} · [A four-dimensional model of sustainability](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#a-four-dimensional-model-of-sustainability){.material-link} · [Weak and strong sustainability](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#weak-and-strong-sustainability){.material-link}
+
+## Agenda 2063 and the Sustainable Development Goals
+
+In 2015, all 193 UN member states adopted the 2030 Agenda for Sustainable Development, with its 17 Sustainable Development Goals (SDGs) and 169 targets, covering everything from poverty and hunger to climate action and institutional justice. The SDGs succeeded the earlier Millennium Development Goals (2000-2015), which had been criticised for being defined mainly by industrialised countries, lacking binding commitments, and relying on unrealistic targets.
+
+The African Union's Agenda 2063, "The Africa We Want," is a parallel, continent-specific framework built around seven aspirations: a prosperous and integrated Africa, good governance, peace and security, a strong cultural identity, people-driven development, and a strong global role. Rather than treating Agenda 2063 as a regional footnote to the SDGs, the session presents them side by side and asks participants to work out the overlaps and gaps themselves, since the two frameworks share substantial common ground but were negotiated through different political processes.
+
+::: {.callout-note .localisation-note}
+**Adapting this for your own region**
+
+Agenda 2063 pairs naturally with the SDGs for African cohorts, but it is a regional framework, not a universal complement. If you are teaching this course elsewhere, look for a comparable regional or national development framework (an ASEAN framework, an EU strategy, a national development plan) to pair with the SDGs instead, so participants can anchor the global framework in the political context they actually work in.
+:::
+
+📖 Textbook: [The 2030 Agenda and the SDGs](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#the-2030-agenda-and-the-sustainable-development-goals-sdgs){.material-link} · [Agenda 21: Think globally, act locally](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#agenda-21-think-globally-act-locally){.material-link}
+
+## Sustainability challenges: why the urgency
+
+Since 1950, almost every indicator of human activity, population, GDP, energy use, water use, fertiliser consumption, and every indicator of Earth-system change, greenhouse gas concentration, ocean acidification, biodiversity loss, has grown in a pattern that Steffen et al. (2015) call the "Great Acceleration." The point of the graph is not any single number but the shape: near-flat for most of human history, then a sharp bend upward exactly at the mid-20th century.
+
+Two further data sources are used to make the scale of the challenge concrete. The World Economic Forum's annual Global Risks Report, based on a survey of over a thousand experts, has for several years ranked environmental risks (extreme weather, failure to mitigate climate change, biodiversity loss) among the most severe global risks over both short and long time horizons. And Fanning et al. (2022) combine planetary-boundary and social-threshold data for individual countries into a single chart: it shows that essentially no country yet manages to provide a social foundation for its population without overshooting at least one planetary boundary, which is precisely the "safe and just space" the Doughnut model (see below) is trying to define.
+
+📖 Textbook: [Debates about planetary boundaries](https://cdeteaching.github.io/Basics-of-sustainability/2_approaches/2_intro.html#debates-about-planetary-boundaries){.material-link} · [From planetary boundaries to the doughnut model](https://cdeteaching.github.io/Basics-of-sustainability/2_approaches/2_intro.html#from-planetary-boundaries-to-the-doughnut-model){.material-link}
+
+## Sustainability theories and UN conferences: a short history
+
+The session traces a timeline from 1970 to the present, alternating between **theoretical milestones** and **international political milestones**:
+
+| Year | Theory / concept | International milestone |
+|---|---|---|
+| 1972 | *Limits to Growth* (Club of Rome / MIT computer models) | UN Conference on the Human Environment, Stockholm |
+| 1987 | Three-circles model of sustainability emerges | Brundtland Report, *Our Common Future* |
+| 1992 | | Earth Summit, Rio de Janeiro (UNCED) |
+| 2000 | | Millennium Development Goals |
+| 2009 | Planetary Boundaries (Rockström et al.) | |
+| 2012 | Doughnut Model (Raworth) | Rio+20 |
+| 2013 | | Agenda 2063 (African Union) |
+| 2015 | | 2030 Agenda / SDGs |
+
+A few of these are worth unpacking further. *The Limits to Growth* (1972), produced by a group of scientists associated with the Club of Rome, used some of the first computer models of global resource use to run scenarios of population, industrial output, food production, pollution, and resource depletion. Its "standard run," assuming no change in historical patterns, showed industrial growth slowing sharply once resource depletion outpaces the ability to extract new resources, followed eventually by falling population. The book is often credited with an early use of the word "sustainable" and remains contested: critics point out it does not account well for technological change or the changing definition of what counts as a usable resource, but it was influential precisely because it was among the first attempts to model the finiteness of the Earth system formally, prefiguring today's planetary boundaries work.
+
+The 1992 Earth Summit in Rio de Janeiro brought together 179 countries and produced five major documents: the UN Framework Convention on Climate Change (UNFCCC), the Convention on Biological Diversity, the Rio Declaration on Environment and Development, Agenda 21, and a Statement of Principles on Forests, plus groundwork for what became the UN Convention to Combat Desertification. Twenty years later, Rio+20 (2012) was widely judged a comparatively modest outcome document, but it launched the process that led directly to the SDGs, and it formalised early guidelines on green economy policy.
+
+📖 Textbook: [Club of Rome and *The Limits to Growth*](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#club-of-rome-and-the-limits-to-growth){.material-link} · [From Rio 1992 to today](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#from-rio-1992-to-today){.material-link} · [Rio+20](https://cdeteaching.github.io/Basics-of-sustainability/1_understanding/1_intro.html#rio20){.material-link} · [The debate about the Great Transformation](https://cdeteaching.github.io/Basics-of-sustainability/2_approaches/2_intro.html#the-debate-about-the-great-transformation){.material-link}
+
+## Whose sustainability? Worldviews and the many values of nature
+
+Pascual et al. (2023), drawing on work for the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), argue that different worldviews shape how people relate to nature in ways that go beyond a simple pro-environment/anti-environment axis. They distinguish, broadly: **living from** and **living in** nature (anthropocentric framings, prioritising human interests), **living with** nature (bio- or ecocentric framings, treating other living beings or ecological processes as having value in their own right), and **living as** nature (pluralistic framings, emphasising the interdependence of humans, other beings, and systemic processes). The point for this course is practical, not just philosophical: a sustainability initiative designed on one of these framings (say, valuing a forest purely for its carbon-storage or tourism revenue) can look entirely different, and generate different conflicts, from one designed on another (valuing the same forest as a living system with its own integrity, or as inseparable from a community's identity).
+
+## Key messages
+
+1. The three (or more) dimensions of sustainable development are interlinked at every level, not separable in practice.
+2. Sustainable development is a complex, internationally negotiated concept, not a fixed technical standard.
+3. The challenges it responds to are accelerating, and the case for urgency is not rhetorical, it shows up directly in the data.
+4. Context matters: what "sustainable development" should mean and prioritise depends on where you are, and whose values and worldview are doing the defining.
+
+## Looking ahead: the ESD Action Plan
+
+Session 1 also opens the course's overarching assignment: building an **ESD Action Plan** across the four sessions. After Session 1, the task is to review how sustainable development is currently reflected in your own teaching; after Session 2, to identify concrete opportunities to bring it in further; after Session 3, to design a full session using constructive alignment; and in Session 4, to present the finished plan and look for collaboration opportunities. The concepts introduced here, the dimensions, the frameworks, the historical grounding, are the vocabulary the rest of the course, and your own Action Plan, will keep returning to.
+
+---
+
+::: {.session-nav}
+← [Back to Session 01](week-01.qmd)
+:::
