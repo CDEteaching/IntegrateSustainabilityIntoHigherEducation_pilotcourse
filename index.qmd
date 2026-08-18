@@ -54,7 +54,7 @@ sidebar: false
         <div class="cde-meta-row">
           <span>📅</span>
           <span class="cde-meta-label">Duration</span>
-          <span class="cde-meta-value">5-6 weeks · 5 sessions</span>
+          <span class="cde-meta-value">4 sessions</span>
         </div>
         <div class="cde-meta-row">
           <span>🌐</span>
@@ -74,7 +74,7 @@ sidebar: false
         <div class="cde-meta-row">
           <span>⚖️</span>
           <span class="cde-meta-label">License</span>
-          <span class="cde-meta-value">CC BY 4.0</span>
+          <span class="cde-meta-value">CC BY-NC-SA 4.0</span>
         </div>
 
         <div style="margin-top:1.2rem; display:flex; gap:0.6rem; flex-wrap:wrap;">
@@ -210,21 +210,6 @@ Participants present the action plan they have developed on how to integrate (E)
 :::
 :::
 
-::: {.cde-card .cde-card-individual}
-::: {.cde-card-accent}
-:::
-::: {.cde-card-body}
-[Reflexions]{.cde-card-tag}
-
-### Session 05: Reflection session
-
-Participants provide feedback on course content, structure, etc.
-:::
-::: {.cde-card-footer}
-[View session](sessions/week-05.qmd){.cde-card-link}
-:::
-:::
-
 :::
 
 :::
@@ -256,9 +241,128 @@ Each session includes a **recommendations for facilitation**.
 ::: {.license-banner}
 ⚖️
 <p><strong>Open License.</strong> All materials are published under
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
-unless stated otherwise. You are free to share and adapt for any purpose with attribution to
-CDE, University of Bern.</p>
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
+unless stated otherwise. You are free to share and adapt for non-commercial purposes, with attribution to
+CDE, University of Bern, and under the same license.</p>
+:::
+
+:::
+
+<!-- ══════════════════════════════════════════════════════
+     AUTHORS
+════════════════════════════════════════════════════════ -->
+
+::: {.container style="padding: 3rem 2rem; background: var(--bg-alt);"}
+
+::: {.section-label}
+Who wrote this
+:::
+
+## Authors
+
+::: {.team-group-label}
+Switzerland
+:::
+
+::: {.team-grid}
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Dr. Isabelle Providoli]{.team-name}\
+[Centre for Development and Environment, University of Bern]{.team-inst}
+:::
+:::
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Anna Lewis]{.team-name}\
+[Centre for Development and Environment, University of Bern]{.team-inst}
+:::
+:::
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Dr. Brigitte Portner]{.team-name}\
+[Centre for Development and Environment, University of Bern]{.team-inst}
+:::
+:::
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Tina Hirschbuehl]{.team-name}\
+[Centre for Development and Environment, University of Bern]{.team-inst}
+:::
+:::
+
+:::
+
+::: {.team-group-label}
+Ethiopia
+:::
+
+::: {.team-grid}
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Dr. Dawit Mekonnen]{.team-name}\
+[College of Education and Behavioral Studies, Addis Ababa University]{.team-inst}
+:::
+:::
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Anteneh Gebremariam]{.team-name}\
+[College of Education and Behavioral Studies, Addis Ababa University]{.team-inst}
+:::
+:::
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Dr. Gete Zeleke]{.team-name}\
+[Water and Land Resource Centre, Addis Ababa]{.team-inst}
+:::
+:::
+
+:::
+
+::: {.team-group-label}
+Kenya
+:::
+
+::: {.team-grid}
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Dr. Boniface Kiteme]{.team-name}\
+[Centre for Training and Integrated Research on ASAL Development]{.team-inst}
+:::
+:::
+
+::: {.team-card}
+::: {.team-card-accent}
+:::
+::: {.team-card-body}
+[Dr. Boniface Wambua]{.team-name}\
+[Department of Geography, Population and Environmental Studies, University of Nairobi]{.team-inst}
+:::
+:::
+
 :::
 
 :::

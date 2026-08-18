@@ -1,13 +1,13 @@
 ---
-title: "Week 1 Reader: Introduction to Sustainable Development"
-description: "Background reading that unpacks the core concepts from the Week 1 slides in more depth, with pointers into the Basics of Sustainability textbook."
+title: "Session 01 Reader: Introduction to Sustainable Development"
+description: "Background reading that unpacks the core concepts from the Session 01 slides in more depth, with pointers into the Basics of Sustainability textbook."
 navbar: false
 ---
 
 ::: {.session-header}
 ### Reader: Introduction to Sustainable Development
 
-This reader expands on the [Week 1 slides](../resources/slides/01_Introduction_to_SD_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a [downloadable PDF](../resources/readers/week-01-reader.pdf){.material-link}.
+This reader expands on the [Session 01 slides](../resources/slides/01_Introduction_to_SD_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a [downloadable PDF](../resources/readers/week-01-reader.pdf){.material-link}.
 :::
 
 ---

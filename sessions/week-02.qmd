@@ -1,21 +1,22 @@
 ---
-title: "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education"
+title: "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education"
 description: "From separate dimensions to interlinkages in practice, and the role of science, higher education, and individual disciplines in advancing sustainable development."
 categories: [Foundations, Self-paced]
 navbar: false
+title-block-style: none
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 2]{.session-badge .badge-online}
+[Session 02]{.session-badge .badge-online}
 [Self-paced online · 90-100 min]{.session-badge .badge-online}
 [Plenary]{.session-badge}
 :::
 
 ### Interlinkages of Sustainability Dimensions and Role of Science & Higher Education
 
-This session moves from the three sustainability dimensions treated separately in Week 1 to how they interlink in
+This session moves from the three sustainability dimensions treated separately in Session 01 to how they interlink in
 practice, and introduces the role of science, higher education, and individual disciplines, including participants'
 own, in advancing sustainable development.
 
@@ -80,8 +81,8 @@ By the end of this session, participants will be able to:
 
 **Slides**
 
-- [Week 2 slides (PowerPoint, 54 slides)](../resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx){.material-link}
-- [Week 2 Reader (background reading)](week-02-reader.qmd){.material-link} · [PDF](../resources/readers/week-02-reader.pdf){.material-link}
+- [Session 02 slides (PowerPoint, 54 slides)](../resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx){.material-link}
+- [Session 02 Reader (background reading)](week-02-reader.qmd){.material-link} · [Reader as PDF](../resources/readers/week-02-reader.pdf){.material-link}
 :::
 
 ::: {.materials-col}
@@ -91,7 +92,7 @@ By the end of this session, participants will be able to:
 - [Schneider & Buser (2018). Promising degrees of stakeholder interaction in research for sustainable development.]{.material-link .reading}
 - [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook).]{.material-link .reading}
 - [Herweg et al. (2017). Integrating Sustainable Development into Higher Education, Guidelines for the University of Bern.]{.material-link .reading}
-- [SDG "wedding cake" animation (Stockholm Resilience Centre, YouTube).]{.material-link .reading}
+- [SDG "wedding cake" animation (Stockholm Resilience Centre, YouTube).](https://www.youtube.com/results?search_query=SDG+wedding+cake+Stockholm+Resilience+Centre){.material-link .reading}
 - [Price et al. (2021). Supporting the role of universities in leading individual and societal transformation through ESD.]{.material-link .reading}
 
 :::

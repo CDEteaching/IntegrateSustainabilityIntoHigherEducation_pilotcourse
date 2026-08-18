@@ -11,8 +11,9 @@ Open Educational Resource
 
 ::: {.section-intro}
 This course is designed to be adopted and adapted by Higher Education Institutions worldwide.
-Everything here — sessions, slides, frameworks, assessment designs — is published under CC BY 4.0.
-You are free to take what you need, leave what you don't, and build something better.
+Everything here — sessions, slides, frameworks, assessment designs — is published under CC BY-NC-SA 4.0.
+You are free to take what you need, leave what you don't, and build something better, for non-commercial
+purposes and under the same license.
 This page explains how.
 :::
 
@@ -64,9 +65,8 @@ control the structure. `_variables.yml` lets you update course metadata in one p
 ::: {.adapt-card}
 ### 5. Run a co-taught version
 
-This course was designed for co-teaching across institutions. The case presentations (Weeks 9–10)
-and the field session (Week 11) are especially powerful when run jointly between partner institutions
-via video link.
+This course was designed for co-teaching across institutions. The Session 04 presentations are
+especially powerful when run jointly between partner institutions via video link.
 
 **How**: Contact the CDE coordination team at [cde@unibe.ch](mailto:cde@unibe.ch) to discuss
 scheduling a joint cohort with another partner institution.
@@ -79,7 +79,7 @@ The course improves when institutions share what they changed and why. Contribut
 new case studies, updated readings, improved localisation notes, translations, additional sessions.
 
 **How**: Open an issue or pull request on the [GitHub repository]({{< var course.github >}}).
-All contributors are acknowledged in the course team page.
+All contributors are acknowledged in the repository's commit history and contributor list.
 :::
 
 :::
@@ -120,7 +120,7 @@ automatically. Use the Render button to preview individual pages.
 When using or adapting these materials, please attribute as follows:
 
 > *[Course name]. Developed by the Centre for Development and Environment (CDE), University of Bern,
-> and partner institutions. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+> and partner institutions. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
 
 A link back to the original repository is appreciated but not required.
 
@@ -140,6 +140,7 @@ University of Bern
 ::: {.license-banner}
 ⚖️
 <p><strong>Open License.</strong> All materials are published under
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>
-unless stated otherwise. You are free to share and adapt for any purpose with attribution.</p>
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
+unless stated otherwise. You are free to share and adapt for non-commercial purposes, with attribution and
+under the same license.</p>
 :::

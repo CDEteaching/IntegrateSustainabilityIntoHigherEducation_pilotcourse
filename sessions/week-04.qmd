@@ -1,14 +1,15 @@
 ---
-title: "Week 4: Presentation of Action Plans"
+title: "Session 04: Presentation of Action Plans"
 description: "The closing session: participants present their completed ESD Action Plans, identify collaboration opportunities, and evaluate the course as a whole."
 categories: [Wrap-up, Live]
 navbar: false
+title-block-style: none
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 4]{.session-badge .badge-workshop}
+[Session 04]{.session-badge .badge-workshop}
 [Live · approx. 2h (async option available)]{.session-badge .badge-workshop}
 [Presentations & discussion]{.session-badge}
 :::
@@ -80,8 +81,8 @@ By the end of this session, participants will be able to:
 
 **Slides**
 
-- [Week 4 slides (PowerPoint, 19 slides)](../resources/slides/04_Presentation_of_action_plans_consolidated.pptx){.material-link}
-- [Week 4 Reader (background reading)](week-04-reader.qmd){.material-link} · [PDF](../resources/readers/week-04-reader.pdf){.material-link}
+- [Session 04 slides (PowerPoint, 19 slides)](../resources/slides/04_Presentation_of_action_plans_consolidated.pptx){.material-link}
+- [Session 04 Reader (background reading)](week-04-reader.qmd){.material-link} · [Reader as PDF](../resources/readers/week-04-reader.pdf){.material-link}
 :::
 
 ::: {.materials-col}
@@ -139,5 +140,5 @@ next step, that participants share their action plan with their department or ap
 ---
 
 ::: {.session-nav}
-← [Session 03](week-03.qmd)   |   [Back to all sessions](index.qmd)   |   [Session 05 →](week-05.qmd)
+← [Session 03](week-03.qmd)   |   [Back to all sessions](index.qmd)
 :::

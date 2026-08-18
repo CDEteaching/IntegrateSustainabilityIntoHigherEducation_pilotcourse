@@ -67,12 +67,11 @@ Plan (Tasks after Sessions 1-3).
 
 ## Slide Decks
 
-- [Week 1 slides (PowerPoint, 51 slides)](resources/slides/01_Introduction_to_SD_consolidated.pptx)
-- [Week 2 slides (PowerPoint, 54 slides)](resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx)
-- [Week 3 slides (PowerPoint, 48 slides)](resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx)
-- [Week 4 slides (PowerPoint, 19 slides)](resources/slides/04_Presentation_of_action_plans_consolidated.pptx)
-- Week 5 slides: not yet available (no Session 5 materials exist yet)
-- [Week 6 slides (PDF)](resources/slides/week-06-slides.pdf)
+- [Session 01 slides (PowerPoint, 51 slides)](resources/slides/01_Introduction_to_SD_consolidated.pptx)
+- [Session 02 slides (PowerPoint, 54 slides)](resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx)
+- [Session 03 slides (PowerPoint, 48 slides)](resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx)
+- [Session 04 slides (PowerPoint, 19 slides)](resources/slides/04_Presentation_of_action_plans_consolidated.pptx)
+- Session 05 slides: not yet available (no Session 05 materials exist yet)
 
 ------------------------------------------------------------------------
 
@@ -130,7 +129,7 @@ thinking.
 ⚖️
 
 <p>All course materials are published under
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC
-BY 4.0</a>. Where external readings are cited, copyright remains with
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC
+BY-NC-SA 4.0</a>. Where external readings are cited, copyright remains with
 the original publishers.</p>
 :::

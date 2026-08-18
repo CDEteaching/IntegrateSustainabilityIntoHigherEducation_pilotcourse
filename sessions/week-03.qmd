@@ -1,14 +1,15 @@
 ---
-title: "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment"
+title: "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment"
 description: "From concepts to course design: ESD as a pedagogical approach, and constructive alignment as the tool to translate ESD principles into an aligned course unit."
 categories: [Course Design, Self-paced]
 navbar: false
+title-block-style: none
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 3]{.session-badge .badge-online}
+[Session 03]{.session-badge .badge-online}
 [Self-paced online · 95-105 min]{.session-badge .badge-online}
 [Plenary]{.session-badge}
 :::
@@ -78,8 +79,8 @@ By the end of this session, participants will be able to:
 
 **Slides**
 
-- [Week 3 slides (PowerPoint, 48 slides)](../resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx){.material-link}
-- [Week 3 Reader (background reading)](week-03-reader.qmd){.material-link} · [PDF](../resources/readers/week-03-reader.pdf){.material-link}
+- [Session 03 slides (PowerPoint, 48 slides)](../resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx){.material-link}
+- [Session 03 Reader (background reading)](week-03-reader.qmd){.material-link} · [Reader as PDF](../resources/readers/week-03-reader.pdf){.material-link}
 :::
 
 ::: {.materials-col}
@@ -88,8 +89,8 @@ By the end of this session, participants will be able to:
 - [Rieckmann, M. (2018). Learning to transform the world: Key competencies in Education for Sustainable Development.]{.material-link .reading}
 - [Tejedor et al. (2019). Didactic strategies to promote competencies in sustainability.]{.material-link .reading}
 - [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook, chapter on constructive alignment).]{.material-link .reading}
-- [UNESCO (2023). What you need to know about education for sustainable development.]{.material-link .reading}
-- [UNESCO. Berlin Declaration on Education for Sustainable Development (2021).]{.material-link .reading}
+- [UNESCO (2023). What you need to know about education for sustainable development.](https://www.unesco.org/en/education-sustainable-development/need-know){.material-link .reading}
+- [UNESCO. Berlin Declaration on Education for Sustainable Development (2021).](https://www.unesco.org/en/articles/berlin-declaration-education-sustainable-development){.material-link .reading}
 
 :::
 

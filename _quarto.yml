@@ -20,7 +20,7 @@ website:
     foreground: light
     left: |
       © Centre for Development and Environment, University of Bern ·
-      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+      [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     right:
       - text: "CDE Teaching"
         href: https://cdeteaching.github.io
@@ -50,12 +50,8 @@ website:
             href: sessions/week-03.qmd
           - text: "Session 04"
             href: sessions/week-04.qmd
-          - text: "Session 05"
-            href: sessions/week-05.qmd
       - text: "Resources"
         href: resources.qmd
-      - text: "Team"
-        href: team.qmd
       - text: "Adapt & Reuse"
         href: adapt.qmd
 
@@ -77,12 +73,8 @@ website:
             href: sessions/week-03.qmd
           - text: "Session 04"
             href: sessions/week-04.qmd
-          - text: "Session 05"
-            href: sessions/week-05.qmd
       - text: "Resources"
         href: resources.qmd
-      - text: "Team"
-        href: team.qmd
       - text: "Adapt & Reuse"
         href: adapt.qmd
 

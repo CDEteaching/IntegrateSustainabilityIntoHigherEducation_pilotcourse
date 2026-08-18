@@ -8,7 +8,6 @@ listing:
       - week-02.qmd
       - week-03.qmd
       - week-04.qmd
-      - week-05.qmd
     type: grid
     grid-columns: 2
     fields: [title, description, categories]

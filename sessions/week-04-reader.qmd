@@ -1,5 +1,5 @@
 ---
-title: "Week 4 Reader: Presentation of Action Plans"
+title: "Session 04 Reader: Presentation of Action Plans"
 description: "A short guide to finishing, presenting, and getting the most out of your ESD Action Plan in the closing session."
 navbar: false
 ---
@@ -7,7 +7,7 @@ navbar: false
 ::: {.session-header}
 ### Reader: Presentation of Action Plans
 
-Session 4 does not introduce new sustainability content. It is where the three previous sessions come together in your own **ESD Action Plan**. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn. Also available as a [downloadable PDF](../resources/readers/week-04-reader.pdf){.material-link}.
+Session 04 does not introduce new sustainability content. It is where the three previous sessions come together in your own **ESD Action Plan**. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn. Also available as a [downloadable PDF](../resources/readers/week-04-reader.pdf){.material-link}.
 :::
 
 ---
@@ -16,11 +16,11 @@ Session 4 does not introduce new sustainability content. It is where the three p
 
 By this session, your Action Plan already has three parts, one from each of the previous sessions, and this session asks you to bring them together into a single short presentation:
 
-1. **From Session 1:** a review of how sustainable development currently shows up (or doesn't) in your own teaching content and syllabi, using the dimensions, frameworks, and historical grounding covered there as your reference points.
-2. **From Session 2:** the concrete opportunities you identified to bring SD into your course, framed through the SDGs, Agenda 2063, or another relevant framework, and articulated through your own discipline's specific links to sustainability.
-3. **From Session 3:** a fully developed lesson or session built with constructive alignment, at least three learning outcomes, learning activities that actively engage students with those outcomes, and an assessment format that actually measures them.
+1. **From Session 01:** a review of how sustainable development currently shows up (or doesn't) in your own teaching content and syllabi, using the dimensions, frameworks, and historical grounding covered there as your reference points.
+2. **From Session 02:** the concrete opportunities you identified to bring SD into your course, framed through the SDGs, Agenda 2063, or another relevant framework, and articulated through your own discipline's specific links to sustainability.
+3. **From Session 03:** a fully developed lesson or session built with constructive alignment, at least three learning outcomes, learning activities that actively engage students with those outcomes, and an assessment format that actually measures them.
 
-If you want a refresher on any of these before presenting, the [Week 1](week-01-reader.qmd), [Week 2](week-02-reader.qmd), and [Week 3](week-03-reader.qmd) readers cover them in depth, including the textbook links for Sessions 1 and 2.
+If you want a refresher on any of these before presenting, the [Session 01](week-01-reader.qmd), [Session 02](week-02-reader.qmd), and [Session 03](week-03-reader.qmd) readers cover them in depth, including the textbook links for Sessions 01 and 02.
 
 ## Presenting in six minutes
 

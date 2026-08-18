@@ -1,53 +1,8 @@
 [
   {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Course Team",
-    "section": "",
-    "text": "Who made this",
-    "crumbs": [
-      "Home",
-      "Team"
-    ]
-  },
-  {
-    "objectID": "team.html#course-team",
-    "href": "team.html#course-team",
-    "title": "Course Team",
-    "section": "Course Team",
-    "text": "Course Team\n\nThis course was co-created by teams at the Centre for Development and Environment (University of Bern) and partner institutions in Kenya, Ethiopia, and Laos. Each team contributed regional expertise, case studies, and localisation materials.\n\n\n\nCentre for Development and Environment — University of Bern\n\n\n[Coordinator Name]\nRole: Course coordinator · Lead author\nResearch areas: sustainability transformations, political ecology, transdisciplinary methods.\n📧 email@unibe.ch\n\n\n[Team Member Name]\nRole: Content author · Weeks 4–5\nResearch areas: ecological economics, North–South resource flows, environmental justice.\n📧 email@unibe.ch\n\n\n[Team Member Name]\nRole: Instructional design · OER coordination\n📧 email@unibe.ch\n\n\n\n\n[Partner – Kenya]\n\n\n\n[Name]\nRole: Partner lead · Localisation (Kenya)\n📧 email@partner.ac.ke\n\n\n[Name]\nRole: Case study author — East Africa sessions\n📧 email@partner.ac.ke\n\n\n\n\n[Partner – Ethiopia]\n\n\n\n[Name]\nRole: Partner lead · Localisation (Ethiopia)\n📧 email@partner.ac.et\n\n\n\n\n[Partner – Laos]\n\n\n\n[Name]\nRole: Partner lead · Localisation (Laos / Mekong)\n📧 email@partner.ac.la",
-    "crumbs": [
-      "Home",
-      "Team"
-    ]
-  },
-  {
-    "objectID": "team.html#acknowledgements",
-    "href": "team.html#acknowledgements",
-    "title": "Course Team",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nThis course was developed with support from [Funding body / project name]. We thank the students who participated in the pilot cohorts at all partner institutions for their feedback and contributions to the localisation notes.\n\n\n⚖️\n\nAll course materials are published under CC BY 4.0 unless stated otherwise. Please attribute: “Developed by CDE, University of Bern and partners (CC BY 4.0).”",
-    "crumbs": [
-      "Home",
-      "Team"
-    ]
-  },
-  {
-    "objectID": "sessions/week-04.html",
-    "href": "sessions/week-04.html",
-    "title": "Week 4: Presentation of Action Plans",
-    "section": "",
-    "text": "Week 4 Live · approx. 2h (async option available) Presentations & discussion\n\n\n\nThe closing session brings the course’s individual work together: participants present their completed ESD Action Plans, identify opportunities for collaboration, and reflect on and evaluate the course as a whole.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Session 04"
-    ]
-  },
-  {
     "objectID": "sessions/week-04.html#session-overview",
     "href": "sessions/week-04.html#session-overview",
-    "title": "Week 4: Presentation of Action Plans",
+    "title": "Session 04: Presentation of Action Plans",
     "section": "Session Overview",
     "text": "Session Overview\n\n\n\n\n\n\n\nFormat\nRecommended as a live synchronous session (on-site or video call), since it centers on presentations and live group discussion. If a live session is not feasible: run as a time-boxed asynchronous window (e.g. one week) with recorded action-plan presentations and written peer feedback in place of live presentation and discussion.\n\n\nDuration\nApprox. 2h live (scales with group size, given 6-minute presentations per participant/group). Asynchronous equivalent: an open review window of several days, with roughly 60-90 minutes of individual engagement time (viewing others’ presentations, giving feedback, completing the evaluation).\n\n\nPreparation for participants\nA completed ESD Action Plan (Tasks after Sessions 1-3), and a prepared short presentation of it (approx. 6 minutes)",
     "crumbs": [
@@ -59,7 +14,7 @@
   {
     "objectID": "sessions/week-04.html#learning-objectives",
     "href": "sessions/week-04.html#learning-objectives",
-    "title": "Week 4: Presentation of Action Plans",
+    "title": "Session 04: Presentation of Action Plans",
     "section": "Learning Objectives",
     "text": "Learning Objectives\nBy the end of this session, participants will be able to:\n\nDeepen their understanding of ESD and constructive alignment.\nPresent their own action plan.\nIdentify collaboration opportunities with other lecturers, departments, or external organizations working on sustainability initiatives.",
     "crumbs": [
@@ -71,7 +26,7 @@
   {
     "objectID": "sessions/week-04.html#session-outline",
     "href": "sessions/week-04.html#session-outline",
-    "title": "Week 4: Presentation of Action Plans",
+    "title": "Session 04: Presentation of Action Plans",
     "section": "Session Outline",
     "text": "Session Outline\n\n\n1. Muddiest point (variable, approx. 10 min)\n\nAddressing points of confusion raised after Session 3.\n\n2. Presentation of Action Plans (variable, 6 min per participant)\n\nCurrent state, opportunities identified, developed session (learning outcomes, activities, assessment); listeners take notes and prepare feedback.\n\n3. Synthesis (10 min)\n\nKey insights across the presented action plans (challenges, need for further support, etc.).\n\n\n4. Group discussion: collaboration opportunities (10 min)\n\n5. Harvesting of the group discussion (10 min)\n\nHighlights, synergies, commonalities.\n\n\n6. Open Q&A (10 min)\n7. Main learnings from the course and course evaluation (variable, approx. 10 min)",
     "crumbs": [
@@ -83,9 +38,9 @@
   {
     "objectID": "sessions/week-04.html#materials",
     "href": "sessions/week-04.html#materials",
-    "title": "Week 4: Presentation of Action Plans",
+    "title": "Session 04: Presentation of Action Plans",
     "section": "Materials",
-    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nWeek 4 slides (PowerPoint, 19 slides)\nWeek 4 Reader (background reading) · PDF\n\n\n\nOptional / going deeper\n\nParticipants’ own completed ESD Action Plans (Tasks after Sessions 1-3), the core “material” of this session.",
+    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nSession 04 slides (PowerPoint, 19 slides)\nSession 04 Reader (background reading) · Reader as PDF\n\n\n\nOptional / going deeper\n\nParticipants’ own completed ESD Action Plans (Tasks after Sessions 1-3), the core “material” of this session.",
     "crumbs": [
       "Home",
       "Sessions",
@@ -95,7 +50,7 @@
   {
     "objectID": "sessions/week-04.html#preparation-tasks-learning-activities",
     "href": "sessions/week-04.html#preparation-tasks-learning-activities",
-    "title": "Week 4: Presentation of Action Plans",
+    "title": "Session 04: Presentation of Action Plans",
     "section": "Preparation tasks & learning activities",
     "text": "Preparation tasks & learning activities\n\n\n\n\n\n\nBefore the session\nFinalize the ESD Action Plan (Tasks after Sessions 1-3) and prepare a short (approx. 6-minute) presentation of it.\n\n\n\n\n\n\n\n\n\nDuring the session\n\nPresent (or submit a recorded presentation of) your action plan.\nTake notes and prepare constructive feedback on other participants’ presentations.\nContribute to the group discussion on collaboration opportunities.\nComplete the course evaluation survey.\n\n\n\n\n\n\n\n\n\n\nAfter the session\nNo formal task is defined in the course materials after this closing session. Consider suggesting, as an optional next step, that participants share their action plan with their department or apply it in an upcoming course.",
     "crumbs": [
@@ -107,9 +62,9 @@
   {
     "objectID": "sessions/week-04.html#recommendation-for-facilitation",
     "href": "sessions/week-04.html#recommendation-for-facilitation",
-    "title": "Week 4: Presentation of Action Plans",
+    "title": "Session 04: Presentation of Action Plans",
     "section": "Recommendation for facilitation",
-    "text": "Recommendation for facilitation\n\nUse a shared virtual board (e.g. Miro) for noting down the collaboration-opportunities discussion, and a live polling tool (e.g. Menti) for the “main learnings” question.\nIn a live session, the “main learnings of the course” question works well as an open plenary discussion following the live poll, giving participants a chance to hear and build on each other’s takeaways, not just see them aggregated. In a self-paced/asynchronous format, replace this with an individual written reflection using the same prompt.\nSince action plans span many disciplines, structure peer feedback prompts to ask specifically how a presented idea could translate to a different field, not just whether it works well within its own discipline; this is where the cross-disciplinary value of the session lies.\nWhere a fully live session with all participants is not feasible, keep the peer-feedback element by running a time-boxed asynchronous window with recorded presentations and written comments, rather than dropping it.\nClosing evaluation: the course should close with an evaluation, adapted to reflect the actual format in which it was delivered, the content covered, the delivery mode (live vs. self-paced vs. hybrid), and, where relevant, the specific adaptations made for that cohort’s context.\n\n\n\n← Session 03 | Back to all sessions | Session 05 →",
+    "text": "Recommendation for facilitation\n\nUse a shared virtual board (e.g. Miro) for noting down the collaboration-opportunities discussion, and a live polling tool (e.g. Menti) for the “main learnings” question.\nIn a live session, the “main learnings of the course” question works well as an open plenary discussion following the live poll, giving participants a chance to hear and build on each other’s takeaways, not just see them aggregated. In a self-paced/asynchronous format, replace this with an individual written reflection using the same prompt.\nSince action plans span many disciplines, structure peer feedback prompts to ask specifically how a presented idea could translate to a different field, not just whether it works well within its own discipline; this is where the cross-disciplinary value of the session lies.\nWhere a fully live session with all participants is not feasible, keep the peer-feedback element by running a time-boxed asynchronous window with recorded presentations and written comments, rather than dropping it.\nClosing evaluation: the course should close with an evaluation, adapted to reflect the actual format in which it was delivered, the content covered, the delivery mode (live vs. self-paced vs. hybrid), and, where relevant, the specific adaptations made for that cohort’s context.\n\n\n\n← Session 03 | Back to all sessions",
     "crumbs": [
       "Home",
       "Sessions",
@@ -117,21 +72,9 @@
     ]
   },
   {
-    "objectID": "sessions/week-03.html",
-    "href": "sessions/week-03.html",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
-    "section": "",
-    "text": "Week 3 Self-paced online · 95-105 min Plenary\n\n\n\nThis session turns from concepts to course design. It introduces Education for Sustainable Development as a distinct pedagogical approach, and constructive alignment as the design tool that translates ESD principles into a concrete, well-aligned course unit or course.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Session 03"
-    ]
-  },
-  {
     "objectID": "sessions/week-03.html#session-overview",
     "href": "sessions/week-03.html#session-overview",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Session Overview",
     "text": "Session Overview\n\n\n\n\n\n\n\nFormat\nSelf-paced online module (adaptable for live/synchronous delivery)\n\n\nDuration\nApprox. 95-105 min self-paced (equivalent to a 2h live session)\n\n\nPreparation for participants\nCompletion of Session 2, including the “identify opportunities” task",
     "crumbs": [
@@ -143,7 +86,7 @@
   {
     "objectID": "sessions/week-03.html#learning-objectives",
     "href": "sessions/week-03.html#learning-objectives",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Learning Objectives",
     "text": "Learning Objectives\nBy the end of this session, participants will be able to:\n\nGain an understanding of the principles and importance of Education for Sustainable Development (ESD).\nGain an understanding of the concept of constructive alignment in designing effective courses.",
     "crumbs": [
@@ -155,7 +98,7 @@
   {
     "objectID": "sessions/week-03.html#session-outline",
     "href": "sessions/week-03.html#session-outline",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Session Outline",
     "text": "Session Outline\n\n\n1. Opening plenary discussion (10 min)\n\nRecap of the Session 2 task, opportunities identified and disciplinary links to SD.\n\n\n2. Introduction to ESD (25 min)\n\n3. Discussion/reflection (10 min)\n\nTeaching principles participants already apply.\n\n\n4. Introduction to Constructive Alignment (25 min)\n\n5. Examples of Constructive Alignment (15 min)\n\nLand degradation, urban migration.\n\n\n6. Reflection (“muddiest point”)\n7. Task after Session 3 (session development) and outlook on Session 4.",
     "crumbs": [
@@ -167,9 +110,9 @@
   {
     "objectID": "sessions/week-03.html#materials",
     "href": "sessions/week-03.html#materials",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Materials",
-    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nWeek 3 slides (PowerPoint, 48 slides)\nWeek 3 Reader (background reading) · PDF\n\n\n\nOptional / going deeper\n\nRieckmann, M. (2018). Learning to transform the world: Key competencies in Education for Sustainable Development.\nTejedor et al. (2019). Didactic strategies to promote competencies in sustainability.\nHerweg et al. (2021). Transdisciplinary Learning for Sustainable Development (textbook, chapter on constructive alignment).\nUNESCO (2023). What you need to know about education for sustainable development.\nUNESCO. Berlin Declaration on Education for Sustainable Development (2021).",
+    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nSession 03 slides (PowerPoint, 48 slides)\nSession 03 Reader (background reading) · Reader as PDF\n\n\n\nOptional / going deeper\n\nRieckmann, M. (2018). Learning to transform the world: Key competencies in Education for Sustainable Development.\nTejedor et al. (2019). Didactic strategies to promote competencies in sustainability.\nHerweg et al. (2021). Transdisciplinary Learning for Sustainable Development (textbook, chapter on constructive alignment).\nUNESCO (2023). What you need to know about education for sustainable development.\nUNESCO. Berlin Declaration on Education for Sustainable Development (2021).",
     "crumbs": [
       "Home",
       "Sessions",
@@ -179,7 +122,7 @@
   {
     "objectID": "sessions/week-03.html#preparation-tasks-learning-activities",
     "href": "sessions/week-03.html#preparation-tasks-learning-activities",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Preparation tasks & learning activities",
     "text": "Preparation tasks & learning activities\n\n\n\n\n\n\nBefore the session\nHave the Session 2 task (opportunities to incorporate SD into your course) at hand; it is revisited at the start of this session.\n\n\n\n\n\n\n\n\n\nDuring the session\n\nComplete the reflection on teaching principles you currently apply.\nWork through the two worked examples of constructive alignment (land degradation, urban migration).\nComplete the “muddiest point” reflection.\n\n\n\n\n\n\n\n\n\n\nAfter the session\nTask after Session 3, session development: find a topic related to SD in your own discipline and develop a lesson/session using constructive alignment, at least three learning outcomes, suitable learning activities, and a matching assessment format. Prepare a short (approx. 6-minute) presentation of your action plan for Session 4.",
     "crumbs": [
@@ -191,7 +134,7 @@
   {
     "objectID": "sessions/week-03.html#recommendation-for-facilitation",
     "href": "sessions/week-03.html#recommendation-for-facilitation",
-    "title": "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Recommendation for facilitation",
     "text": "Recommendation for facilitation\n\nUse a shared digital board (e.g. Padlet) or an equivalent tool for the “muddiest point” task, so responses can be reviewed and addressed collectively. As facilitator, review all “muddiest points” before the next session and prepare answers for the questions raised.\nAfter presenting the land degradation and urban migration examples, ask participants to sketch how the same three-element alignment could look for a topic in their own discipline, this is where transfer actually happens.\nThe “teaching principles” reflection works well as a cross-disciplinary sharing moment: participants from different fields often name different principles.\n\n\n\n← Session 02 | Session 04 →",
     "crumbs": [
@@ -201,21 +144,9 @@
     ]
   },
   {
-    "objectID": "sessions/week-02.html",
-    "href": "sessions/week-02.html",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
-    "section": "",
-    "text": "Week 2 Self-paced online · 90-100 min Plenary\n\n\n\nThis session moves from the three sustainability dimensions treated separately in Week 1 to how they interlink in practice, and introduces the role of science, higher education, and individual disciplines, including participants’ own, in advancing sustainable development.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Session 02"
-    ]
-  },
-  {
     "objectID": "sessions/week-02.html#session-overview",
     "href": "sessions/week-02.html#session-overview",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Session Overview",
     "text": "Session Overview\n\n\n\n\n\n\n\nFormat\nSelf-paced online module (adaptable for live/synchronous delivery)\n\n\nDuration\nApprox. 90-100 min self-paced (equivalent to a 2h live session)\n\n\nPreparation for participants\nCompletion of Session 1, including the “Review of course content” task",
     "crumbs": [
@@ -227,7 +158,7 @@
   {
     "objectID": "sessions/week-02.html#learning-objectives",
     "href": "sessions/week-02.html#learning-objectives",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Learning Objectives",
     "text": "Learning Objectives\nBy the end of this session, participants will be able to:\n\nExamine the interlinkages between the social, economic, and environmental dimensions of sustainable development.\nDefine the role of science and higher education in addressing sustainability challenges, including their own role as lecturers.\nReflect on the potential contributions of their own discipline to sustainable development.",
     "crumbs": [
@@ -239,7 +170,7 @@
   {
     "objectID": "sessions/week-02.html#session-outline",
     "href": "sessions/week-02.html#session-outline",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Session Outline",
     "text": "Session Outline\n\n\n1. Interlinkages of Sustainability Dimensions (25 min)\n\nInput, example, and group work.\n\n2. Role of Science and Higher Education (20 min)\n\nInput and examples.\n\n\n3. Reflecting on Disciplinary Contributions (5 min)\n\n4. Discussion/reflection (10 min)\n\nThe role of higher education at participants’ own university.\n\n\n5. Links between Disciplines and Sustainable Development (15 min)\n6. Key messages and FAQ (5 min)\n\n7. Task after Session 2 (10 min)\n\nIdentify opportunities to incorporate SD into your course.",
     "crumbs": [
@@ -251,9 +182,9 @@
   {
     "objectID": "sessions/week-02.html#materials",
     "href": "sessions/week-02.html#materials",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Materials",
-    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nWeek 2 slides (PowerPoint, 54 slides)\nWeek 2 Reader (background reading) · PDF\n\n\n\nOptional / going deeper\n\nJahn, Bergmann & Keil (2012). Transdisciplinarity: Between mainstreaming and marginalization.\nSchneider & Buser (2018). Promising degrees of stakeholder interaction in research for sustainable development.\nHerweg et al. (2021). Transdisciplinary Learning for Sustainable Development (textbook).\nHerweg et al. (2017). Integrating Sustainable Development into Higher Education, Guidelines for the University of Bern.\nSDG “wedding cake” animation (Stockholm Resilience Centre, YouTube).\nPrice et al. (2021). Supporting the role of universities in leading individual and societal transformation through ESD.",
+    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nSession 02 slides (PowerPoint, 54 slides)\nSession 02 Reader (background reading) · Reader as PDF\n\n\n\nOptional / going deeper\n\nJahn, Bergmann & Keil (2012). Transdisciplinarity: Between mainstreaming and marginalization.\nSchneider & Buser (2018). Promising degrees of stakeholder interaction in research for sustainable development.\nHerweg et al. (2021). Transdisciplinary Learning for Sustainable Development (textbook).\nHerweg et al. (2017). Integrating Sustainable Development into Higher Education, Guidelines for the University of Bern.\nSDG “wedding cake” animation (Stockholm Resilience Centre, YouTube).\nPrice et al. (2021). Supporting the role of universities in leading individual and societal transformation through ESD.",
     "crumbs": [
       "Home",
       "Sessions",
@@ -263,7 +194,7 @@
   {
     "objectID": "sessions/week-02.html#preparation-tasks-learning-activities",
     "href": "sessions/week-02.html#preparation-tasks-learning-activities",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Preparation tasks & learning activities",
     "text": "Preparation tasks & learning activities\n\n\n\n\n\n\nBefore the session\nSubmit or review the Task after Session 1 (review of course content).\n\n\n\n\n\n\n\n\n\nDuring the session\n\nComplete the group/individual exercise mapping the three dimensions onto a chosen sustainability challenge.\nComplete the discussion/reflection on the role of higher education at your own institution, and reflect on your own role.\nComplete the discipline-SD linkage mapping task.\n\n\n\n\n\n\n\n\n\n\nAfter the session\nTask after Session 2, identify opportunities to incorporate SD into your course: consider the SDGs (and other frameworks, according to your context), global sustainability challenges, or different sustainability perspectives, and articulate what links your own discipline has with sustainable development.",
     "crumbs": [
@@ -275,7 +206,7 @@
   {
     "objectID": "sessions/week-02.html#recommendation-for-facilitation",
     "href": "sessions/week-02.html#recommendation-for-facilitation",
-    "title": "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Recommendation for facilitation",
     "text": "Recommendation for facilitation\n\nFor the “role of lecturer/educator” exercise, use a live polling tool (e.g. Mentimeter) if run synchronously; if used as a self-paced delivery, replace it with a structured written reflection using the same prompt.\nThe Ethiopia/Kenya case studies and the Bern/Addis Ababa/Nairobi institutional examples are illustrations, not a fixed reference set. Adapt to your local context and/or actively invite participants to substitute examples from their own country and institution.\n\n\n\n← Session 01 | Session 03 →",
     "crumbs": [
@@ -285,21 +216,9 @@
     ]
   },
   {
-    "objectID": "sessions/week-01.html",
-    "href": "sessions/week-01.html",
-    "title": "Week 1: Introduction to Sustainable Development",
-    "section": "",
-    "text": "Week 1 Self-paced online · 90-100 min Plenary\n\n\n\nThe opening session introduces the foundational concept of sustainable development, its historical development, and the global challenges it responds to, closing with a first reflection on the relevance of these concepts in participants’ own context.",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Session 01"
-    ]
-  },
-  {
     "objectID": "sessions/week-01.html#session-overview",
     "href": "sessions/week-01.html#session-overview",
-    "title": "Week 1: Introduction to Sustainable Development",
+    "title": "Session 01: Introduction to Sustainable Development",
     "section": "Session Overview",
     "text": "Session Overview\n\n\n\n\n\n\n\nFormat\nSelf-paced online module (structure can be adapted for a live/synchronous session)\n\n\nDuration\nApprox. 90-100 min self-paced (equivalent to a 2h live session)\n\n\nPreparation for participants\nNone (opening session of the course)",
     "crumbs": [
@@ -311,7 +230,7 @@
   {
     "objectID": "sessions/week-01.html#learning-objectives",
     "href": "sessions/week-01.html#learning-objectives",
-    "title": "Week 1: Introduction to Sustainable Development",
+    "title": "Session 01: Introduction to Sustainable Development",
     "section": "Learning Objectives",
     "text": "Learning Objectives\nBy the end of this session, participants will be able to:\n\nDefine sustainable development and its core principles.\nIdentify key challenges that sustainability aims to address.\nDiscuss the relevance of sustainable development in their own national context.",
     "crumbs": [
@@ -323,7 +242,7 @@
   {
     "objectID": "sessions/week-01.html#session-outline",
     "href": "sessions/week-01.html#session-outline",
-    "title": "Week 1: Introduction to Sustainable Development",
+    "title": "Session 01: Introduction to Sustainable Development",
     "section": "Session Outline",
     "text": "Session Outline\n\n\n1. Introduction (3 min)\n\nWelcome, course outline, learning outcomes.\n\n2. Opening reflection (5 min)\n\n“Earth from space” impulse.\n\n3. Defining Sustainable Development (10-12 min)\n\nBrundtland definition, the three dimensions, Agenda 2063, the SDGs.\n\n4. Exercise: relevance of SDGs (8 min)\n\nHow the SDGs, or other national frameworks, relate to participants’ own work.\n\n5. Sustainability Challenges (10 min)\n\nOverview of the global challenges sustainable development responds to.\n\n6. Reflection: challenges in context (15 min)\n\nSustainability challenges in participants’ own national/local context.\n\n7. Sustainability Theories and UN Conferences (20-25 min)\n\nHistorical development of sustainability thinking and the milestone UN conferences.\n\n\n8. Key messages and FAQ (5 min)\n9. Reflection: key takeaways (10 min)\n\n10. Course project introduction (10 min)\n\nIntroduction to the overall course project (ESD Action Plan) and the task after Session 1.",
     "crumbs": [
@@ -335,9 +254,9 @@
   {
     "objectID": "sessions/week-01.html#materials",
     "href": "sessions/week-01.html#materials",
-    "title": "Week 1: Introduction to Sustainable Development",
+    "title": "Session 01: Introduction to Sustainable Development",
     "section": "Materials",
-    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nWeek 1 slides (PowerPoint, 51 slides)\nWeek 1 Reader (background reading) · PDF\n\n\n\nOptional / going deeper\n\nMeadows et al. (1972). The Limits to Growth.\nWorld Commission on Environment and Development (1987). Our Common Future (Brundtland Report).\nRaworth, K. (2017). Doughnut Economics.\nPascual et al. (2023). Diverse values of nature for sustainability. Nature.\nWorld Economic Forum (2023). The Global Risks Report 2023.\nGlobal Sustainable Development Report 2023 (UN).",
+    "text": "Materials\n\n\nRequired reading\n\nNone separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.\n\nSlides\n\nSession 01 slides (PowerPoint, 51 slides)\nSession 01 Reader (background reading) · Reader as PDF\n\n\n\nOptional / going deeper\n\nMeadows et al. (1972). The Limits to Growth.\nWorld Commission on Environment and Development (1987). Our Common Future (Brundtland Report).\nRaworth, K. (2017). Doughnut Economics.\nPascual et al. (2023). Diverse values of nature for sustainability. Nature.\nWorld Economic Forum (2023). The Global Risks Report 2023.\nGlobal Sustainable Development Report 2023 (UN).",
     "crumbs": [
       "Home",
       "Sessions",
@@ -347,7 +266,7 @@
   {
     "objectID": "sessions/week-01.html#preparation-tasks-learning-activities",
     "href": "sessions/week-01.html#preparation-tasks-learning-activities",
-    "title": "Week 1: Introduction to Sustainable Development",
+    "title": "Session 01: Introduction to Sustainable Development",
     "section": "Preparation tasks & learning activities",
     "text": "Preparation tasks & learning activities\n\n\n\n\n\n\nBefore the session\nNone required. Optional: think of a recent local or global event that made you reflect on sustainability, to bring into the opening exercise.\n\n\n\n\n\n\n\n\n\nDuring the session\n\nComplete the “Earth from space” opening reflection.\nWork through the SDG/other national framework relevance exercise.\nComplete the national/local context reflection.\nComplete the closing key-takeaways reflection.\n\n\n\n\n\n\n\n\n\n\nAfter the session\nTask after Session 1, review of course content: reflect on how sustainable development is currently integrated into your own teaching practice, evaluate your existing course content and syllabi, and identify areas for strengthening this integration. This feeds into the overall course project (ESD Action Plan).",
     "crumbs": [
@@ -359,7 +278,7 @@
   {
     "objectID": "sessions/week-01.html#recommendation-for-facilitation",
     "href": "sessions/week-01.html#recommendation-for-facilitation",
-    "title": "Week 1: Introduction to Sustainable Development",
+    "title": "Session 01: Introduction to Sustainable Development",
     "section": "Recommendation for facilitation",
     "text": "Recommendation for facilitation\n\nUse an interactive polling tool (e.g. Mentimeter) for the “Earth from space” word-cloud opening in a live session.\nKeep the SDG relevance exercise open-ended rather than pre-selecting example goals, so participants from different disciplines can each anchor it to their own field.\nGiven how much content the theories section covers, split it into two shorter learning units (historical milestones 1970-2000; contemporary frameworks 2009-2023) rather than one long block.\nFor the Ethiopia/Kenya pilot cohorts, pairing the UN SDGs with the AU Agenda 2063 resonated well as a regionally grounded complement to the global framework. When adapting this course for participants elsewhere, look for a comparable regional or national framework to pair with the SDGs, since Agenda 2063 will not be equally relevant to all users of this course.\n\n\n\n← Back to all sessions | Session 02 →",
     "crumbs": [
@@ -405,7 +324,7 @@
     "href": "index.html#course-sessions",
     "title": "CDE - Open Education Resources",
     "section": "Course Sessions",
-    "text": "Course Sessions\n\nThe course consists of four sessions, each building on the previous one through a cumulative, individual project — the ESD Action Plan. Across the four sessions, participants develop their own ESD Action Plan: a concrete, ready-to-use lesson or session that integrates sustainable development into their own teaching, grounded in their own discipline and institutional context.\n\n\n\n\n\n\n\nFoundations\n\nSession 01: Introduction to Sustainable Development\nParticipants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.\n\n\n\nView session\n\n\n\n\n\n\n\nFoundations\n\nSession 02: Interlinkages of Sustainability Dimensions and Role of Science & Education\nParticipants examine the links between social, economic, and environmental dimensions of sustainable development.\n\n\n\nView session\n\n\n\n\n\n\n\nFoundations\n\nSession 03: Education for Sustainable Development (ESD) & Constructive Alignment\nParticipants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.\n\n\n\nView session\n\n\n\n\n\n\n\nPresentations\n\nSession 04: Presentation of Action Plans\nParticipants present the action plan they have developed on how to integrate (E)SD into their own teaching. .\n\n\n\nView session\n\n\n\n\n\n\n\nReflexions\n\nSession 05: Reflection session\nParticipants provide feedback on course content, structure, etc.\n\n\n\nView session",
+    "text": "Course Sessions\n\nThe course consists of four sessions, each building on the previous one through a cumulative, individual project — the ESD Action Plan. Across the four sessions, participants develop their own ESD Action Plan: a concrete, ready-to-use lesson or session that integrates sustainable development into their own teaching, grounded in their own discipline and institutional context.\n\n\n\n\n\n\n\nFoundations\n\nSession 01: Introduction to Sustainable Development\nParticipants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.\n\n\n\nView session\n\n\n\n\n\n\n\nFoundations\n\nSession 02: Interlinkages of Sustainability Dimensions and Role of Science & Education\nParticipants examine the links between social, economic, and environmental dimensions of sustainable development.\n\n\n\nView session\n\n\n\n\n\n\n\nFoundations\n\nSession 03: Education for Sustainable Development (ESD) & Constructive Alignment\nParticipants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.\n\n\n\nView session\n\n\n\n\n\n\n\nPresentations\n\nSession 04: Presentation of Action Plans\nParticipants present the action plan they have developed on how to integrate (E)SD into their own teaching. .\n\n\n\nView session",
     "crumbs": [
       "Home"
     ]
@@ -415,7 +334,17 @@
     "href": "index.html#adapt-this-course",
     "title": "CDE - Open Education Resources",
     "section": "Adapt This Course",
-    "text": "Adapt This Course\nThis course is designed to be adopted and adapted by Higher Education Institutions worldwide. Materials are modular — individual sessions can be integrated without running the full course. Each session includes a recommendations for facilitation.\n\n\n\n\n\n\nPositionality & cultural context\nAdd disclaimer for positionality and adaptation to cultural context here.\n\n\n\n→ Full adaptation guide\n\n⚖️\n\nOpen License. All materials are published under CC BY 4.0 unless stated otherwise. You are free to share and adapt for any purpose with attribution to CDE, University of Bern.",
+    "text": "Adapt This Course\nThis course is designed to be adopted and adapted by Higher Education Institutions worldwide. Materials are modular — individual sessions can be integrated without running the full course. Each session includes a recommendations for facilitation.\n\n\n\n\n\n\nPositionality & cultural context\nAdd disclaimer for positionality and adaptation to cultural context here.\n\n\n\n→ Full adaptation guide\n\n⚖️\n\nOpen License. All materials are published under CC BY-NC-SA 4.0 unless stated otherwise. You are free to share and adapt for non-commercial purposes, with attribution to CDE, University of Bern, and under the same license.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#authors",
+    "href": "index.html#authors",
+    "title": "CDE - Open Education Resources",
+    "section": "Authors",
+    "text": "Authors\n\nSwitzerland\n\n\n\n\n\n\n\nDr. Isabelle Providoli\nCentre for Development and Environment, University of Bern\n\n\n\n\n\n\n\nAnna Lewis\nCentre for Development and Environment, University of Bern\n\n\n\n\n\n\n\nDr. Brigitte Portner\nCentre for Development and Environment, University of Bern\n\n\n\n\n\n\n\nTina Hirschbuehl\nCentre for Development and Environment, University of Bern\n\n\n\n\nEthiopia\n\n\n\n\n\n\n\nDr. Dawit Mekonnen\nCollege of Education and Behavioral Studies, Addis Ababa University\n\n\n\n\n\n\n\nAnteneh Gebremariam\nCollege of Education and Behavioral Studies, Addis Ababa University\n\n\n\n\n\n\n\nDr. Gete Zeleke\nWater and Land Resource Centre, Addis Ababa\n\n\n\n\nKenya\n\n\n\n\n\n\n\nDr. Boniface Kiteme\nCentre for Training and Integrated Research on ASAL Development\n\n\n\n\n\n\n\nDr. Boniface Wambua\nDepartment of Geography, Population and Environmental Studies, University of Nairobi",
     "crumbs": [
       "Home"
     ]
@@ -436,7 +365,7 @@
     "href": "adapt.html#adapting-this-course",
     "title": "Adapt & Reuse",
     "section": "Adapting This Course",
-    "text": "Adapting This Course\n\nThis course is designed to be adopted and adapted by Higher Education Institutions worldwide. Everything here — sessions, slides, frameworks, assessment designs — is published under CC BY 4.0. You are free to take what you need, leave what you don’t, and build something better. This page explains how.\n\n\n\n\n1. Use individual sessions\nYou do not need to run the whole course. Any session can stand alone as a guest lecture, workshop module, or seminar input. Each session page is self-contained with learning objectives, materials, tasks, and a localisation note.\nHow: Download the session QMD file from GitHub, or copy the content into your own course design.\n\n\n2. Swap in local case studies\nEvery session includes a localisation note — a yellow panel at the bottom of the page — that guides you on how to replace our default examples (often European or generic global) with cases from your own regional context.\nHow: Follow the localisation note. If you develop a strong local example, please share it via a GitHub pull request so other institutions can benefit.\n\n\n3. Translate\nAll materials are licensed for translation. A German version is in preparation at CDE. If you translate materials into another language, please notify the course team so we can link to your version from the repository.\nHow: Fork the GitHub repository, edit the QMD files, and publish your translated version.\n\n\n4. Remix and extend\nAdd sessions, change the sequence, integrate your own assessments, or embed this course within a larger programme. The Quarto format makes structural edits straightforward.\nHow: Fork the repository. The _quarto.yml navigation and sessions/index.qmd listing control the structure. _variables.yml lets you update course metadata in one place.\n\n\n5. Run a co-taught version\nThis course was designed for co-teaching across institutions. The case presentations (Weeks 9–10) and the field session (Week 11) are especially powerful when run jointly between partner institutions via video link.\nHow: Contact the CDE coordination team at cde@unibe.ch to discuss scheduling a joint cohort with another partner institution.\n\n\n6. Contribute back\nThe course improves when institutions share what they changed and why. Contributions welcome: new case studies, updated readings, improved localisation notes, translations, additional sessions.\nHow: Open an issue or pull request on the GitHub repository. All contributors are acknowledged in the course team page.",
+    "text": "Adapting This Course\n\nThis course is designed to be adopted and adapted by Higher Education Institutions worldwide. Everything here — sessions, slides, frameworks, assessment designs — is published under CC BY-NC-SA 4.0. You are free to take what you need, leave what you don’t, and build something better, for non-commercial purposes and under the same license. This page explains how.\n\n\n\n\n1. Use individual sessions\nYou do not need to run the whole course. Any session can stand alone as a guest lecture, workshop module, or seminar input. Each session page is self-contained with learning objectives, materials, tasks, and a localisation note.\nHow: Download the session QMD file from GitHub, or copy the content into your own course design.\n\n\n2. Swap in local case studies\nEvery session includes a localisation note — a yellow panel at the bottom of the page — that guides you on how to replace our default examples (often European or generic global) with cases from your own regional context.\nHow: Follow the localisation note. If you develop a strong local example, please share it via a GitHub pull request so other institutions can benefit.\n\n\n3. Translate\nAll materials are licensed for translation. A German version is in preparation at CDE. If you translate materials into another language, please notify the course team so we can link to your version from the repository.\nHow: Fork the GitHub repository, edit the QMD files, and publish your translated version.\n\n\n4. Remix and extend\nAdd sessions, change the sequence, integrate your own assessments, or embed this course within a larger programme. The Quarto format makes structural edits straightforward.\nHow: Fork the repository. The _quarto.yml navigation and sessions/index.qmd listing control the structure. _variables.yml lets you update course metadata in one place.\n\n\n5. Run a co-taught version\nThis course was designed for co-teaching across institutions. The Session 04 presentations are especially powerful when run jointly between partner institutions via video link.\nHow: Contact the CDE coordination team at cde@unibe.ch to discuss scheduling a joint cohort with another partner institution.\n\n\n6. Contribute back\nThe course improves when institutions share what they changed and why. Contributions welcome: new case studies, updated readings, improved localisation notes, translations, additional sessions.\nHow: Open an issue or pull request on the GitHub repository. All contributors are acknowledged in the repository’s commit history and contributor list.",
     "crumbs": [
       "Home",
       "Adapt & Reuse"
@@ -458,7 +387,7 @@
     "href": "adapt.html#attribution",
     "title": "Adapt & Reuse",
     "section": "Attribution",
-    "text": "Attribution\nWhen using or adapting these materials, please attribute as follows:\n\n[Course name]. Developed by the Centre for Development and Environment (CDE), University of Bern, and partner institutions. Licensed under CC BY 4.0.\n\nA link back to the original repository is appreciated but not required.",
+    "text": "Attribution\nWhen using or adapting these materials, please attribute as follows:\n\n[Course name]. Developed by the Centre for Development and Environment (CDE), University of Bern, and partner institutions. Licensed under CC BY-NC-SA 4.0.\n\nA link back to the original repository is appreciated but not required.",
     "crumbs": [
       "Home",
       "Adapt & Reuse"
@@ -469,7 +398,7 @@
     "href": "adapt.html#contact",
     "title": "Adapt & Reuse",
     "section": "Contact",
-    "text": "Contact\nQuestions about adaptation, co-teaching, or contributing materials:\nCentre for Development and Environment (CDE) University of Bern cde@unibe.ch https://www.cde.unibe.ch\n\n\n⚖️\n\nOpen License. All materials are published under CC BY 4.0 unless stated otherwise. You are free to share and adapt for any purpose with attribution.",
+    "text": "Contact\nQuestions about adaptation, co-teaching, or contributing materials:\nCentre for Development and Environment (CDE) University of Bern cde@unibe.ch https://www.cde.unibe.ch\n\n\n⚖️\n\nOpen License. All materials are published under CC BY-NC-SA 4.0 unless stated otherwise. You are free to share and adapt for non-commercial purposes, with attribution and under the same license.",
     "crumbs": [
       "Home",
       "Adapt & Reuse"
@@ -513,7 +442,7 @@
     "href": "resources.html#slide-decks",
     "title": "Resources",
     "section": "Slide Decks",
-    "text": "Slide Decks\n\nWeek 1 slides (PowerPoint, 51 slides)\nWeek 2 slides (PowerPoint, 54 slides)\nWeek 3 slides (PowerPoint, 48 slides)\nWeek 4 slides (PowerPoint, 19 slides)\nWeek 5 slides: not yet available (no Session 5 materials exist yet)\nWeek 6 slides (PDF)",
+    "text": "Slide Decks\n\nSession 01 slides (PowerPoint, 51 slides)\nSession 02 slides (PowerPoint, 54 slides)\nSession 03 slides (PowerPoint, 48 slides)\nSession 04 slides (PowerPoint, 19 slides)\nSession 05 slides: not yet available (no Session 05 materials exist yet)",
     "crumbs": [
       "Home",
       "Resources"
@@ -535,7 +464,7 @@
     "href": "resources.html#reflection-journal-guidelines",
     "title": "Resources",
     "section": "Reflection Journal Guidelines",
-    "text": "Reflection Journal Guidelines\nThe reflection journal is a weekly 300–400 word entry responding to a prompt from each session. Entries are submitted via the course platform within one week of each session.\nGrading: Journals are graded holistically at the end of the course on depth of engagement (40%), use of course concepts (40%), and intellectual honesty — including expressing genuine uncertainty (20%). There is no penalty for “wrong” answers; the journal rewards careful thinking.\n\n\n⚖️\n\nAll course materials are published under CC BY 4.0. Where external readings are cited, copyright remains with the original publishers.",
+    "text": "Reflection Journal Guidelines\nThe reflection journal is a weekly 300–400 word entry responding to a prompt from each session. Entries are submitted via the course platform within one week of each session.\nGrading: Journals are graded holistically at the end of the course on depth of engagement (40%), use of course concepts (40%), and intellectual honesty — including expressing genuine uncertainty (20%). There is no penalty for “wrong” answers; the journal rewards careful thinking.\n\n\n⚖️\n\nAll course materials are published under CC BY-NC-SA 4.0. Where external readings are cited, copyright remains with the original publishers.",
     "crumbs": [
       "Home",
       "Resources"
@@ -544,216 +473,204 @@
   {
     "objectID": "sessions/week-01-reader.html",
     "href": "sessions/week-01-reader.html",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "",
-    "text": "This reader expands on the Week 1 slides: it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a downloadable PDF."
+    "text": "This reader expands on the Session 01 slides: it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a downloadable PDF."
   },
   {
     "objectID": "sessions/week-01-reader.html#why-sustainable-development-framing-the-session",
     "href": "sessions/week-01-reader.html#why-sustainable-development-framing-the-session",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Why “sustainable development”? Framing the session",
     "text": "Why “sustainable development”? Framing the session\nThe session opens with the 1968 “Earthrise” photograph, taken during the Apollo 8 mission, the first time humans saw the whole Earth from space. The image is used deliberately, not as decoration: it is widely credited with shifting public perception of the planet from an unlimited backdrop for human activity to something small, bounded, and shared. That shift, from an implicitly limitless world to a finite one, is the intuitive starting point for everything that follows in this course."
   },
   {
     "objectID": "sessions/week-01-reader.html#defining-sustainable-development",
     "href": "sessions/week-01-reader.html#defining-sustainable-development",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Defining Sustainable Development",
     "text": "Defining Sustainable Development\nThe most widely used definition of sustainable development comes from the 1987 report Our Common Future, produced by the World Commission on Environment and Development (WCED) under the Norwegian Prime Minister Gro Harlem Brundtland, and known ever since as the Brundtland Report:\n\n“Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”\n\nThis definition was adopted by the United Nations Conference on Environment and Development (Rio, 1992) and has since become the default global reference point, including in Switzerland’s own understanding of sustainable development. Two things are worth noticing about it: it introduces an explicit temporal dimension (present versus future generations), and it says nothing about how needs should be met, which is exactly why the concept has been filled with very different content ever since.\nAlongside the temporal dimension, sustainable development is conventionally broken down into three substantive dimensions: environment (resource management, pollution, biodiversity), society (quality of life, education, equity), and economy (employment, productivity, cost of living). This three-dimension model, used for example in Switzerland’s MONET sustainability monitoring system, is easy to communicate and therefore widespread, but it can also obscure aspects that do not map neatly onto any one of the three, such as culture, technology, or health, which is why some models extend it to four dimensions or represent the dimensions as nested (economy within society within environment) rather than as three equal, separate circles.\nThis conceptual looseness is also the concept’s main weakness: sustainable development has been criticised as conceptually fuzzy, as having no clear priority ranking between its dimensions, as blurring the line between methods and goals, and as a concept “everyone can agree to” precisely because it lacks specificity. One influential way of sharpening the concept is the distinction between weak and strong sustainability, which asks whether natural capital can be substituted by human-made capital (weak) or must be protected as a non-negotiable minimum (strong).\n📖 Textbook: Brundtland Commission · Three dimensions of sustainability · A four-dimensional model of sustainability · Weak and strong sustainability"
   },
   {
     "objectID": "sessions/week-01-reader.html#agenda-2063-and-the-sustainable-development-goals",
     "href": "sessions/week-01-reader.html#agenda-2063-and-the-sustainable-development-goals",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Agenda 2063 and the Sustainable Development Goals",
     "text": "Agenda 2063 and the Sustainable Development Goals\nIn 2015, all 193 UN member states adopted the 2030 Agenda for Sustainable Development, with its 17 Sustainable Development Goals (SDGs) and 169 targets, covering everything from poverty and hunger to climate action and institutional justice. The SDGs succeeded the earlier Millennium Development Goals (2000-2015), which had been criticised for being defined mainly by industrialised countries, lacking binding commitments, and relying on unrealistic targets.\nThe African Union’s Agenda 2063, “The Africa We Want,” is a parallel, continent-specific framework built around seven aspirations: a prosperous and integrated Africa, good governance, peace and security, a strong cultural identity, people-driven development, and a strong global role. Rather than treating Agenda 2063 as a regional footnote to the SDGs, the session presents them side by side and asks participants to work out the overlaps and gaps themselves, since the two frameworks share substantial common ground but were negotiated through different political processes.\n\n\n\n\n\n\nNote\n\n\n\nAdapting this for your own region\nAgenda 2063 pairs naturally with the SDGs for African cohorts, but it is a regional framework, not a universal complement. If you are teaching this course elsewhere, look for a comparable regional or national development framework (an ASEAN framework, an EU strategy, a national development plan) to pair with the SDGs instead, so participants can anchor the global framework in the political context they actually work in.\n\n\n📖 Textbook: The 2030 Agenda and the SDGs · Agenda 21: Think globally, act locally"
   },
   {
     "objectID": "sessions/week-01-reader.html#sustainability-challenges-why-the-urgency",
     "href": "sessions/week-01-reader.html#sustainability-challenges-why-the-urgency",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Sustainability challenges: why the urgency",
     "text": "Sustainability challenges: why the urgency\nSince 1950, almost every indicator of human activity, population, GDP, energy use, water use, fertiliser consumption, and every indicator of Earth-system change, greenhouse gas concentration, ocean acidification, biodiversity loss, has grown in a pattern that Steffen et al. (2015) call the “Great Acceleration.” The point of the graph is not any single number but the shape: near-flat for most of human history, then a sharp bend upward exactly at the mid-20th century.\nTwo further data sources are used to make the scale of the challenge concrete. The World Economic Forum’s annual Global Risks Report, based on a survey of over a thousand experts, has for several years ranked environmental risks (extreme weather, failure to mitigate climate change, biodiversity loss) among the most severe global risks over both short and long time horizons. And Fanning et al. (2022) combine planetary-boundary and social-threshold data for individual countries into a single chart: it shows that essentially no country yet manages to provide a social foundation for its population without overshooting at least one planetary boundary, which is precisely the “safe and just space” the Doughnut model (see below) is trying to define.\n📖 Textbook: Debates about planetary boundaries · From planetary boundaries to the doughnut model"
   },
   {
     "objectID": "sessions/week-01-reader.html#sustainability-theories-and-un-conferences-a-short-history",
     "href": "sessions/week-01-reader.html#sustainability-theories-and-un-conferences-a-short-history",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Sustainability theories and UN conferences: a short history",
     "text": "Sustainability theories and UN conferences: a short history\nThe session traces a timeline from 1970 to the present, alternating between theoretical milestones and international political milestones:\n\n\n\n\n\n\n\n\nYear\nTheory / concept\nInternational milestone\n\n\n\n\n1972\nLimits to Growth (Club of Rome / MIT computer models)\nUN Conference on the Human Environment, Stockholm\n\n\n1987\nThree-circles model of sustainability emerges\nBrundtland Report, Our Common Future\n\n\n1992\n\nEarth Summit, Rio de Janeiro (UNCED)\n\n\n2000\n\nMillennium Development Goals\n\n\n2009\nPlanetary Boundaries (Rockström et al.)\n\n\n\n2012\nDoughnut Model (Raworth)\nRio+20\n\n\n2013\n\nAgenda 2063 (African Union)\n\n\n2015\n\n2030 Agenda / SDGs\n\n\n\nA few of these are worth unpacking further. The Limits to Growth (1972), produced by a group of scientists associated with the Club of Rome, used some of the first computer models of global resource use to run scenarios of population, industrial output, food production, pollution, and resource depletion. Its “standard run,” assuming no change in historical patterns, showed industrial growth slowing sharply once resource depletion outpaces the ability to extract new resources, followed eventually by falling population. The book is often credited with an early use of the word “sustainable” and remains contested: critics point out it does not account well for technological change or the changing definition of what counts as a usable resource, but it was influential precisely because it was among the first attempts to model the finiteness of the Earth system formally, prefiguring today’s planetary boundaries work.\nThe 1992 Earth Summit in Rio de Janeiro brought together 179 countries and produced five major documents: the UN Framework Convention on Climate Change (UNFCCC), the Convention on Biological Diversity, the Rio Declaration on Environment and Development, Agenda 21, and a Statement of Principles on Forests, plus groundwork for what became the UN Convention to Combat Desertification. Twenty years later, Rio+20 (2012) was widely judged a comparatively modest outcome document, but it launched the process that led directly to the SDGs, and it formalised early guidelines on green economy policy.\n📖 Textbook: Club of Rome and The Limits to Growth · From Rio 1992 to today · Rio+20 · The debate about the Great Transformation"
   },
   {
     "objectID": "sessions/week-01-reader.html#whose-sustainability-worldviews-and-the-many-values-of-nature",
     "href": "sessions/week-01-reader.html#whose-sustainability-worldviews-and-the-many-values-of-nature",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Whose sustainability? Worldviews and the many values of nature",
     "text": "Whose sustainability? Worldviews and the many values of nature\nPascual et al. (2023), drawing on work for the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), argue that different worldviews shape how people relate to nature in ways that go beyond a simple pro-environment/anti-environment axis. They distinguish, broadly: living from and living in nature (anthropocentric framings, prioritising human interests), living with nature (bio- or ecocentric framings, treating other living beings or ecological processes as having value in their own right), and living as nature (pluralistic framings, emphasising the interdependence of humans, other beings, and systemic processes). The point for this course is practical, not just philosophical: a sustainability initiative designed on one of these framings (say, valuing a forest purely for its carbon-storage or tourism revenue) can look entirely different, and generate different conflicts, from one designed on another (valuing the same forest as a living system with its own integrity, or as inseparable from a community’s identity)."
   },
   {
     "objectID": "sessions/week-01-reader.html#key-messages",
     "href": "sessions/week-01-reader.html#key-messages",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Key messages",
     "text": "Key messages\n\nThe three (or more) dimensions of sustainable development are interlinked at every level, not separable in practice.\nSustainable development is a complex, internationally negotiated concept, not a fixed technical standard.\nThe challenges it responds to are accelerating, and the case for urgency is not rhetorical, it shows up directly in the data.\nContext matters: what “sustainable development” should mean and prioritise depends on where you are, and whose values and worldview are doing the defining."
   },
   {
     "objectID": "sessions/week-01-reader.html#looking-ahead-the-esd-action-plan",
     "href": "sessions/week-01-reader.html#looking-ahead-the-esd-action-plan",
-    "title": "Week 1 Reader: Introduction to Sustainable Development",
+    "title": "Session 01 Reader: Introduction to Sustainable Development",
     "section": "Looking ahead: the ESD Action Plan",
     "text": "Looking ahead: the ESD Action Plan\nSession 1 also opens the course’s overarching assignment: building an ESD Action Plan across the four sessions. After Session 1, the task is to review how sustainable development is currently reflected in your own teaching; after Session 2, to identify concrete opportunities to bring it in further; after Session 3, to design a full session using constructive alignment; and in Session 4, to present the finished plan and look for collaboration opportunities. The concepts introduced here, the dimensions, the frameworks, the historical grounding, are the vocabulary the rest of the course, and your own Action Plan, will keep returning to.\n\n\n← Back to Session 01"
   },
   {
     "objectID": "sessions/week-02-reader.html",
     "href": "sessions/week-02-reader.html",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "",
-    "text": "This reader expands on the Week 2 slides: it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone text if you are adapting this course and did not attend the live delivery. Also available as a downloadable PDF."
+    "text": "This reader expands on the Session 02 slides: it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone text if you are adapting this course and did not attend the live delivery. Also available as a downloadable PDF."
   },
   {
     "objectID": "sessions/week-02-reader.html#from-separate-dimensions-to-interlinkages",
     "href": "sessions/week-02-reader.html#from-separate-dimensions-to-interlinkages",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "From separate dimensions to interlinkages",
-    "text": "From separate dimensions to interlinkages\nWeek 1 introduced the environmental, social, and economic dimensions of sustainable development largely side by side. Week 2 starts from a simple observation: in practice, no real-world sustainability challenge stays inside one dimension. Different diagrams try to capture this differently. The classic three-circles model treats the dimensions as overlapping but separate; a concentric-circles model instead nests them, economy inside society inside environment, on the argument that society is a subsystem of the environment, and the economy in turn a subsystem of society, so an economy cannot outgrow the social and ecological systems it depends on. The SDGs’ own “wedding cake” model (Stockholm Resilience Centre) makes the same nested argument visually: a biosphere layer at the base, a society layer built on top of it, and an economy layer on top of that, with the 17 SDGs distributed across the three tiers rather than treated as a flat, unordered list.\nAn Integrated Landscape (Watershed) Management example from Ethiopia (Providoli, 2023) is used to make the interlinkage concrete rather than abstract. Bio-physical measures (rehabilitating the water cycle, improving vegetation cover to reduce erosion, compost and fuel-saving stoves) sit alongside new income-generating activities (home gardens, cash crops, beekeeping) and social-level changes (community grazing management, networking among community groups, extending responsibility to people without formal land rights). None of these measures works in isolation: a purely biophysical intervention without a matching social or economic one tends not to hold, which is exactly the “systemic perspective” the slides emphasise. The same point is made through two further, less resolved cases from Ethiopia: conflict over grazing land and water for cattle, and conflict among people over fishing rights, both cases where environmental scarcity, social relationships, and economic livelihoods are impossible to disentangle.\n📖 Textbook: Three dimensions of sustainability · A four-dimensional model of sustainability"
+    "text": "From separate dimensions to interlinkages\nSession 01 introduced the environmental, social, and economic dimensions of sustainable development largely side by side. Session 02 starts from a simple observation: in practice, no real-world sustainability challenge stays inside one dimension. Different diagrams try to capture this differently. The classic three-circles model treats the dimensions as overlapping but separate; a concentric-circles model instead nests them, economy inside society inside environment, on the argument that society is a subsystem of the environment, and the economy in turn a subsystem of society, so an economy cannot outgrow the social and ecological systems it depends on. The SDGs’ own “wedding cake” model (Stockholm Resilience Centre) makes the same nested argument visually: a biosphere layer at the base, a society layer built on top of it, and an economy layer on top of that, with the 17 SDGs distributed across the three tiers rather than treated as a flat, unordered list.\nAn Integrated Landscape (Watershed) Management example from Ethiopia (Providoli, 2023) is used to make the interlinkage concrete rather than abstract. Bio-physical measures (rehabilitating the water cycle, improving vegetation cover to reduce erosion, compost and fuel-saving stoves) sit alongside new income-generating activities (home gardens, cash crops, beekeeping) and social-level changes (community grazing management, networking among community groups, extending responsibility to people without formal land rights). None of these measures works in isolation: a purely biophysical intervention without a matching social or economic one tends not to hold, which is exactly the “systemic perspective” the slides emphasise. The same point is made through two further, less resolved cases from Ethiopia: conflict over grazing land and water for cattle, and conflict among people over fishing rights, both cases where environmental scarcity, social relationships, and economic livelihoods are impossible to disentangle.\n📖 Textbook: Three dimensions of sustainability · A four-dimensional model of sustainability"
   },
   {
     "objectID": "sessions/week-02-reader.html#the-role-of-science-from-understanding-to-transformation",
     "href": "sessions/week-02-reader.html#the-role-of-science-from-understanding-to-transformation",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "The role of science: from understanding to transformation",
     "text": "The role of science: from understanding to transformation\nThe session draws directly on the UN’s Global Sustainable Development Report (GSDR) argument that “business as usual is no longer an option” for science and higher education. The claim is specific: science should not stop at understanding human-nature interactions better, it should also actively help change those interactions along more sustainable trajectories. That reframes the research question from “what is happening?” to “how do we orient research so it also helps overcome the problems it describes?”, which in turn requires rethinking how science and society relate to each other and how relevant knowledge gets produced in the first place.\nThis is usually discussed through three research modes of increasing openness to non-academic input:\n\nDisciplinary research stays within a single discipline.\nInterdisciplinary research combines several disciplines.\nTransdisciplinary research goes a step further: Jahn, Bergmann & Keil (2012) define it as a reflexive research approach that addresses societal problems through interdisciplinary collaboration and through collaboration between researchers and non-scientific actors (policymakers, practitioners, affected communities), with the explicit aim of enabling mutual learning between science and society, not just extracting data from practitioners. Schneider & Buser (2018), reviewing 16 transdisciplinary projects, found the degree of actual stakeholder interaction varies considerably across the research phases of a project (problem framing, knowledge production, and integration/application), a reminder that “transdisciplinary” is a spectrum, not a label a project either has or lacks.\n\nA table from Herweg (CDE) lines up what sustainable development demands of research against what science can offer in response: understanding complex society-environment interrelations calls for interdisciplinary cooperation; managing “wicked problems” with incomplete knowledge and contradictory agendas calls for transdisciplinary cooperation; multi-level interactions from local to global call for multi-level, multi-stakeholder approaches; and non-linear, accelerating change calls for flexible, creative research methods, alongside teaching that builds knowledge, skills, and values together rather than knowledge alone. A worked example makes the case: research on land degradation in the Ethiopian highlands, where 80% of the population depends directly on the land, cannot be solved with biophysical methods alone, since any viable solution has to be simultaneously environmentally sound, economically viable, and socially compatible, which is only possible by integrating biophysical and socio-economic methods within one research design (Herweg et al., 2017). A parallel case from Kenya’s Ewaso Ng’iro river basin makes the same point for water: rising abstraction and seasonal drying of the river needed a combination of technical, social, and institutional solutions, plus sustained multi-level stakeholder engagement, not a purely hydrological fix.\n📖 Textbook: Sustainability science: origins and understanding · Types of knowledge for sustainable development · Empirical-analytical vs normative · Global challenges as wicked problems"
   },
   {
     "objectID": "sessions/week-02-reader.html#the-role-of-higher-education",
     "href": "sessions/week-02-reader.html#the-role-of-higher-education",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "The role of higher education",
     "text": "The role of higher education\nIf research needs to change, so does the institution that produces most of it. Price et al. (2021) argue that universities have an “untapped potential” for sustainability leadership precisely because a business-as-usual approach has not produced a breakthrough on global challenges: universities train the researchers, teachers, administrators, and private- and public-sector professionals who will go on to shape sustainable development in practice, in “many places” at once, which is a different kind of leverage than any single research project has on its own.\nThe session illustrates this with three institutional examples, not as a benchmark to copy but as a set of concrete starting points:\n\nUniversity of Bern: sustainability as one of five institutional priority topics, a commitment to climate neutrality by 2025, a cross-faculty Commission for Sustainable Development, a joint Sustainability Day with other Bern institutions, funding for student sustainability projects, a teaching grant for “Promoting SD in teaching,” specific SD degree programmes (Bachelor minors and a Master’s in Sustainability Transformations), and, notably, a mandatory double lesson on SD integrated into every Bachelor’s programme university-wide, a comparatively low-cost intervention designed for maximum reach.\nAddis Ababa University (and other Ethiopian universities): a dedicated Centre for Sustainability, solar energy use on campus, SD integrated as a taught course, and campus greening and conservation initiatives.\nUniversity of Nairobi: dedicated research centres such as the Wangari Maathai Institute of Peace and Environmental Studies, and Master’s-level programmes (biodiversity and natural resource development; sustainable urban development and environmental planning) run as integrated programmes for students from mixed disciplinary backgrounds.\n\n\n\n\n\n\n\nNote\n\n\n\nAdapting this for your own institution\nThese three institutions are illustrations, not a fixed reference set. If you are adapting this course elsewhere, replace them with sustainability initiatives from your own university, or invite participants to name their own institution’s examples during the session, the exercise works better as a mirror than as a lecture."
   },
   {
     "objectID": "sessions/week-02-reader.html#reflecting-on-disciplinary-contributions",
     "href": "sessions/week-02-reader.html#reflecting-on-disciplinary-contributions",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Reflecting on disciplinary contributions",
     "text": "Reflecting on disciplinary contributions\nThe session uses the parable of blindfolded people each touching a different part of an elephant, one feels a trunk and thinks “snake,” another a leg and thinks “tree,” and concludes: everyone is somehow right, everyone is somehow wrong, and nobody captures the full picture alone. Applied to a concrete case, rapid urbanisation in Addis Ababa, this maps onto real disciplinary fragments: green space, mobility, energy, agriculture, housing, industry, health, pollution, infrastructure, security, and communication are all genuinely part of the same problem, but each is usually studied, and taught, by a different discipline in isolation.\nHerweg et al. (2021) offer a more systematic way to locate a given discipline’s contribution to SD, since the link is often “hidden or indirect” rather than obvious. They distinguish four possible interfaces: a discipline’s research topics may connect directly to core SD issues (resource degradation, migration, globalisation); its research methodology may help measure or track key variables regardless of topic; its theory may contribute to conceptual debates about SD; and its application may have direct real-world SD impact (a new technology, a new regulation, a piece of ESD curriculum). Mapped against the three sustainability dimensions, this produces a 4×3 grid that any discipline can use to locate its own contribution. The slides work through psychology as a worked example: research topics might include behavioural interventions for pro-environmental behaviour or community resilience; methodology might range from surveys to longitudinal studies; theory might draw on the Theory of Planned Behaviour or ecopsychology; and application might mean behaviour-change campaigns or workplace well-being programmes, none of which is “environmental psychology” in name, but all of it substantively connected to SD once the grid makes the connection explicit.\nThe University of Bern’s own “Links to SD” information sheets (bne.unibe.ch) apply exactly this exercise across every discipline taught at the university, specifically to help lecturers locate their own course content within SD rather than treating sustainability as an add-on subject."
   },
   {
     "objectID": "sessions/week-02-reader.html#key-messages",
     "href": "sessions/week-02-reader.html#key-messages",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Key messages",
     "text": "Key messages\n\nEvery sustainability challenge needs to be examined from the perspective of all three (or more) dimensions at once, not one at a time.\nResearch for sustainable development requires inter- and transdisciplinary approaches, since no single discipline captures a “wicked problem” fully.\nHigher education institutions, and their individual lecturers, carry real responsibility for equipping future leaders to advance sustainable development.\nEvery discipline holds knowledge that can support sustainable development, even where the connection is not immediately obvious."
   },
   {
     "objectID": "sessions/week-02-reader.html#looking-ahead-task-after-session-2",
     "href": "sessions/week-02-reader.html#looking-ahead-task-after-session-2",
-    "title": "Week 2 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
+    "title": "Session 02 Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education",
     "section": "Looking ahead: Task after Session 2",
-    "text": "Looking ahead: Task after Session 2\nBuilding on this session, the task is to identify concrete opportunities to incorporate SD into your own course, using the SDGs (or another framework relevant to your context), global sustainability challenges, or the different worldviews introduced in Week 1, and to articulate explicitly what links your own discipline has with sustainable development. The four-interface grid (research topics, methodology, theory, application) introduced above is a direct tool for that task, not just an illustration.\n\n\n← Back to Session 02"
+    "text": "Looking ahead: Task after Session 2\nBuilding on this session, the task is to identify concrete opportunities to incorporate SD into your own course, using the SDGs (or another framework relevant to your context), global sustainability challenges, or the different worldviews introduced in Session 01, and to articulate explicitly what links your own discipline has with sustainable development. The four-interface grid (research topics, methodology, theory, application) introduced above is a direct tool for that task, not just an illustration.\n\n\n← Back to Session 02"
   },
   {
     "objectID": "sessions/week-03-reader.html",
     "href": "sessions/week-03-reader.html",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "",
-    "text": "This reader expands on the Week 3 slides: it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a downloadable PDF.\nUnlike Weeks 1 and 2, this session is about pedagogy and course design rather than sustainability content, so most of it does not map onto the Basics of Sustainability textbook, which is a content textbook, not a teaching-methods one. Where it genuinely does connect (the two worked examples below), the link is there; where it does not, the reader relies on its own sources instead."
+    "text": "This reader expands on the Session 03 slides: it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a downloadable PDF.\nUnlike Sessions 01 and 02, this session is about pedagogy and course design rather than sustainability content, so most of it does not map onto the Basics of Sustainability textbook, which is a content textbook, not a teaching-methods one. Where it genuinely does connect (the two worked examples below), the link is there; where it does not, the reader relies on its own sources instead."
   },
   {
     "objectID": "sessions/week-03-reader.html#from-spray-and-pray-to-education-for-sustainable-development",
     "href": "sessions/week-03-reader.html#from-spray-and-pray-to-education-for-sustainable-development",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "From “spray and pray” to Education for Sustainable Development",
     "text": "From “spray and pray” to Education for Sustainable Development\nThe session opens with a deliberately unflattering image: “spray and pray”, the assumption that if students are exposed to enough scientific facts, they will somehow go on to change the world professionally once they leave the classroom. Naming this as the default and then setting it aside is the point of the session: sustainability challenges are complex enough that information alone rarely changes what people do with it, which is why the UN’s 2030 Agenda explicitly calls for a new kind of science and a new kind of education, not just more of the same content delivered more urgently.\nUNESCO defines Education for Sustainable Development (ESD) as an approach that “gives learners of all ages the knowledge, skills, values and agency to address interconnected global challenges including climate change, loss of biodiversity, unsustainable use of resources, and inequality,” empowering them “to make informed decisions and take individual and collective action to change society and care for the planet.” UNESCO’s 2021 Berlin Declaration goes further, calling ESD “the foundation for the required transformation,” equipping people to become change agents rather than informed bystanders. The founding value behind both formulations is respect: for other people, for future generations, and for the planet and what it provides.\nA useful distinction sharpens what this actually means in practice: education about sustainable development is an awareness lesson or theoretical discussion, information transfer. Education for sustainable development uses education as a tool to build the capacity to act, giving people knowledge and skills for lifelong learning so they can find new solutions to environmental, economic, and social problems themselves. The “about” version can leave a course entirely unchanged in structure while adding sustainability as a topic; the “for” version changes what students are asked to do, not just what they are told.\nESD is not a peripheral add-on to the SDGs, it is written into them directly. SDG 4 (Quality Education) is a stand-alone goal, but its Target 4.7 specifically commits UN member states to ensuring that, by 2030, all learners acquire the knowledge and skills to promote sustainable development, explicitly including education for sustainable development, human rights, gender equality, and global citizenship. The African Union’s Agenda 2063 makes a parallel commitment under Goal 2, “Well Educated Citizens and Skills Revolution,” underpinned by science, technology, and innovation."
   },
   {
     "objectID": "sessions/week-03-reader.html#competences-not-just-content",
     "href": "sessions/week-03-reader.html#competences-not-just-content",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Competences, not just content",
     "text": "Competences, not just content\nESD is built around competences rather than content coverage. Following Abelha et al. (2020), a competence is an umbrella term for a person’s knowledge, skills, and abilities: it presumes a background of prior resources (knowledge, skills, experience, values), requires those resources to be mobilised in a specific context (such as solving a real problem), and is only visible once applied in that context. This is a stronger claim than it might first sound: a competence is not “knowing about” something, it is being able to do something with what you know, in a situation where it actually matters.\nThis competence orientation is not abstract policy language, it is already reshaping curricula on the ground. Kenya’s shift from the older 8-4-4 system (an objective-driven, content-based curriculum with performance-based assessment) to the competence-based 2-6-3-3-3 system is one concrete example: the newer system foregrounds student-centred teaching and practical experience, aiming to build 21st-century skills such as critical thinking and problem-solving, with creativity, inclusivity, and sustainable development named as core competences expected of every learner.\nRieckmann (2018) identifies three pedagogical shifts that follow from taking competences seriously: knowledge should be actively constructed by learners rather than transferred to them (the educator becomes a facilitator of learning processes, not a source of facts); learners should engage in action and reflect on their own experience of it (the educator’s job is to create environments that prompt that reflection); and learners should be empowered to question and change how they see and think about the world (the educator becomes someone who challenges learners, not just informs them). Translated into concrete teaching principles: work on real-world problems and be solution-oriented, bring students from different disciplines together rather than teaching within a single subject silo, build on participation and cooperation, involve practitioners, foreground values-based learning and critical thinking over memorisation, and favour locally relevant information over generic national or global material."
   },
   {
     "objectID": "sessions/week-03-reader.html#constructive-alignment",
     "href": "sessions/week-03-reader.html#constructive-alignment",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Constructive alignment",
     "text": "Constructive alignment\nConstructive alignment, introduced by John Biggs in the mid-1990s, is the design tool this session uses to translate ESD principles into an actual course unit. The idea is that three elements have to be deliberately aligned with each other: learning outcomes (what competences the course is meant to build), learning activities (the teaching-learning arrangements that give students a chance to build them), and assessment (how you find out whether they actually did). The word “constructive” signals that learners make content meaningful themselves, through the learning activities, rather than having meaning delivered to them ready-made.\nIn practice, this means answering three questions in sequence and keeping the answers consistent with each other: What should students know or be able to do by the end (learning outcomes)? What activities will actually help them get there (learning activities)? And how will you know if they got there (assessment)? A course can have excellent learning outcomes and a rigorous exam and still fail at constructive alignment, if the learning activities in between do not actually build toward what the outcomes promise and the assessment then tests.\nLearning outcomes should be formulated in an action-oriented way, specifying not just what learners should know but what they should be able to do with it, including being able to self-assess their own attitudes and values by the end of the course. A standard tool for writing them precisely is a taxonomy of active verbs pegged to performance level: remembering uses verbs like recall, name, list, or cite; understanding uses explain, describe, compare, or interpret; problem-solving uses apply, analyse, design, justify, or create. Choosing the verb is not a wording exercise, it commits you to a specific, checkable level of performance.\nLearning activities that foster sustainability competences tend to share a family resemblance: dialogic strategies (discussion, debate, dialogue), critical reflection on locally and globally relevant issues, hypothetical or real cases (role-play, simulation, case studies), collaboration on shared projects, experiential activities such as community action, interdisciplinary joint problem-framing, project- or problem-based learning, and action-research cycles of planning, acting, observing, and reflecting (Tejedor et al., 2019).\nAssessment has to be valid, meaning it actually tests what the course intended to teach, and it comes in several recognisable formats: solving set tasks, explaining or defining terms in one’s own words, working through real or constructed cases, writing essays or technical reports, or writing reviews and critical statements. Assessment also serves two distinct functions that are easy to conflate: a formative function during the course, giving learners feedback on where they currently stand so they can adjust; and a summative function at the end, where the result “counts” toward a grade or certificate. A course that only assesses summatively gives students no chance to course-correct before the result is final."
   },
   {
     "objectID": "sessions/week-03-reader.html#two-worked-examples",
     "href": "sessions/week-03-reader.html#two-worked-examples",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Two worked examples",
     "text": "Two worked examples\nThe session works through two full constructive-alignment examples end to end, each mapped across the three sustainability dimensions (environment, society, economy) before the learning outcomes, activities, and assessment are built on top.\nExample 1: Land degradation. The topics span all three dimensions: environmentally, depletion of natural resources (soil fertility, water quality, biodiversity), soil erosion, and rising temperatures; socially, effects on land tenure systems, migration patterns, and access to resources, which can generate conflict within communities; economically, reduced agricultural productivity and income, migration pressure, and shifting power dynamics around trade and resource extraction. The resulting learning outcomes are deliberately spread across knowledge, skills, and attitude: understanding the causes and consequences of land degradation (knowledge), applying field observation and analysis skills during a guided site visit (skills), and demonstrating an appreciation for the perspectives of stakeholders affected by land degradation gathered through exchanges and interviews (attitude). The learning activities, a presentation, a guided field visit, and stakeholder interviews, and the assessment, a written report covering environmental, societal, and economic aspects, are built to match.\nExample 2: Urban migration. Structured the same way: environmentally, urban expansion, habitat loss, deforestation, and rising resource consumption; socially, strain on urban infrastructure and services, and increased inequality; economically, globalisation of labour markets and unequal distribution of resources and opportunities. Learning outcomes again span knowledge (understanding the drivers of urban migration), skills (collecting and presenting information through multiple media, such as video and photography), and attitude (engaging constructively in group debate and proposing solutions). Learning activities include brainstorming, multimedia information-gathering, and structured debate; assessment is a written reflection proposing a solution and a strategy, alongside a short report built partly from interviews with community elders.\n\n\n\n\n\n\nNote\n\n\n\nAdapting the worked examples\nBoth examples were built for the Ethiopia/Kenya pilot cohorts and use topics with direct local relevance there. If you are adapting this course for a different context, keep the three-dimension table structure and the knowledge/skills/attitude split, they are the transferable part, but swap in a topic your own participants will recognise from their own discipline and region.\n\n\n📖 Textbook: Land use change covers the land degradation example’s environmental dimension in more depth (soil degradation, land tenure and land rights, land use conflicts). The urban migration example does not have a direct match in the textbook, which does not currently treat urbanisation or migration as a dedicated topic."
   },
   {
     "objectID": "sessions/week-03-reader.html#reflection-the-muddiest-point",
     "href": "sessions/week-03-reader.html#reflection-the-muddiest-point",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Reflection: the muddiest point",
     "text": "Reflection: the muddiest point\nThe session closes with a “muddiest point” reflection: participants write down the most difficult or confusing part of the session, which the facilitator then reviews and addresses at the start of the next session, rather than leaving it unresolved. It is a small technique, but it does something a general “any questions?” rarely achieves: it surfaces confusion that participants might not feel confident raising out loud, and it commits the facilitator to actually closing the loop."
   },
   {
     "objectID": "sessions/week-03-reader.html#looking-ahead-your-own-action-plan",
     "href": "sessions/week-03-reader.html#looking-ahead-your-own-action-plan",
-    "title": "Week 3 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
+    "title": "Session 03 Reader: Education for Sustainable Development (ESD) & Constructive Alignment",
     "section": "Looking ahead: your own Action Plan",
     "text": "Looking ahead: your own Action Plan\nThe task after this session is to put constructive alignment into practice: find a topic related to sustainable development in your own discipline, and design a session for it, formulating at least three learning outcomes, choosing learning activities that actively engage students with SD and ESD principles, and designing a matching assessment format. This is the piece of the overall ESD Action Plan you will present in Session 4, so it is worth treating as a real design exercise, not a hypothetical one, ideally for a session you could actually teach.\n\n\n← Back to Session 03"
   },
   {
     "objectID": "sessions/week-04-reader.html",
     "href": "sessions/week-04-reader.html",
-    "title": "Week 4 Reader: Presentation of Action Plans",
+    "title": "Session 04 Reader: Presentation of Action Plans",
     "section": "",
-    "text": "Session 4 does not introduce new sustainability content. It is where the three previous sessions come together in your own ESD Action Plan. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn. Also available as a downloadable PDF."
+    "text": "Session 04 does not introduce new sustainability content. It is where the three previous sessions come together in your own ESD Action Plan. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn. Also available as a downloadable PDF."
   },
   {
     "objectID": "sessions/week-04-reader.html#what-the-action-plan-is-actually-made-of",
     "href": "sessions/week-04-reader.html#what-the-action-plan-is-actually-made-of",
-    "title": "Week 4 Reader: Presentation of Action Plans",
+    "title": "Session 04 Reader: Presentation of Action Plans",
     "section": "What the Action Plan is actually made of",
-    "text": "What the Action Plan is actually made of\nBy this session, your Action Plan already has three parts, one from each of the previous sessions, and this session asks you to bring them together into a single short presentation:\n\nFrom Session 1: a review of how sustainable development currently shows up (or doesn’t) in your own teaching content and syllabi, using the dimensions, frameworks, and historical grounding covered there as your reference points.\nFrom Session 2: the concrete opportunities you identified to bring SD into your course, framed through the SDGs, Agenda 2063, or another relevant framework, and articulated through your own discipline’s specific links to sustainability.\nFrom Session 3: a fully developed lesson or session built with constructive alignment, at least three learning outcomes, learning activities that actively engage students with those outcomes, and an assessment format that actually measures them.\n\nIf you want a refresher on any of these before presenting, the Week 1, Week 2, and Week 3 readers cover them in depth, including the textbook links for Sessions 1 and 2."
+    "text": "What the Action Plan is actually made of\nBy this session, your Action Plan already has three parts, one from each of the previous sessions, and this session asks you to bring them together into a single short presentation:\n\nFrom Session 01: a review of how sustainable development currently shows up (or doesn’t) in your own teaching content and syllabi, using the dimensions, frameworks, and historical grounding covered there as your reference points.\nFrom Session 02: the concrete opportunities you identified to bring SD into your course, framed through the SDGs, Agenda 2063, or another relevant framework, and articulated through your own discipline’s specific links to sustainability.\nFrom Session 03: a fully developed lesson or session built with constructive alignment, at least three learning outcomes, learning activities that actively engage students with those outcomes, and an assessment format that actually measures them.\n\nIf you want a refresher on any of these before presenting, the Session 01, Session 02, and Session 03 readers cover them in depth, including the textbook links for Sessions 01 and 02."
   },
   {
     "objectID": "sessions/week-04-reader.html#presenting-in-six-minutes",
     "href": "sessions/week-04-reader.html#presenting-in-six-minutes",
-    "title": "Week 4 Reader: Presentation of Action Plans",
+    "title": "Session 04 Reader: Presentation of Action Plans",
     "section": "Presenting in six minutes",
     "text": "Presenting in six minutes\nThe presentation itself is short by design, roughly six minutes per participant or group, so it works best as a structured walk-through rather than a comprehensive account. The slides suggest covering, in order: your current state (what you found in the Session 1 review), the opportunities and gaps you identified (Session 2), and the developed lesson itself (Session 3), naming its three learning outcomes, the learning activities that support them, and how you would assess them. Resist the pull to spend most of the six minutes on background and context, the constructive-alignment design is the part your listeners are there to react to and give feedback on."
   },
   {
     "objectID": "sessions/week-04-reader.html#giving-useful-peer-feedback",
     "href": "sessions/week-04-reader.html#giving-useful-peer-feedback",
-    "title": "Week 4 Reader: Presentation of Action Plans",
+    "title": "Session 04 Reader: Presentation of Action Plans",
     "section": "Giving useful peer feedback",
     "text": "Giving useful peer feedback\nListeners are asked to take notes and prepare constructive feedback while others present. Because action plans span many different disciplines, the most useful feedback usually isn’t “does this work well within its own field,” but rather whether and how a presented idea could translate into a different field. A constructive-alignment design built for a hydrology course and one built for a literature course rarely transfer directly, but the underlying moves (a clearer learning outcome, a more active learning activity, a better-aligned assessment) usually do. Framing feedback this way is also what turns individual presentations into the basis for the collaboration discussion that follows."
   },
   {
     "objectID": "sessions/week-04-reader.html#from-presentations-to-collaboration",
     "href": "sessions/week-04-reader.html#from-presentations-to-collaboration",
-    "title": "Week 4 Reader: Presentation of Action Plans",
+    "title": "Session 04 Reader: Presentation of Action Plans",
     "section": "From presentations to collaboration",
     "text": "From presentations to collaboration\nAfter the presentations, the session moves to a synthesis of the key insights that came up (recurring challenges, and where people said they need more support), followed by a structured discussion of collaboration opportunities: with other lecturers, other departments, or organisations outside academia already working on sustainability initiatives. This is where the cross-disciplinary variety of the Action Plans becomes an asset rather than a complication, the differences between disciplines are exactly what make collaboration worth pursuing, rather than everyone independently reinventing similar material."
   },
   {
     "objectID": "sessions/week-04-reader.html#closing-the-course",
     "href": "sessions/week-04-reader.html#closing-the-course",
-    "title": "Week 4 Reader: Presentation of Action Plans",
+    "title": "Session 04 Reader: Presentation of Action Plans",
     "section": "Closing the course",
     "text": "Closing the course\nThe course closes with an open reflection on the main learnings from across all four sessions, followed by a course evaluation. Since this pilot course has been delivered in different formats (fully live, self-paced online, and hybrid, across the Kenyan and Ethiopian cohorts), the evaluation should be read and adapted with that specific delivery context in mind, what worked in a live, in-person setting will not always transfer directly to a self-paced asynchronous one, and vice versa.\n\n\n← Back to Session 04"
-  },
-  {
-    "objectID": "sessions/week-05.html",
-    "href": "sessions/week-05.html",
-    "title": "Week 5: Session title to be confirmed",
-    "section": "",
-    "text": "Week 5 Format TBD\n\n\nSession title to be confirmed\n\nThis session is still being designed. This page is a placeholder so the “Session 05” card on the course homepage links somewhere rather than to a missing page.\n\n\n\n\n\n\n\n\n\nPlaceholder page\nReplace this file with the real Session 05 materials (overview, learning objectives, outline, readings, slides, and facilitation notes) once the session is finalised.\n\n\n\n\n\n← Back to all sessions | Session 04",
-    "crumbs": [
-      "Home",
-      "Sessions",
-      "Session 05"
-    ]
   }
 ]
