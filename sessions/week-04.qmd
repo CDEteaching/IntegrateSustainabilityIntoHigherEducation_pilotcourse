@@ -1,22 +1,22 @@
 ---
-title: "Week 4: Post-Growth Economics and Plural Economies"
-description: "Beyond GDP: degrowth, doughnut economics, and pluralist economic frameworks for sustainability."
-categories: [Economics & Justice, Lecture]
+title: "Week 4: Presentation of Action Plans"
+description: "The closing session: participants present their completed ESD Action Plans, identify collaboration opportunities, and evaluate the course as a whole."
+categories: [Wrap-up, Live]
 navbar: false
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 4]{.session-badge .badge-lecture}
-[Lecture · 90 min]{.session-badge .badge-lecture}
+[Week 4]{.session-badge .badge-workshop}
+[Live · approx. 2h (async option available)]{.session-badge .badge-workshop}
+[Presentations & discussion]{.session-badge}
 :::
 
-### Post-Growth Economics and Plural Economies
+### Presentation of Action Plans
 
-What is the economy *for*? This session challenges the growth imperative at the heart of mainstream economics
-and introduces pluralist alternatives — ecological economics, degrowth, post-growth, and care economics —
-that make different assumptions about what an economy should prioritise and how it should be organised.
+The closing session brings the course's individual work together: participants present their completed ESD Action
+Plans, identify opportunities for collaboration, and reflect on and evaluate the course as a whole.
 
 :::
 
@@ -26,56 +26,71 @@ that make different assumptions about what an economy should prioritise and how 
 
 | | |
 |---|---|
-| **Format** | Lecture |
-| **Duration** | 90 minutes |
-| **Preparation for participants** | ~45 minutes reading |
+| **Format** | Recommended as a live synchronous session (on-site or video call), since it centers on presentations and live group discussion. If a live session is not feasible: run as a time-boxed asynchronous window (e.g. one week) with recorded action-plan presentations and written peer feedback in place of live presentation and discussion. |
+| **Duration** | Approx. 2h live (scales with group size, given 6-minute presentations per participant/group). Asynchronous equivalent: an open review window of several days, with roughly 60-90 minutes of individual engagement time (viewing others' presentations, giving feedback, completing the evaluation). |
+| **Preparation for participants** | A completed ESD Action Plan (Tasks after Sessions 1-3), and a prepared short presentation of it (approx. 6 minutes) |
 
 ---
 
 ## Learning Objectives
 
-1. Critique the GDP growth paradigm from an ecological and social perspective.
-2. Describe the main tenets of ecological economics, degrowth, and post-growth frameworks.
-3. Compare neoclassical and heterodox economic frameworks on the question of sustainability.
-4. Evaluate the political economy of transitioning away from growth dependency.
+By the end of this session, participants will be able to:
+
+1. Deepen their understanding of ESD and constructive alignment.
+2. Present their own action plan.
+3. Identify collaboration opportunities with other lecturers, departments, or external organizations working on sustainability initiatives.
 
 ---
 
 ## Session Outline
 
-**1. The problem with GDP** (15 min)
-: What GDP measures and what it misses; historical context (Kuznets' original warning); Easterlin paradox;
-  GDP vs. well-being indicators (HDI, Genuine Progress Indicator, Happy Planet Index).
+::: {.session-topics}
 
-**2. Ecological economics** (20 min)
-: The economy as a subsystem of the biosphere; throughput (matter-energy flows); limits to growth revisited;
-  steady-state economy; Herman Daly's principles.
+**1. Muddiest point** (variable, approx. 10 min)
+: Addressing points of confusion raised after Session 3.
 
-**3. Degrowth and post-growth** (25 min)
-: Degrowth vs. post-growth distinction; key claims (GDP growth drives ecological overshoot;
-  redistribution over growth; sufficiency rather than efficiency); political feasibility and critiques;
-  Global South perspectives — is degrowth a Northern luxury?
+**2. Presentation of Action Plans** (variable, 6 min per participant)
+: Current state, opportunities identified, developed session (learning outcomes, activities, assessment); listeners
+  take notes and prepare feedback.
 
-**4. Care economy and feminist economics** (15 min)
-: Unpaid care work; the iceberg economy; why sustainability transformations require recognising reproductive labour.
+**3. Synthesis** (10 min)
+: Key insights across the presented action plans (challenges, need for further support, etc.).
 
-**5. Discussion: Growth, development, and the Global South** (15 min)
-: Should post-growth apply universally? What does "enough" mean across different contexts?
+**4. Group discussion: collaboration opportunities** (10 min)
+
+**5. Harvesting of the group discussion** (10 min)
+: Highlights, synergies, commonalities.
+
+**6. Open Q&A** (10 min)
+
+**7. Main learnings from the course and course evaluation** (variable, approx. 10 min)
+
+:::
 
 ---
 
 ## Materials
 
+::: {.materials-grid}
+
+::: {.materials-col}
 **Required reading**
 
-- Hickel, J. (2020). *Less Is More*. Chapter 2: The birth of growth. (~30 pp.)
-- Raworth, K. (2017). *Doughnut Economics*. Chapter 7: Be agnostic about growth.
-- Norgaard, R.B. (1994). The case for methodological pluralism. *Ecological Economics*, 1(1). (Sections 1–2 only)
+- None separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.
 
-**Optional**
+**Slides**
 
-- Kallis, G. (2018). *Degrowth*. Chapters 1–2.
-- Mies, M. & Shiva, V. (1993). *Ecofeminism*. Chapter 1.
+- [Week 4 slides (PowerPoint, 19 slides)](../resources/slides/04_Presentation_of_action_plans_consolidated.pptx){.material-link}
+:::
+
+::: {.materials-col}
+**Optional / going deeper**
+
+- [Participants' own completed ESD Action Plans (Tasks after Sessions 1-3), the core "material" of this session.]{.material-link .reading}
+
+:::
+
+:::
 
 ---
 
@@ -83,22 +98,42 @@ that make different assumptions about what an economy should prioritise and how 
 
 ::: {.callout-note .callout-before appearance="simple" icon=false}
 **Before the session**
-Read Hickel Chapter 2. Come prepared to discuss: *Is GDP growth compatible with staying within planetary boundaries? Why or why not?*
+
+Finalize the ESD Action Plan (Tasks after Sessions 1-3) and prepare a short (approx. 6-minute) presentation of it.
 :::
 
-::: {.callout-note .callout-during appearance="simple" icon=false}
+::: {.callout-tip .callout-during appearance="simple" icon=false}
 **During the session**
-*Add in-class activities, discussion questions, or workshop instructions here.*
+
+- Present (or submit a recorded presentation of) your action plan.
+- Take notes and prepare constructive feedback on other participants' presentations.
+- Contribute to the group discussion on collaboration opportunities.
+- Complete the course evaluation survey.
 :::
 
-::: {.callout-note .callout-after appearance="simple" icon=false}
+::: {.callout-warning .callout-after appearance="simple" icon=false}
 **After the session**
-Reflection journal entry 3 (300 words): Is degrowth a relevant concept in your context? If yes, what would it look like in practice? If no, why not — and what alternative framing would you propose?
-:::
 
----
+No formal task is defined in the course materials after this closing session. Consider suggesting, as an optional
+next step, that participants share their action plan with their department or apply it in an upcoming course.
+:::
 
 ## Recommendation for facilitation
+
+- Use a shared virtual board (e.g. Miro) for noting down the collaboration-opportunities discussion, and a live
+  polling tool (e.g. Menti) for the "main learnings" question.
+- In a live session, the "main learnings of the course" question works well as an open plenary discussion following
+  the live poll, giving participants a chance to hear and build on each other's takeaways, not just see them
+  aggregated. In a self-paced/asynchronous format, replace this with an individual written reflection using the same
+  prompt.
+- Since action plans span many disciplines, structure peer feedback prompts to ask specifically how a presented idea
+  could translate to a different field, not just whether it works well within its own discipline; this is where the
+  cross-disciplinary value of the session lies.
+- Where a fully live session with all participants is not feasible, keep the peer-feedback element by running a
+  time-boxed asynchronous window with recorded presentations and written comments, rather than dropping it.
+- Closing evaluation: the course should close with an evaluation, adapted to reflect the actual format in which it
+  was delivered, the content covered, the delivery mode (live vs. self-paced vs. hybrid), and, where relevant, the
+  specific adaptations made for that cohort's context.
 
 ---
 

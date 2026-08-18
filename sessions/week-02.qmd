@@ -1,22 +1,23 @@
 ---
-title: "Week 2: Planetary Boundaries and Sustainability Frameworks"
-description: "Deep dive into planetary boundaries science, the Doughnut model, and frameworks for thinking about sustainability trade-offs."
-categories: [Foundations, Lecture]
+title: "Week 2: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education"
+description: "From separate dimensions to interlinkages in practice, and the role of science, higher education, and individual disciplines in advancing sustainable development."
+categories: [Foundations, Self-paced]
 navbar: false
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 2]{.session-badge .badge-lecture}
-[Lecture + Workshop · 90 min]{.session-badge .badge-lecture}
+[Week 2]{.session-badge .badge-online}
+[Self-paced online · 90-100 min]{.session-badge .badge-online}
+[Plenary]{.session-badge}
 :::
 
-### Planetary Boundaries and Sustainability Frameworks
+### Interlinkages of Sustainability Dimensions and Role of Science & Higher Education
 
-Building on the polycrisis framing from Week 1, this session goes deeper into the planetary boundaries science and introduces
-complementary frameworks — in particular Kate Raworth's Doughnut model — for thinking about how social foundations and
-ecological ceilings interact.
+This session moves from the three sustainability dimensions treated separately in Week 1 to how they interlink in
+practice, and introduces the role of science, higher education, and individual disciplines, including participants'
+own, in advancing sustainable development.
 
 :::
 
@@ -26,50 +27,75 @@ ecological ceilings interact.
 
 | | |
 |---|---|
-| **Format** | Lecture + Workshop |
-| **Duration** | 90 minutes |
-| **Preparation for participants** | ~30 minutes reading |
+| **Format** | Self-paced online module (adaptable for live/synchronous delivery) |
+| **Duration** | Approx. 90-100 min self-paced (equivalent to a 2h live session) |
+| **Preparation for participants** | Completion of Session 1, including the "Review of course content" task |
 
 ---
 
 ## Learning Objectives
 
-1. Explain the scientific basis for at least five planetary boundaries, including key tipping point dynamics.
-2. Describe the Doughnut model and explain how it relates social and ecological dimensions.
-3. Apply a sustainability framework to evaluate a development policy choice.
-4. Articulate tensions between economic development goals and planetary boundaries.
+By the end of this session, participants will be able to:
+
+1. Examine the interlinkages between the social, economic, and environmental dimensions of sustainable development.
+2. Define the role of science and higher education in addressing sustainability challenges, including their own role as lecturers.
+3. Reflect on the potential contributions of their own discipline to sustainable development.
 
 ---
 
 ## Session Outline
 
-**1. Planetary boundaries: science and debate** (30 min)
-: The latest boundary updates (Richardson et al. 2023); which boundaries are most transgressed; scientific
-  uncertainties and ongoing debates; how boundaries relate to one another (Earth system interactions).
+::: {.session-topics}
 
-**2. The Doughnut model** (20 min)
-: Social foundation (12 dimensions from the SDGs) + ecological ceiling (based on planetary boundaries);
-  the "safe and just space"; national and city-level Doughnut analyses.
+**1. Interlinkages of Sustainability Dimensions** (25 min)
+: Input, example, and group work.
 
-**3. Workshop: Applying the Doughnut** (30 min)
-: Small groups apply the Doughnut model to a development scenario (infrastructure project, agricultural
-  expansion, urban growth). Each group maps social benefits and ecological risks, then shares findings.
+**2. Role of Science and Higher Education** (20 min)
+: Input and examples.
 
-**4. Debrief and discussion** (10 min)
-: What trade-offs emerged? Whose perspective determines where to draw the line?
+**3. Reflecting on Disciplinary Contributions** (5 min)
+
+**4. Discussion/reflection** (10 min)
+: The role of higher education at participants' own university.
+
+**5. Links between Disciplines and Sustainable Development** (15 min)
+
+**6. Key messages and FAQ** (5 min)
+
+**7. Task after Session 2** (10 min)
+: Identify opportunities to incorporate SD into your course.
+
+:::
 
 ---
 
 ## Materials
 
+::: {.materials-grid}
+
+::: {.materials-col}
 **Required reading**
 
-- Richardson et al. (2023). Earth beyond six of nine planetary boundaries. *Science Advances*, 9.
-- Raworth, K. (2017). *Doughnut Economics*. Chapter 1: Change the goal.
+- None separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.
 
-**Workshop material**
+**Slides**
 
-- [Week 2 scenario cards (PDF)](../resources/slides/week-02-scenarios.pdf) — 4 regional scenarios (East Africa, Mekong, Global North city, Global South megacity)
+- [Week 2 slides (PowerPoint, 54 slides)](../resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx){.material-link}
+:::
+
+::: {.materials-col}
+**Optional / going deeper**
+
+- [Jahn, Bergmann & Keil (2012). Transdisciplinarity: Between mainstreaming and marginalization.]{.material-link .reading}
+- [Schneider & Buser (2018). Promising degrees of stakeholder interaction in research for sustainable development.]{.material-link .reading}
+- [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook).]{.material-link .reading}
+- [Herweg et al. (2017). Integrating Sustainable Development into Higher Education, Guidelines for the University of Bern.]{.material-link .reading}
+- [SDG "wedding cake" animation (Stockholm Resilience Centre, YouTube).]{.material-link .reading}
+- [Price et al. (2021). Supporting the role of universities in leading individual and societal transformation through ESD.]{.material-link .reading}
+
+:::
+
+:::
 
 ---
 
@@ -77,22 +103,33 @@ ecological ceilings interact.
 
 ::: {.callout-note .callout-before appearance="simple" icon=false}
 **Before the session**
-Read Richardson et al. (2023) Abstract + sections 1 and 4. Identify one boundary and one mechanism you didn't know about.
+
+Submit or review the Task after Session 1 (review of course content).
 :::
 
-::: {.callout-note .callout-during appearance="simple" icon=false}
+::: {.callout-tip .callout-during appearance="simple" icon=false}
 **During the session**
-*Add in-class activities, discussion questions, or workshop instructions here.*
+
+- Complete the group/individual exercise mapping the three dimensions onto a chosen sustainability challenge.
+- Complete the discussion/reflection on the role of higher education at your own institution, and reflect on your own role.
+- Complete the discipline-SD linkage mapping task.
 :::
 
-::: {.callout-note .callout-after appearance="simple" icon=false}
+::: {.callout-warning .callout-after appearance="simple" icon=false}
 **After the session**
-Reflection journal entry 2 (300 words): Which dimension of the Doughnut model is most under-served in your context — social foundation or ecological ceiling? Justify with one example.
-:::
 
----
+Task after Session 2, identify opportunities to incorporate SD into your course: consider the SDGs (and other
+frameworks, according to your context), global sustainability challenges, or different sustainability perspectives,
+and articulate what links your own discipline has with sustainable development.
+:::
 
 ## Recommendation for facilitation
+
+- For the "role of lecturer/educator" exercise, use a live polling tool (e.g. Mentimeter) if run synchronously; if
+  used as a self-paced delivery, replace it with a structured written reflection using the same prompt.
+- The Ethiopia/Kenya case studies and the Bern/Addis Ababa/Nairobi institutional examples are illustrations, not a
+  fixed reference set. Adapt to your local context and/or actively invite participants to substitute examples from
+  their own country and institution.
 
 ---
 

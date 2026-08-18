@@ -1,22 +1,23 @@
 ---
-title: "Week 3: Socio-Technical Transitions and Transformation Theory"
-description: "How do large-scale sustainability transformations happen? Key frameworks: Multi-Level Perspective, transition management, and leverage points."
-categories: [Foundations, Lecture, Workshop]
+title: "Week 3: Education for Sustainable Development (ESD) & Constructive Alignment"
+description: "From concepts to course design: ESD as a pedagogical approach, and constructive alignment as the tool to translate ESD principles into an aligned course unit."
+categories: [Course Design, Self-paced]
 navbar: false
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 3]{.session-badge .badge-lecture}
-[Lecture + Workshop · 90 min]{.session-badge .badge-lecture}
+[Week 3]{.session-badge .badge-online}
+[Self-paced online · 95-105 min]{.session-badge .badge-online}
+[Plenary]{.session-badge}
 :::
 
-### Socio-Technical Transitions and Transformation Theory
+### Education for Sustainable Development (ESD) & Constructive Alignment
 
-This session closes the foundations block by introducing theories of change for sustainability transformations.
-Students encounter the Multi-Level Perspective (MLP) on socio-technical transitions, transition management,
-and Meadows' leverage points — building a toolkit for the case-study work in later weeks.
+This session turns from concepts to course design. It introduces Education for Sustainable Development as a
+distinct pedagogical approach, and constructive alignment as the design tool that translates ESD principles into a
+concrete, well-aligned course unit or course.
 
 :::
 
@@ -26,53 +27,72 @@ and Meadows' leverage points — building a toolkit for the case-study work in l
 
 | | |
 |---|---|
-| **Format** | Lecture + Workshop |
-| **Duration** | 90 minutes |
-| **Preparation for participants** | ~30 minutes reading |
+| **Format** | Self-paced online module (adaptable for live/synchronous delivery) |
+| **Duration** | Approx. 95-105 min self-paced (equivalent to a 2h live session) |
+| **Preparation for participants** | Completion of Session 2, including the "identify opportunities" task |
 
 ---
 
 ## Learning Objectives
 
-1. Describe the Multi-Level Perspective (landscape, regime, niche) and apply it to a transition example.
-2. Explain what leverage points are and identify at least three high-leverage intervention types.
-3. Distinguish between technological, institutional, and cultural dimensions of sustainability transitions.
-4. Assess the strengths and blind spots of transition frameworks (agency, power, justice).
+By the end of this session, participants will be able to:
+
+1. Gain an understanding of the principles and importance of Education for Sustainable Development (ESD).
+2. Gain an understanding of the concept of constructive alignment in designing effective courses.
 
 ---
 
 ## Session Outline
 
-**1. The Multi-Level Perspective** (25 min)
-: Landscape pressures, incumbent regime, niche innovations; transition pathways (substitution, transformation,
-  de-alignment/re-alignment); example: energy systems in Kenya and Germany compared.
+::: {.session-topics}
 
-**2. Transition management and governance** (20 min)
-: Transition arenas; front-runner coalitions; backcasting; limits and critiques (who is at the table?).
+**1. Opening plenary discussion** (10 min)
+: Recap of the Session 2 task, opportunities identified and disciplinary links to SD.
 
-**3. Leverage points** (20 min)
-: Meadows' 12 leverage points; which interventions change a system most deeply (paradigms, goals, rules
-  vs. parameters and feedback); application to climate and food systems.
+**2. Introduction to ESD** (25 min)
 
-**4. Workshop: Where is the leverage?** (20 min)
-: Groups map a transition they know (energy, food, mobility, land use) using the MLP and identify
-  leverage points. Brief plenary sharing.
+**3. Discussion/reflection** (10 min)
+: Teaching principles participants already apply.
 
-**5. Synthesis and critical reflection** (5 min)
-: What do these frameworks miss? (Power, colonialism, justice.)
+**4. Introduction to Constructive Alignment** (25 min)
+
+**5. Examples of Constructive Alignment** (15 min)
+: Land degradation, urban migration.
+
+**6. Reflection** ("muddiest point")
+
+**7. Task after Session 3** (session development) and outlook on Session 4.
+
+:::
 
 ---
 
 ## Materials
 
+::: {.materials-grid}
+
+::: {.materials-col}
 **Required reading**
 
-- Geels, F.W. (2002). Technological transitions as evolutionary reconfiguration processes. *Research Policy*, 31, 1257–1274. (Sections 1–3)
-- Meadows, D. (1999). Leverage Points: Places to Intervene in a System. Sustainability Institute. (Short essay, ~15 pp.)
+- None separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.
 
-**Optional**
+**Slides**
 
-- Loorbach, D. (2010). Transition management for sustainable development. *Governance*, 23(1), 161–183.
+- [Week 3 slides (PowerPoint, 48 slides)](../resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx){.material-link}
+:::
+
+::: {.materials-col}
+**Optional / going deeper**
+
+- [Rieckmann, M. (2018). Learning to transform the world: Key competencies in Education for Sustainable Development.]{.material-link .reading}
+- [Tejedor et al. (2019). Didactic strategies to promote competencies in sustainability.]{.material-link .reading}
+- [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook, chapter on constructive alignment).]{.material-link .reading}
+- [UNESCO (2023). What you need to know about education for sustainable development.]{.material-link .reading}
+- [UNESCO. Berlin Declaration on Education for Sustainable Development (2021).]{.material-link .reading}
+
+:::
+
+:::
 
 ---
 
@@ -80,22 +100,36 @@ and Meadows' leverage points — building a toolkit for the case-study work in l
 
 ::: {.callout-note .callout-before appearance="simple" icon=false}
 **Before the session**
-Read the Meadows leverage points essay. Identify one leverage point you think is underused in your regional context and bring a one-sentence justification.
+
+Have the Session 2 task (opportunities to incorporate SD into your course) at hand; it is revisited at the start of
+this session.
 :::
 
-::: {.callout-note .callout-during appearance="simple" icon=false}
+::: {.callout-tip .callout-during appearance="simple" icon=false}
 **During the session**
-*Add in-class activities, discussion questions, or workshop instructions here.*
+
+- Complete the reflection on teaching principles you currently apply.
+- Work through the two worked examples of constructive alignment (land degradation, urban migration).
+- Complete the "muddiest point" reflection.
 :::
 
-::: {.callout-note .callout-after appearance="simple" icon=false}
+::: {.callout-warning .callout-after appearance="simple" icon=false}
 **After the session**
-Begin identifying your **case study topic** for the student case presentations. The case should be a sustainability transition initiative in your region. Confirm your choice with the teaching team by end of Session 04.
-:::
 
----
+Task after Session 3, session development: find a topic related to SD in your own discipline and develop a
+lesson/session using constructive alignment, at least three learning outcomes, suitable learning activities, and a
+matching assessment format. Prepare a short (approx. 6-minute) presentation of your action plan for Session 4.
+:::
 
 ## Recommendation for facilitation
+
+- Use a shared digital board (e.g. Padlet) or an equivalent tool for the "muddiest point" task, so responses can be
+  reviewed and addressed collectively. As facilitator, review all "muddiest points" before the next session and
+  prepare answers for the questions raised.
+- After presenting the land degradation and urban migration examples, ask participants to sketch how the same
+  three-element alignment could look for a topic in their own discipline, this is where transfer actually happens.
+- The "teaching principles" reflection works well as a cross-disciplinary sharing moment: participants from
+  different fields often name different principles.
 
 ---
 

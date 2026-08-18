@@ -1,20 +1,23 @@
 ---
-title: "Session 1: Introduction to Sustainable Development"
-categories: [Foundations, Lecture]
+title: "Week 1: Introduction to Sustainable Development"
+description: "Foundational concepts of sustainable development, its historical development, and the global challenges it responds to."
+categories: [Foundations, Self-paced]
 navbar: false
 ---
 
 ::: {.session-header}
 
 ::: {.session-meta-row}
-[Week 1]{.session-badge .badge-lecture}
-[Lecture · 90 min]{.session-badge .badge-lecture}
+[Week 1]{.session-badge .badge-online}
+[Self-paced online · 90-100 min]{.session-badge .badge-online}
 [Plenary]{.session-badge}
 :::
 
 ### Introduction to Sustainable Development
 
-The opening session introduces students to the concept of the *polycrisis* — the simultaneous intensification of interconnected crises (climate, biodiversity, inequality, geopolitical instability) — and makes the case for why incremental reform is insufficient. By the end, students should understand why transformation is both necessary and contested.
+The opening session introduces the foundational concept of sustainable development, its historical development, and the
+global challenges it responds to, closing with a first reflection on the relevance of these concepts in participants'
+own context.
 
 :::
 
@@ -24,20 +27,19 @@ The opening session introduces students to the concept of the *polycrisis* — t
 
 | | |
 |---|---|
-| **Block** | Foundations (Sessions 1–3) |
-| **Format** | Lecture + Q&A |
-| **Duration** | 3h |
-| **Preparation for participants** | ~45 minutes reading |
+| **Format** | Self-paced online module (structure can be adapted for a live/synchronous session) |
+| **Duration** | Approx. 90-100 min self-paced (equivalent to a 2h live session) |
+| **Preparation for participants** | None (opening session of the course) |
 
 ---
 
 ## Learning Objectives
 
-By the end of this session, students will be able to:
+By the end of this session, participants will be able to:
 
-1. Participants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.
-2. Participants discuss the relevance of sustainable development in their country contexts.
-
+1. Define sustainable development and its core principles.
+2. Identify key challenges that sustainability aims to address.
+3. Discuss the relevance of sustainable development in their own national context.
 
 ---
 
@@ -45,22 +47,33 @@ By the end of this session, students will be able to:
 
 ::: {.session-topics}
 
-**1. Opening provocation** (15 min)
-: What does "sustainable development" mean to you? Brief pair discussion and plenary report-back.
+**1. Introduction** (3 min)
+: Welcome, course outline, learning outcomes.
 
-**2. The polycrisis concept** (20 min)
-: Origins of the term (Adam Tooze); how compounding crises interact; why conventional risk analysis breaks down.
+**2. Opening reflection** (5 min)
+: "Earth from space" impulse.
 
-**3. Planetary boundaries** (25 min)
-: The nine planetary boundaries framework (Rockström et al., Steffen et al.); current status of each boundary;
-  hotspots of transgression; equity dimensions (who transgresses, who suffers).
+**3. Defining Sustainable Development** (10-12 min)
+: Brundtland definition, the three dimensions, Agenda 2063, the SDGs.
 
-**4. From crisis to transformation** (20 min)
-: Incremental vs. structural change; the case for sustainability transformations; why transformation is contested
-  (winners and losers, path dependencies, power).
+**4. Exercise: relevance of SDGs** (8 min)
+: How the SDGs, or other national frameworks, relate to participants' own work.
 
-**5. Closing reflection** (10 min)
-: One-minute paper: "What surprised you? What questions remain?"
+**5. Sustainability Challenges** (10 min)
+: Overview of the global challenges sustainable development responds to.
+
+**6. Reflection: challenges in context** (15 min)
+: Sustainability challenges in participants' own national/local context.
+
+**7. Sustainability Theories and UN Conferences** (20-25 min)
+: Historical development of sustainability thinking and the milestone UN conferences.
+
+**8. Key messages and FAQ** (5 min)
+
+**9. Reflection: key takeaways** (10 min)
+
+**10. Course project introduction** (10 min)
+: Introduction to the overall course project (ESD Action Plan) and the task after Session 1.
 
 :::
 
@@ -73,20 +86,22 @@ By the end of this session, students will be able to:
 ::: {.materials-col}
 **Required reading**
 
-- [Tooze, A. (2022). Welcome to the world of the polycrisis. *Financial Times*.]{.material-link .reading}
-- [Rockström et al. (2009). A safe operating space for humanity. *Nature*, 461, 472–475.]{.material-link .reading}
-- [IPCC (2023). Summary for Policymakers. *AR6 Synthesis Report*. Sections A & B only.]{.material-link .reading}
+- None separately assigned. Sources cited on the slides serve as background/citation material rather than mandatory pre-reading.
 
 **Slides**
 
-- [Week 1 lecture slides (PDF)](../resources/slides/week-01-slides.pdf){.material-link}
+- [Week 1 slides (PowerPoint, 51 slides)](../resources/slides/01_Introduction_to_SD_consolidated.pptx){.material-link}
 :::
 
 ::: {.materials-col}
 **Optional / going deeper**
 
-- [Steffen et al. (2015). Planetary boundaries: Guiding human development on a changing Earth. *Science*, 347.]{.material-link .reading}
-- [Meadows, D. (2008). *Thinking in Systems*. Chapters 1–2.]{.material-link .reading}
+- [Meadows et al. (1972). *The Limits to Growth*.]{.material-link .reading}
+- [World Commission on Environment and Development (1987). *Our Common Future* (Brundtland Report).]{.material-link .reading}
+- [Raworth, K. (2017). *Doughnut Economics*.]{.material-link .reading}
+- [Pascual et al. (2023). Diverse values of nature for sustainability. *Nature*.]{.material-link .reading}
+- [World Economic Forum (2023). *The Global Risks Report 2023*.]{.material-link .reading}
+- [Global Sustainable Development Report 2023 (UN).]{.material-link .reading}
 
 :::
 
@@ -99,27 +114,38 @@ By the end of this session, students will be able to:
 ::: {.callout-note .callout-before appearance="simple" icon=false}
 **Before the session**
 
-Read the Tooze (2022) FT article and write a 3-sentence answer to: *"Which of the crises Tooze describes feels most urgent to you, and why?"* Bring this to class.
+None required. Optional: think of a recent local or global event that made you reflect on sustainability, to bring
+into the opening exercise.
 :::
 
 ::: {.callout-tip .callout-during appearance="simple" icon=false}
 **During the session**
 
-*Add in-class activities, discussion questions, or workshop instructions here.*
+- Complete the "Earth from space" opening reflection.
+- Work through the SDG/other national framework relevance exercise.
+- Complete the national/local context reflection.
+- Complete the closing key-takeaways reflection.
 :::
 
 ::: {.callout-warning .callout-after appearance="simple" icon=false}
 **After the session**
 
-Write your first **reflection journal entry** (300–400 words): How does the polycrisis concept change how you think about sustainability challenges you are familiar with from your own context?
-Submit via the course platform by the following Monday.
+Task after Session 1, review of course content: reflect on how sustainable development is currently integrated into
+your own teaching practice, evaluate your existing course content and syllabi, and identify areas for strengthening
+this integration. This feeds into the overall course project (ESD Action Plan).
 :::
 
 ## Recommendation for facilitation
 
-- The opening pair discussion (step 1) often surfaces wide variation in prior knowledge. Use this to frame the course as exploratory, not a transmission of fixed truths.
-- In the planetary boundaries segment, avoid the temptation to present the framework as settled science — acknowledge ongoing debates about thresholds, especially for novel entities and functional diversity.
-- Students from climate-vulnerable regions often have strong experiential knowledge of multiple crises. Create space for this — it will be valuable throughout the course.
+- Use an interactive polling tool (e.g. Mentimeter) for the "Earth from space" word-cloud opening in a live session.
+- Keep the SDG relevance exercise open-ended rather than pre-selecting example goals, so participants from different
+  disciplines can each anchor it to their own field.
+- Given how much content the theories section covers, split it into two shorter learning units (historical milestones
+  1970-2000; contemporary frameworks 2009-2023) rather than one long block.
+- For the Ethiopia/Kenya pilot cohorts, pairing the UN SDGs with the AU Agenda 2063 resonated well as a regionally
+  grounded complement to the global framework. When adapting this course for participants elsewhere, look for a
+  comparable regional or national framework to pair with the SDGs, since Agenda 2063 will not be equally relevant to
+  all users of this course.
 
 ---
 
