@@ -159,6 +159,42 @@ a:hover { text-decoration: underline; }
   line-height: 1.7;
   margin-bottom: 2rem;
 }
+// Course Sessions intro sits right above the full-bleed card grid — let it
+// run the same width instead of stopping at the narrow reading-width cap.
+.section-intro-wide { max-width: none; }
+
+// ── Page title-block header (plain white bar above the hero) ──
+// Shows the CDE logo next to a smaller site label instead of a bare H1.
+#title-block-header.quarto-title-block {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+
+  .quarto-title {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+
+    &::before {
+      content: "";
+      display: inline-block;
+      height: 38px;
+      width: 38px;
+      background: url("images/cdelogo_e.png") no-repeat center / contain;
+      flex-shrink: 0;
+    }
+  }
+
+  h1.title {
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    color: var(--text-muted);
+    margin: 0;
+  }
+}
 
 // ── CDE hero banner (landing page) ───────────────────────
 .cde-hero {
@@ -280,6 +316,10 @@ a:hover { text-decoration: underline; }
 }
 .cde-card-accent { height: 5px; background: var(--cat-knowledge); }
 .cde-card-body { padding: 1.4rem; flex: 1; }
+// the tag is always the first line in a card body, immediately followed by
+// the ### heading with no blank line — kill the wrapping <p>'s own margin so
+// only the tag's own (small) margin-bottom controls the gap to the heading
+.cde-card-body > p:first-child { margin-bottom: 0; }
 .cde-card-tag {
   display: inline-block;
   font-size: 0.72rem;
@@ -289,9 +329,9 @@ a:hover { text-decoration: underline; }
   background: var(--cat-knowledge-bg);
   border-radius: 3px;
   padding: 0.2rem 0.55rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.4rem;
 }
-.cde-card h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.5rem; line-height: 1.3; }
+.cde-card h3 { font-size: 1.05rem; font-weight: 600; margin-top: 0; margin-bottom: 0.5rem; line-height: 1.3; }
 .cde-card p  { font-size: 0.88rem; color: var(--text-muted); line-height: 1.6; }
 .cde-card-footer {
   padding: 0.9rem 1.4rem;

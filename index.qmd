@@ -1,5 +1,5 @@
 ---
-title: "CDE - OER"
+title: "CDE - Open Education Resources"
 page-layout: custom
 toc: false
 sidebar: false
@@ -32,12 +32,11 @@ sidebar: false
            class="btn-cde-outline">GitHub repository</a>
       </div>
 
-      <!-- EDIT: Partner institution names -->
       <div class="partner-strip">
         <span class="partner-strip-label">Developed with</span>
-        <span class="partner-badge">CDE · UniBE, Switzerland</span>
-        <span class="partner-badge">University of Nairobi, Kenya</span>
-        <span class="partner-badge">[Addis Ababa University]</span>
+        <span class="partner-badge">University of Bern, Switzerland (Centre for Development and Environment)</span>
+        <span class="partner-badge">University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies, and the Centre for Training and Integrated Research on ASAL Development)</span>
+        <span class="partner-badge">Addis Ababa University, Ethiopia (Water and Land Resource Centre, and College of Education and Behavioral Studies)</span>
       </div>
     </div>
 
@@ -96,66 +95,40 @@ sidebar: false
 ```
 
 <!-- ══════════════════════════════════════════════════════
-     LEARNING OUTCOMES
+     ABOUT THIS COURSE
 ════════════════════════════════════════════════════════ -->
 
 ::: {.container style="padding: 3rem 2rem;"}
 
 ::: {.section-label}
-What you will learn
+Who we are
 :::
 
-## Learning Outcomes
+## About this course
 
-::: {.section-intro}
-By the end of this course, students should be able to:
-:::
+This course was developed in 2023 by a tri-national (Swiss, Kenyan, and Ethiopian) project team of nine members, representing:
 
-::: {.outcomes-grid}
+- University of Bern, Switzerland (Centre for Development and Environment)
+- Addis Ababa University, Ethiopia (Water and Land Resource Centre, and College of Education and Behavioral Studies)
+- University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies, and the Centre for Training and Integrated Research on ASAL Development)
 
-::: {.outcome-item}
-::: {.outcome-num}
-1
-:::
-To empower higher education faculty in Kenya with the knowledge, tools, and strategies to effectively integrate sustainable development (SD) concepts and theories into their teaching.
-:::
+The team iteratively built and revised the course's four sessions through collaborative working groups. The course was first piloted online with higher education faculty in Kenya in 2024, and on-site in Ethiopia in 2025. Following revision based on both pilots, it is now available for wider adoption.
 
-::: {.outcome-item}
-::: {.outcome-num}
-2
-:::
-To provide an in-depth understanding of key SD concepts and theories.
-:::
+### Course objective
 
-::: {.outcome-item}
-::: {.outcome-num}
-3
-:::
-To guide participants in establishing thematic connections between SD and their respective fields.
-:::
+The course is designed to empower higher education lecturers in Ethiopia and Kenya with the knowledge, tools, and strategies to effectively integrate sustainable development (SD) and SD concepts and theories into their teaching. It provides an in-depth understanding of key SD concepts and theories, guides participants in establishing thematic connections between sustainable development and their own field, and highlights the importance of Education for Sustainable Development (ESD) for sustainable futures.
 
-::: {.outcome-item}
-::: {.outcome-num}
-4
-:::
-To highlight the importance of Education for Sustainable Development (ESD) for sustainable futures, and to provide knowledge, tools, and strategies to integrate ESD approaches into their teaching.
-:::
+### Target group
 
-::: {.outcome-item}
-::: {.outcome-num}
-5
-:::
-To develop an individual action plan on how to integrate SD and ESD approaches into teaching.
-:::
+The course is aimed at higher education teaching staff from all disciplines. Decision-makers and academic programme directors may also find it valuable to attend.
 
-::: {.outcome-item}
-::: {.outcome-num}
-6
-:::
-Communicate sustainability challenges to diverse audiences including policy makers and civil society.
-:::
+### How you can use this course
 
-:::
+There are several ways to engage with this material, depending on your needs:
+
+- **Work through the course independently, at your own pace:** All four sessions, materials, and exercises are freely available for self-paced learning — use them as they are, or draw on individual sections and materials for your own purposes.
+- **Adapt and deliver the course at your own institution:** The sessions, examples, and exercises can be localized to your own context — the illustrative cases used throughout (from Switzerland, Ethiopia, and Kenya) are meant as models, not fixed content, and are designed to be substituted with examples relevant to your own setting.
+- **Co-design a course with us:** If you are interested in developing a tailored version of this course together with the original project team, we welcome the opportunity to collaborate — please get in touch to discuss what this could look like <!-- TODO: contact (email or link) not yet decided — see comment from Anna Lena Lewis on the review doc: "Das passt so eigentlich nicht.. Aber fällt grad nichts Besseres ein." -->[contact details to be confirmed].
 
 :::
 
@@ -171,9 +144,8 @@ Session overview
 
 ## Course Sessions
 
-::: {.section-intro}
-The course runs over 5-6 weeks combining lectures, workshops, field sessions, and guest expert inputs.
-Each session page includes materials, tasks, and localisation notes for partner institutions.
+::: {.section-intro .section-intro-wide}
+The course consists of four sessions, each building on the previous one through a cumulative, individual project — the ESD Action Plan. Across the four sessions, participants develop their own ESD Action Plan: a concrete, ready-to-use lesson or session that integrates sustainable development into their own teaching, grounded in their own discipline and institutional context.
 :::
 
 ::: {.cde-cards}
@@ -183,6 +155,7 @@ Each session page includes materials, tasks, and localisation notes for partner 
 :::
 ::: {.cde-card-body}
 [Foundations]{.cde-card-tag}
+
 ### Session 01: Introduction to Sustainable Development
 
 Participants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.
@@ -197,9 +170,10 @@ Participants learn to define sustainable development and its core principles, id
 :::
 ::: {.cde-card-body}
 [Foundations]{.cde-card-tag}
-### Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Education
 
-Participants examine the links between social, economic, and environmental dimensions of sustainable development. 
+### Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Education
+
+Participants examine the links between social, economic, and environmental dimensions of sustainable development.
 :::
 ::: {.cde-card-footer}
 [View session](sessions/week-02.qmd){.cde-card-link}
@@ -211,6 +185,7 @@ Participants examine the links between social, economic, and environmental dimen
 :::
 ::: {.cde-card-body}
 [Foundations]{.cde-card-tag}
+
 ### Session 03: Education for Sustainable Development (ESD) & Constructive Alignment
 
 Participants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.
@@ -225,6 +200,7 @@ Participants gain an understanding of the principles and importance of ESD as we
 :::
 ::: {.cde-card-body}
 [Presentations]{.cde-card-tag}
+
 ### Session 04: Presentation of Action Plans
 
 Participants present the action plan they have developed on how to integrate (E)SD into their own teaching. .
@@ -239,6 +215,7 @@ Participants present the action plan they have developed on how to integrate (E)
 :::
 ::: {.cde-card-body}
 [Reflexions]{.cde-card-tag}
+
 ### Session 05: Reflection session
 
 Participants provide feedback on course content, structure, etc.
