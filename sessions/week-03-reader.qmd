@@ -7,7 +7,7 @@ navbar: false
 ::: {.session-header}
 ### Reader: Education for Sustainable Development (ESD) & Constructive Alignment
 
-This reader expands on the [Week 3 slides](../resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery.
+This reader expands on the [Week 3 slides](../resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a [downloadable PDF](../resources/readers/week-03-reader.pdf){.material-link}.
 
 Unlike Weeks 1 and 2, this session is about pedagogy and course design rather than sustainability content, so most of it does not map onto the Basics of Sustainability textbook, which is a content textbook, not a teaching-methods one. Where it genuinely does connect (the two worked examples below), the link is there; where it does not, the reader relies on its own sources instead.
 :::

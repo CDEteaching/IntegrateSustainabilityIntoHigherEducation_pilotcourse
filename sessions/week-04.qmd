@@ -81,7 +81,7 @@ By the end of this session, participants will be able to:
 **Slides**
 
 - [Week 4 slides (PowerPoint, 19 slides)](../resources/slides/04_Presentation_of_action_plans_consolidated.pptx){.material-link}
-- [Week 4 Reader (background reading)](week-04-reader.qmd){.material-link}
+- [Week 4 Reader (background reading)](week-04-reader.qmd){.material-link} · [PDF](../resources/readers/week-04-reader.pdf){.material-link}
 :::
 
 ::: {.materials-col}

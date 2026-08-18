@@ -7,7 +7,7 @@ navbar: false
 ::: {.session-header}
 ### Reader: Introduction to Sustainable Development
 
-This reader expands on the [Week 1 slides](../resources/slides/01_Introduction_to_SD_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery.
+This reader expands on the [Week 1 slides](../resources/slides/01_Introduction_to_SD_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone introduction if you are adapting this course and did not attend the live delivery. Also available as a [downloadable PDF](../resources/readers/week-01-reader.pdf){.material-link}.
 :::
 
 ---

@@ -7,7 +7,7 @@ navbar: false
 ::: {.session-header}
 ### Reader: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education
 
-This reader expands on the [Week 2 slides](../resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone text if you are adapting this course and did not attend the live delivery.
+This reader expands on the [Week 2 slides](../resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx): it walks through the same concepts in more depth, with the reasoning and sources behind each slide spelled out. Use it to prepare, to revisit after the session, or as a stand-alone text if you are adapting this course and did not attend the live delivery. Also available as a [downloadable PDF](../resources/readers/week-02-reader.pdf){.material-link}.
 :::
 
 ---

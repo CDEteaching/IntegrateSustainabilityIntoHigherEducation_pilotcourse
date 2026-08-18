@@ -7,7 +7,7 @@ navbar: false
 ::: {.session-header}
 ### Reader: Presentation of Action Plans
 
-Session 4 does not introduce new sustainability content. It is where the three previous sessions come together in your own **ESD Action Plan**. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn.
+Session 4 does not introduce new sustainability content. It is where the three previous sessions come together in your own **ESD Action Plan**. This reader is shorter than the others on purpose: it is a guide to finishing a strong Action Plan and presenting it well, not a new set of concepts to learn. Also available as a [downloadable PDF](../resources/readers/week-04-reader.pdf){.material-link}.
 :::
 
 ---
