@@ -56,7 +56,7 @@ rather than mandatory pre-reading. The tables below list each session's optional
 | Tejedor et al. (2019). Didactic strategies to promote competencies in sustainability. | Library |
 | Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook, chapter on constructive alignment). | Library |
 | UNESCO (2023). What you need to know about education for sustainable development. | [Open access](https://www.unesco.org/en/education-sustainable-development/need-know) |
-| UNESCO. Berlin Declaration on Education for Sustainable Development (2021). | [Open access](https://www.unesco.org/en/articles/berlin-declaration-education-sustainable-development) |
+| UNESCO. Berlin Declaration on Education for Sustainable Development (2021). | [Open access](https://unesdoc.unesco.org/ark:/48223/pf0000381228) |
 
 ### Session 04 — Presentation of Action Plans
 
@@ -71,7 +71,6 @@ Plan (Tasks after Sessions 1-3).
 - [Session 02 slides (PowerPoint, 54 slides)](resources/slides/02_Interlinkages_and_Role_of_Science_consolidated.pptx)
 - [Session 03 slides (PowerPoint, 48 slides)](resources/slides/03_ESD_and_constructive_alignment_consolidated.pptx)
 - [Session 04 slides (PowerPoint, 19 slides)](resources/slides/04_Presentation_of_action_plans_consolidated.pptx)
-- Session 05 slides: not yet available (no Session 05 materials exist yet)
 
 ------------------------------------------------------------------------
 
@@ -94,6 +93,12 @@ Plan (Tasks after Sessions 1-3).
 - [Kumu](https://kumu.io) — systems mapping tool (free tier available)
 - [Loopy](https://ncase.me/loopy/) — simple interactive causal loop
   diagrams, browser-based and free
+- [Mentimeter](https://www.mentimeter.com) — live polls, quizzes, and
+  word clouds for in-session interaction
+- [Padlet](https://padlet.com) — collaborative digital pinboard for
+  group brainstorming
+- [Miro](https://miro.com) — online whiteboard for collaborative
+  mapping and workshops
 
 **Systems thinking**
 
@@ -108,20 +113,6 @@ Plan (Tasks after Sessions 1-3).
   — strong for open-access
 - [Unpaywall browser extension](https://unpaywall.org) — finds legal
   open-access versions of paywalled papers
-
-------------------------------------------------------------------------
-
-## Reflection Journal Guidelines
-
-The reflection journal is a weekly 300–400 word entry responding to a
-prompt from each session. Entries are submitted via the course platform
-within one week of each session.
-
-**Grading**: Journals are graded holistically at the end of the course
-on depth of engagement (40%), use of course concepts (40%), and
-intellectual honesty — including expressing genuine uncertainty (20%).
-There is no penalty for "wrong" answers; the journal rewards careful
-thinking.
 
 ------------------------------------------------------------------------
 

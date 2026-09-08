@@ -11,9 +11,9 @@ Open Educational Resource
 
 ::: {.section-intro}
 This course is designed to be adopted and adapted by Higher Education Institutions worldwide.
-Everything here — sessions, slides, frameworks, assessment designs — is published under CC BY-NC-SA 4.0.
-You are free to take what you need, leave what you don't, and build something better, for non-commercial
-purposes and under the same license.
+Everything here (sessions, slides, lecture notes, assessment designs) is published under CC BY-NC-SA 4.0.
+You are free to take what you need, leave what you don't, and build something suitable for your own
+needs and context, for non-commercial purposes and under the same license.
 This page explains how.
 :::
 
@@ -26,7 +26,8 @@ This page explains how.
 
 You do not need to run the whole course. Any session can stand alone as a guest lecture,
 workshop module, or seminar input. Each session page is self-contained with learning objectives,
-materials, tasks, and a localisation note.
+materials, tasks, recommended readings, and facilitation notes including globe icons marking
+where content can be adapted to your own context (see point 2).
 
 **How**: Download the session QMD file from GitHub, or copy the content into your own course design.
 :::
@@ -34,49 +35,57 @@ materials, tasks, and a localisation note.
 ::: {.adapt-card}
 ### 2. Swap in local case studies
 
-Every session includes a **localisation note** — a yellow panel at the bottom of the page —
-that guides you on how to replace our default examples (often European or generic global)
-with cases from your own regional context.
+![](images/adapt-context-icon.png){style="width:48px; height:48px; float:left; margin:0 0.6rem 0.4rem 0;"}
+Throughout the slides, this icon marks examples that are meant to be adapted to your own
+context (often regional cases from Ethiopia, Kenya, or Switzerland, or generic global examples).
+It flags exactly where a case study and/or example can be swapped out with cases from your own
+regional context, without you having to guess.
 
-**How**: Follow the localisation note. If you develop a strong local example, please share it
-via a GitHub pull request so other institutions can benefit.
+**How**: Look out for the icon as you go through the slides, and replace the flagged
+example with a case from your own regional context. If you develop a strong local example,
+please share it via a GitHub pull request so other institutions can benefit.
+
+*Icon: "Geotargeting" by Candy Design, from [Noun Project](https://thenounproject.com/browse/icons/term/geotargeting/) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)).*
 :::
 
 ::: {.adapt-card}
-### 3. Translate
+### 3. Remix and extend
 
-All materials are licensed for translation. A German version is in preparation at CDE.
-If you translate materials into another language, please notify the course team so we can
-link to your version from the repository.
-
-**How**: Fork the GitHub repository, edit the QMD files, and publish your translated version.
-:::
-
-::: {.adapt-card}
-### 4. Remix and extend
-
-Add sessions, change the sequence, integrate your own assessments, or embed this course within
-a larger programme. The Quarto format makes structural edits straightforward.
+Add sessions, change their sequence, integrate your own assessments, or embed this course
+within a larger programme. The Quarto format makes structural edits straightforward.
 
 **How**: Fork the repository. The `_quarto.yml` navigation and `sessions/index.qmd` listing
 control the structure. `_variables.yml` lets you update course metadata in one place.
 :::
 
 ::: {.adapt-card}
+### 4. Translate
+
+All materials are licensed for translation. If you translate materials into another language,
+please notify the CDE's ESD team ([sustainability.cde@unibe.ch](mailto:sustainability.cde@unibe.ch))
+so we can link to your version from the repository.
+
+**How**: Fork the GitHub repository, edit the QMD files, and publish your translated version.
+:::
+
+::: {.adapt-card}
 ### 5. Run a co-taught version
 
-This course was designed for co-teaching across institutions. The Session 04 presentations are
-especially powerful when run jointly between partner institutions via video link.
+This course was designed for co-teaching across institutions. Bringing participants from
+different institutions and disciplines together further strengthens the learning experience
+throughout — peer feedback and discussion have the potential to weigh more when they cross
+institutional and disciplinary lines rather than staying within one.
 
-**How**: Contact the CDE coordination team at [cde@unibe.ch](mailto:cde@unibe.ch) to discuss
-scheduling a joint cohort with another partner institution.
+**How**: Team up with a partner institution of your choice, or contact CDE's ESD team
+([sustainability.cde@unibe.ch](mailto:sustainability.cde@unibe.ch)) if you would like support
+finding one.
 :::
 
 ::: {.adapt-card}
 ### 6. Contribute back
 
-The course improves when institutions share what they changed and why. Contributions welcome:
-new case studies, updated readings, improved localisation notes, translations, additional sessions.
+The course improves when institutions share what they changed and why. Contributions are
+welcome: new case studies/examples, updated readings, translations, additional sessions.
 
 **How**: Open an issue or pull request on the [GitHub repository]({{< var course.github >}}).
 All contributors are acknowledged in the repository's commit history and contributor list.
@@ -132,7 +141,7 @@ Questions about adaptation, co-teaching, or contributing materials:
 
 **Centre for Development and Environment (CDE)**
 University of Bern
-[cde@unibe.ch](mailto:cde@unibe.ch)
+[sustainability.cde@unibe.ch](mailto:sustainability.cde@unibe.ch)
 [{{< var cde.website >}}]({{< var cde.website >}})
 
 ---

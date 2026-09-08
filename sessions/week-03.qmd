@@ -10,8 +10,6 @@ title-block-style: none
 
 ::: {.session-meta-row}
 [Session 03]{.session-badge .badge-online}
-[Self-paced online · 95-105 min]{.session-badge .badge-online}
-[Plenary]{.session-badge}
 :::
 
 ### Education for Sustainable Development (ESD) & Constructive Alignment
@@ -28,7 +26,6 @@ concrete, well-aligned course unit or course.
 
 | | |
 |---|---|
-| **Format** | Self-paced online module (adaptable for live/synchronous delivery) |
 | **Duration** | Approx. 95-105 min self-paced (equivalent to a 2h live session) |
 | **Preparation for participants** | Completion of Session 2, including the "identify opportunities" task |
 
@@ -86,11 +83,11 @@ By the end of this session, participants will be able to:
 ::: {.materials-col}
 **Optional / going deeper**
 
-- [Rieckmann, M. (2018). Learning to transform the world: Key competencies in Education for Sustainable Development.]{.material-link .reading}
-- [Tejedor et al. (2019). Didactic strategies to promote competencies in sustainability.]{.material-link .reading}
-- [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook, chapter on constructive alignment).]{.material-link .reading}
-- [UNESCO (2023). What you need to know about education for sustainable development.](https://www.unesco.org/en/education-sustainable-development/need-know){.material-link .reading}
-- [UNESCO. Berlin Declaration on Education for Sustainable Development (2021).](https://www.unesco.org/en/articles/berlin-declaration-education-sustainable-development){.material-link .reading}
+- [Rieckmann, M. (2018). Learning to transform the world: Key competencies in Education for Sustainable Development.]{.material-link .reading} [Library]
+- [Tejedor et al. (2019). Didactic strategies to promote competencies in sustainability.]{.material-link .reading} [Library]
+- [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook, chapter on constructive alignment).]{.material-link .reading} [Library]
+- [UNESCO (2023). What you need to know about education for sustainable development.]{.material-link .reading} [[Open access]](https://www.unesco.org/en/education-sustainable-development/need-know)
+- [UNESCO. Berlin Declaration on Education for Sustainable Development (2021).]{.material-link .reading} [[Open access]](https://unesdoc.unesco.org/ark:/48223/pf0000381228)
 
 :::
 

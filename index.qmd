@@ -23,7 +23,7 @@ sidebar: false
       <!-- EDIT: 2-3 sentence description -->
       <p class="lead">
         A co-created course integrating sustainability into curricula. Designed as a modular,
-        openly licensed resource for HEIs in the Global South and North.
+        openly licensed resource for Higher Education Institutions (HEIs) in the Global South and North.
       </p>
 
       <div>
@@ -62,11 +62,6 @@ sidebar: false
           <span class="cde-meta-value">English</span>
         </div>
         <div class="cde-meta-row">
-          <span>🏛️</span>
-          <span class="cde-meta-label">Format</span>
-          <span class="cde-meta-value">Hybrid · lecture + workshop</span>
-        </div>
-        <div class="cde-meta-row">
           <span>📋</span>
           <span class="cde-meta-label">Prerequisites</span>
           <span class="cde-meta-value">None</span>
@@ -75,17 +70,6 @@ sidebar: false
           <span>⚖️</span>
           <span class="cde-meta-label">License</span>
           <span class="cde-meta-value">CC BY-NC-SA 4.0</span>
-        </div>
-
-        <div style="margin-top:1.2rem; display:flex; gap:0.6rem; flex-wrap:wrap;">
-          <!-- EDIT: link to syllabus PDF -->
-          <a href="#" class="btn-cde-outline" style="padding:0.4rem 0.9rem; font-size:0.82rem;">
-            Download syllabus
-          </a>
-          <a href="https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse" target="_blank"
-             class="btn-cde-outline" style="padding:0.4rem 0.9rem; font-size:0.82rem;">
-            View on GitHub
-          </a>
         </div>
       </div>
     </div>
@@ -112,11 +96,11 @@ This course was developed in 2023 by a tri-national (Swiss, Kenyan, and Ethiopia
 - Addis Ababa University, Ethiopia (Water and Land Resource Centre, and College of Education and Behavioral Studies)
 - University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies, and the Centre for Training and Integrated Research on ASAL Development)
 
-The team iteratively built and revised the course's four sessions through collaborative working groups. The course was first piloted online with higher education faculty in Kenya in 2024, and on-site in Ethiopia in 2025. Following revision based on both pilots, it is now available for wider adoption.
+The team iteratively built and revised the course's four sessions through collaborative working groups. The course was initially piloted online with higher education faculty in Kenya in 2024, and on-site in Ethiopia in 2025. Following revision based on both pilots, it is now available for wider adoption.
 
 ### Course objective
 
-The course is designed to empower higher education lecturers in Ethiopia and Kenya with the knowledge, tools, and strategies to effectively integrate sustainable development (SD) and SD concepts and theories into their teaching. It provides an in-depth understanding of key SD concepts and theories, guides participants in establishing thematic connections between sustainable development and their own field, and highlights the importance of Education for Sustainable Development (ESD) for sustainable futures.
+The course is designed to empower higher education lecturers with the knowledge, tools, and strategies to effectively integrate sustainable development (SD) and SD concepts and theories into their teaching. It provides an in-depth understanding of key SD concepts and theories, guides participants in establishing thematic connections between sustainable development and their own field, and highlights the importance of Education for Sustainable Development (ESD) for sustainable futures.
 
 ### Target group
 
@@ -124,11 +108,7 @@ The course is aimed at higher education teaching staff from all disciplines. Dec
 
 ### How you can use this course
 
-There are several ways to engage with this material, depending on your needs:
-
-- **Work through the course independently, at your own pace:** All four sessions, materials, and exercises are freely available for self-paced learning — use them as they are, or draw on individual sections and materials for your own purposes.
-- **Adapt and deliver the course at your own institution:** The sessions, examples, and exercises can be localized to your own context — the illustrative cases used throughout (from Switzerland, Ethiopia, and Kenya) are meant as models, not fixed content, and are designed to be substituted with examples relevant to your own setting.
-- **Co-design a course with us:** If you are interested in developing a tailored version of this course together with the original project team, we welcome the opportunity to collaborate — please get in touch to discuss what this could look like <!-- TODO: contact (email or link) not yet decided — see comment from Anna Lena Lewis on the review doc: "Das passt so eigentlich nicht.. Aber fällt grad nichts Besseres ein." -->[contact details to be confirmed].
+This course is designed to be adopted and adapted by Higher Education Institutions worldwide. Everything here (sessions, slides, lecture notes, assessment designs) is published under CC BY-NC-SA 4.0. You are free to take what you need, leave what you don't, and build something suitable for your own needs and context, for non-commercial purposes and under the same license. → [See the full Adapt & Reuse guide](adapt.qmd).
 
 :::
 
@@ -154,8 +134,6 @@ The course consists of four sessions, each building on the previous one through 
 ::: {.cde-card-accent}
 :::
 ::: {.cde-card-body}
-[Foundations]{.cde-card-tag}
-
 ### Session 01: Introduction to Sustainable Development
 
 Participants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.
@@ -169,8 +147,6 @@ Participants learn to define sustainable development and its core principles, id
 ::: {.cde-card-accent}
 :::
 ::: {.cde-card-body}
-[Foundations]{.cde-card-tag}
-
 ### Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Education
 
 Participants examine the links between social, economic, and environmental dimensions of sustainable development.
@@ -184,8 +160,6 @@ Participants examine the links between social, economic, and environmental dimen
 ::: {.cde-card-accent}
 :::
 ::: {.cde-card-body}
-[Foundations]{.cde-card-tag}
-
 ### Session 03: Education for Sustainable Development (ESD) & Constructive Alignment
 
 Participants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.
@@ -199,11 +173,9 @@ Participants gain an understanding of the principles and importance of ESD as we
 ::: {.cde-card-accent}
 :::
 ::: {.cde-card-body}
-[Presentations]{.cde-card-tag}
-
 ### Session 04: Presentation of Action Plans
 
-Participants present the action plan they have developed on how to integrate (E)SD into their own teaching. .
+Participants present the action plan they have developed on how to integrate (E)SD into their own teaching.
 :::
 ::: {.cde-card-footer}
 [View session](sessions/week-04.qmd){.cde-card-link}
@@ -215,48 +187,10 @@ Participants present the action plan they have developed on how to integrate (E)
 :::
 
 <!-- ══════════════════════════════════════════════════════
-     OER TEASER + LICENSE
-════════════════════════════════════════════════════════ -->
-
-::: {.container style="padding: 3rem 2rem;"}
-
-::: {.section-label}
-Open Educational Resource
-:::
-
-## Adapt This Course
-
-This course is designed to be adopted and adapted by Higher Education Institutions worldwide.
-Materials are modular — individual sessions can be integrated without running the full course.
-Each session includes a **recommendations for facilitation**.
-
-::: {.callout-note .callout-during appearance="simple" icon=false}
-**Positionality & cultural context**
-
-*Add disclaimer for positionality and adaptation to cultural context here.*
-:::
-
-→ [Full adaptation guide](adapt.qmd)
-
-::: {.license-banner}
-⚖️
-<p><strong>Open License.</strong> All materials are published under
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
-unless stated otherwise. You are free to share and adapt for non-commercial purposes, with attribution to
-CDE, University of Bern, and under the same license.</p>
-:::
-
-:::
-
-<!-- ══════════════════════════════════════════════════════
      AUTHORS
 ════════════════════════════════════════════════════════ -->
 
 ::: {.container style="padding: 3rem 2rem; background: var(--bg-alt);"}
-
-::: {.section-label}
-Who wrote this
-:::
 
 ## Authors
 

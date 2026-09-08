@@ -10,8 +10,6 @@ title-block-style: none
 
 ::: {.session-meta-row}
 [Session 04]{.session-badge .badge-workshop}
-[Live · approx. 2h (async option available)]{.session-badge .badge-workshop}
-[Presentations & discussion]{.session-badge}
 :::
 
 ### Presentation of Action Plans
@@ -27,7 +25,6 @@ Plans, identify opportunities for collaboration, and reflect on and evaluate the
 
 | | |
 |---|---|
-| **Format** | Recommended as a live synchronous session (on-site or video call), since it centers on presentations and live group discussion. If a live session is not feasible: run as a time-boxed asynchronous window (e.g. one week) with recorded action-plan presentations and written peer feedback in place of live presentation and discussion. |
 | **Duration** | Approx. 2h live (scales with group size, given 6-minute presentations per participant/group). Asynchronous equivalent: an open review window of several days, with roughly 60-90 minutes of individual engagement time (viewing others' presentations, giving feedback, completing the evaluation). |
 | **Preparation for participants** | A completed ESD Action Plan (Tasks after Sessions 1-3), and a prepared short presentation of it (approx. 6 minutes) |
 

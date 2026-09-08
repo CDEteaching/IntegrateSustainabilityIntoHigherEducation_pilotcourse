@@ -1,7 +1,7 @@
 ---
 title: "Session 02: Interlinkages of Sustainability Dimensions and Role of Science & Higher Education"
 description: "From separate dimensions to interlinkages in practice, and the role of science, higher education, and individual disciplines in advancing sustainable development."
-categories: [Foundations, Self-paced]
+categories: [Self-paced]
 navbar: false
 title-block-style: none
 ---
@@ -10,8 +10,6 @@ title-block-style: none
 
 ::: {.session-meta-row}
 [Session 02]{.session-badge .badge-online}
-[Self-paced online · 90-100 min]{.session-badge .badge-online}
-[Plenary]{.session-badge}
 :::
 
 ### Interlinkages of Sustainability Dimensions and Role of Science & Higher Education
@@ -28,7 +26,6 @@ own, in advancing sustainable development.
 
 | | |
 |---|---|
-| **Format** | Self-paced online module (adaptable for live/synchronous delivery) |
 | **Duration** | Approx. 90-100 min self-paced (equivalent to a 2h live session) |
 | **Preparation for participants** | Completion of Session 1, including the "Review of course content" task |
 
@@ -88,12 +85,12 @@ By the end of this session, participants will be able to:
 ::: {.materials-col}
 **Optional / going deeper**
 
-- [Jahn, Bergmann & Keil (2012). Transdisciplinarity: Between mainstreaming and marginalization.]{.material-link .reading}
-- [Schneider & Buser (2018). Promising degrees of stakeholder interaction in research for sustainable development.]{.material-link .reading}
-- [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook).]{.material-link .reading}
-- [Herweg et al. (2017). Integrating Sustainable Development into Higher Education, Guidelines for the University of Bern.]{.material-link .reading}
-- [SDG "wedding cake" animation (Stockholm Resilience Centre, YouTube).](https://www.youtube.com/results?search_query=SDG+wedding+cake+Stockholm+Resilience+Centre){.material-link .reading}
-- [Price et al. (2021). Supporting the role of universities in leading individual and societal transformation through ESD.]{.material-link .reading}
+- [Jahn, Bergmann & Keil (2012). Transdisciplinarity: Between mainstreaming and marginalization.]{.material-link .reading} [Library]
+- [Schneider & Buser (2018). Promising degrees of stakeholder interaction in research for sustainable development.]{.material-link .reading} [Library]
+- [Herweg et al. (2021). *Transdisciplinary Learning for Sustainable Development* (textbook).]{.material-link .reading} [Library]
+- [Herweg et al. (2017). Integrating Sustainable Development into Higher Education, Guidelines for the University of Bern.]{.material-link .reading} [Library]
+- [SDG "wedding cake" animation (Stockholm Resilience Centre).]{.material-link .reading} [[YouTube]](https://www.youtube.com/results?search_query=SDG+wedding+cake+Stockholm+Resilience+Centre)
+- [Price et al. (2021). Supporting the role of universities in leading individual and societal transformation through ESD.]{.material-link .reading} [Library]
 
 :::
 

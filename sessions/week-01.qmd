@@ -1,7 +1,7 @@
 ---
 title: "Session 01: Introduction to Sustainable Development"
 description: "Foundational concepts of sustainable development, its historical development, and the global challenges it responds to."
-categories: [Foundations, Self-paced]
+categories: [Self-paced]
 navbar: false
 title-block-style: none
 ---
@@ -10,8 +10,6 @@ title-block-style: none
 
 ::: {.session-meta-row}
 [Session 01]{.session-badge .badge-online}
-[Self-paced online · 90-100 min]{.session-badge .badge-online}
-[Plenary]{.session-badge}
 :::
 
 ### Introduction to Sustainable Development
@@ -28,7 +26,6 @@ own context.
 
 | | |
 |---|---|
-| **Format** | Self-paced online module (structure can be adapted for a live/synchronous session) |
 | **Duration** | Approx. 90-100 min self-paced (equivalent to a 2h live session) |
 | **Preparation for participants** | None (opening session of the course) |
 
@@ -98,12 +95,12 @@ By the end of this session, participants will be able to:
 ::: {.materials-col}
 **Optional / going deeper**
 
-- [Meadows et al. (1972). *The Limits to Growth*.]{.material-link .reading}
-- [World Commission on Environment and Development (1987). *Our Common Future* (Brundtland Report).]{.material-link .reading}
-- [Raworth, K. (2017). *Doughnut Economics*.]{.material-link .reading}
-- [Pascual et al. (2023). Diverse values of nature for sustainability. *Nature*.]{.material-link .reading}
-- [World Economic Forum (2023). *The Global Risks Report 2023*.](https://www.weforum.org/publications/global-risks-report-2023/){.material-link .reading}
-- [Global Sustainable Development Report 2023 (UN).](https://sdgs.un.org/gsdr/gsdr2023){.material-link .reading}
+- [Meadows et al. (1972). *The Limits to Growth*.]{.material-link .reading} [Library]
+- [World Commission on Environment and Development (1987). *Our Common Future* (Brundtland Report).]{.material-link .reading} [Library]
+- [Raworth, K. (2017). *Doughnut Economics*.]{.material-link .reading} [Library / purchase]
+- [Pascual et al. (2023). Diverse values of nature for sustainability. *Nature*.]{.material-link .reading} [Library]
+- [World Economic Forum (2023). *The Global Risks Report 2023*.]{.material-link .reading} [[Open access]](https://www.weforum.org/publications/global-risks-report-2023/)
+- [Global Sustainable Development Report 2023 (UN).]{.material-link .reading} [[Open access]](https://sdgs.un.org/gsdr/gsdr2023)
 
 :::
 
