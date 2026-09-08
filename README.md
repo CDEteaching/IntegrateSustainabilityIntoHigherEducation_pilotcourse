@@ -43,19 +43,3 @@ Unless otherwise indicated, all materials are licensed under the Creative Common
 ## 📖 How to cite this course
 
 CDE, University of Bern, University of Nairobi, & Addis Ababa University. (2026). *Integrating Sustainability into Higher Education: Theories, Concepts, and Practical Strategies* (Version 1.0) \[Online course\]. Retrieved from https://cdeteaching.github.io/IntegrateSustainabilityIntoHigherEducation_pilotcourse/
-
-## 🧩 Contribution Matrix (CRediT Taxonomy)
-
-| Name | Affiliation | ORCID | Roles (CRediT) |
-|------------------|------------------|------------------|------------------|
-| Dr. Isabelle Providoli | CDE, University of Bern | — | *(to be confirmed)* |
-| Anna Lewis | CDE, University of Bern | — | *(to be confirmed)* |
-| Dr. Brigitte Portner | CDE, University of Bern | — | *(to be confirmed)* |
-| Tina Hirschbühl | CDE, University of Bern | — | *(to be confirmed)* |
-| Dr. Dawit Mekonnen | College of Education and Behavioral Studies, Addis Ababa University | — | *(to be confirmed)* |
-| Anteneh Gebremariam | College of Education and Behavioral Studies, Addis Ababa University | — | *(to be confirmed)* |
-| Dr. Gete Zeleke | Water and Land Resource Centre, Addis Ababa | — | *(to be confirmed)* |
-| Dr. Boniface Kiteme | Centre for Training and Integrated Research on ASAL Development | — | *(to be confirmed)* |
-| Dr. Boniface Wambua | Department of Geography, Population and Environmental Studies, University of Nairobi | — | *(to be confirmed)* |
-
-*Names and affiliations as listed on the [course site](https://cdeteaching.github.io/IntegrateSustainabilityIntoHigherEducation_pilotcourse/); ORCIDs and CRediT roles not yet confirmed — update this table once available, following the format used in [Basics-of-sustainability](https://github.com/CDEteaching/Basics-of-sustainability).*
