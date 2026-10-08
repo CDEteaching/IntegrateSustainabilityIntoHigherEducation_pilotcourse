@@ -110,8 +110,8 @@ You need Quarto installed to render the site locally.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/CDEteaching/[REPO-NAME].git
-cd [REPO-NAME]
+git clone https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse.git
+cd IntegrateSustainabilityIntoHigherEducation_pilotcourse
 
 # 2. Install Quarto (see https://quarto.org/docs/get-started/)
 

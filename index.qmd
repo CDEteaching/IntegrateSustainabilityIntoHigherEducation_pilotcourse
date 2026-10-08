@@ -140,6 +140,12 @@ Session overview
 
 ::: {.section-intro .section-intro-wide}
 The course consists of four sessions, each building on the previous one through a cumulative, individual project — the ESD Action Plan. Across the four sessions, participants develop their own ESD Action Plan: a concrete, ready-to-use lesson or session that integrates sustainable development into their own teaching, grounded in their own discipline and institutional context.
+
+Each session page includes a session overview, learning objectives and a session outline. In addition, materials, preparation tasks & learning activities are available.
+
+The core of each session are a PowerPoint slide deck and a detailed background reading providing further information.
+
+**Recommendations for facilitation** guide partner institutions on how to adapt examples and case studies to their regional context.
 :::
 
 ::: {.cde-cards}

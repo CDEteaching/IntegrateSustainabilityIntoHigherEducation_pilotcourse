@@ -292,18 +292,7 @@
     "href": "sessions/index.html",
     "title": "Course Sessions",
     "section": "",
-    "text": "Session by session\n\n\n\n\nEach session page includes a session overview, learning objectives and a session outline. In addition, materials, preparation tasks & learning activities are available.\nThe core of each session are a PowerPoint slide deck and a detailed background reading providing further information.\nRecommendations for facilitation guide partner institutions on how to adapt examples and case studies to their regional context.",
-    "crumbs": [
-      "Home",
-      "Sessions"
-    ]
-  },
-  {
-    "objectID": "sessions/index.html#all-sessions",
-    "href": "sessions/index.html#all-sessions",
-    "title": "Course Sessions",
-    "section": "",
-    "text": "Each session page includes a session overview, learning objectives and a session outline. In addition, materials, preparation tasks & learning activities are available.\nThe core of each session are a PowerPoint slide deck and a detailed background reading providing further information.\nRecommendations for facilitation guide partner institutions on how to adapt examples and case studies to their regional context.",
+    "text": "Session by session",
     "crumbs": [
       "Home",
       "Sessions"
@@ -324,7 +313,7 @@
     "href": "index.html#course-sessions",
     "title": "CDE - Open Education Resources",
     "section": "Course Sessions",
-    "text": "Course Sessions\n\nThe course consists of four sessions, each building on the previous one through a cumulative, individual project — the ESD Action Plan. Across the four sessions, participants develop their own ESD Action Plan: a concrete, ready-to-use lesson or session that integrates sustainable development into their own teaching, grounded in their own discipline and institutional context.\n\n\n\n\n\n\n\nSession 01: Introduction to Sustainable Development\nParticipants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.\n\n\nView session\n\n\n\n\n\n\n\nSession 02: Interlinkages of Sustainability Dimensions and Role of Science & Education\nParticipants examine the links between social, economic, and environmental dimensions of sustainable development.\n\n\nView session\n\n\n\n\n\n\n\nSession 03: Education for Sustainable Development (ESD) & Constructive Alignment\nParticipants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.\n\n\nView session\n\n\n\n\n\n\n\nSession 04: Presentation of Action Plans\nParticipants present the action plan they have developed on how to integrate (E)SD into their own teaching.\n\n\nView session",
+    "text": "Course Sessions\n\nThe course consists of four sessions, each building on the previous one through a cumulative, individual project — the ESD Action Plan. Across the four sessions, participants develop their own ESD Action Plan: a concrete, ready-to-use lesson or session that integrates sustainable development into their own teaching, grounded in their own discipline and institutional context.\nEach session page includes a session overview, learning objectives and a session outline. In addition, materials, preparation tasks & learning activities are available.\nThe core of each session are a PowerPoint slide deck and a detailed background reading providing further information.\nRecommendations for facilitation guide partner institutions on how to adapt examples and case studies to their regional context.\n\n\n\n\n\n\n\nSession 01: Introduction to Sustainable Development\nParticipants learn to define sustainable development and its core principles, identify key challenges that sustainability seeks to address.\n\n\nView session\n\n\n\n\n\n\n\nSession 02: Interlinkages of Sustainability Dimensions and Role of Science & Education\nParticipants examine the links between social, economic, and environmental dimensions of sustainable development.\n\n\nView session\n\n\n\n\n\n\n\nSession 03: Education for Sustainable Development (ESD) & Constructive Alignment\nParticipants gain an understanding of the principles and importance of ESD as well as of the concept of constructive alignment in designing effective courses.\n\n\nView session\n\n\n\n\n\n\n\nSession 04: Presentation of Action Plans\nParticipants present the action plan they have developed on how to integrate (E)SD into their own teaching.\n\n\nView session",
     "crumbs": [
       "Home"
     ]
@@ -366,7 +355,7 @@
     "href": "adapt.html#technical-setup",
     "title": "Adapt & Reuse",
     "section": "Technical Setup",
-    "text": "Technical Setup\nThe course is built with Quarto — an open-source scientific publishing system. You need Quarto installed to render the site locally.\nQuick start:\n# 1. Clone the repository\ngit clone https://github.com/CDEteaching/[REPO-NAME].git\ncd [REPO-NAME]\n\n# 2. Install Quarto (see https://quarto.org/docs/get-started/)\n\n# 3. Preview locally\nquarto preview\n\n# 4. Render to _site/ folder\nquarto render\nDeployment to GitHub Pages is automated via the included GitHub Actions workflow (.github/workflows/publish.yml). Push to main and the site rebuilds automatically.\nEditing in RStudio: Open the project folder in RStudio — it will detect the Quarto project automatically. Use the Render button to preview individual pages.",
+    "text": "Technical Setup\nThe course is built with Quarto — an open-source scientific publishing system. You need Quarto installed to render the site locally.\nQuick start:\n# 1. Clone the repository\ngit clone https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse.git\ncd IntegrateSustainabilityIntoHigherEducation_pilotcourse\n\n# 2. Install Quarto (see https://quarto.org/docs/get-started/)\n\n# 3. Preview locally\nquarto preview\n\n# 4. Render to _site/ folder\nquarto render\nDeployment to GitHub Pages is automated via the included GitHub Actions workflow (.github/workflows/publish.yml). Push to main and the site rebuilds automatically.\nEditing in RStudio: Open the project folder in RStudio — it will detect the Quarto project automatically. Use the Render button to preview individual pages.",
     "crumbs": [
       "Home",
       "Adapt & Reuse"

@@ -9,8 +9,8 @@ website:
   description: >
     An open educational resource co-developed by CDE (University of Bern)
     and partner institutions in Kenya and Ethiopia.
-  site-url: https://cdeteaching.github.io/[REPO-NAME]
-  repo-url: https://github.com/CDEteaching/[REPO-NAME]
+  site-url: https://cdeteaching.github.io/IntegrateSustainabilityIntoHigherEducation_pilotcourse
+  repo-url: https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse
   repo-actions: [edit, issue]
   favicon: assets/favicon.ico
 
@@ -25,7 +25,7 @@ website:
       - text: "CDE Teaching"
         href: https://cdeteaching.github.io
       - text: "GitHub"
-        href: https://github.com/CDEteaching/[REPO-NAME]
+        href: https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse
 
   # ── Open Graph / social ────────────────────────────────
   open-graph:
