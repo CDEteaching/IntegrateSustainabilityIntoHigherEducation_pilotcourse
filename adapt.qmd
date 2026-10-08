@@ -54,7 +54,10 @@ please share it via a GitHub pull request so other institutions can benefit.
 Add sessions, change their sequence, integrate your own assessments, or embed this course
 within a larger programme. The Quarto format makes structural edits straightforward.
 
-**How**: Fork the repository. The `_quarto.yml` navigation and `sessions/index.qmd` listing
+**How**: Fork the GitHub repository, i.e. create your own copy of it under your own GitHub
+account (a free account is enough; click "Fork" on the
+[repository page](https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse)).
+You can then change your copy freely without affecting the original course. The `_quarto.yml` navigation and `sessions/index.qmd` listing
 control the structure. `_variables.yml` lets you update course metadata in one place.
 :::
 

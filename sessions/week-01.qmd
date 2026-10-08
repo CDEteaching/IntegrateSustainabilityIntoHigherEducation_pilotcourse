@@ -1,7 +1,6 @@
 ---
 title: "Session 01: Introduction to Sustainable Development"
 description: "Foundational concepts of sustainable development, its historical development, and the global challenges it responds to."
-categories: [Self-paced]
 navbar: false
 title-block-style: none
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Session 04: Presentation of Action Plans"
 description: "The closing session: participants present their completed ESD Action Plans, identify collaboration opportunities, and evaluate the course as a whole."
-categories: [Wrap-up, Live]
 navbar: false
 title-block-style: none
 ---

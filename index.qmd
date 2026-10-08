@@ -35,8 +35,10 @@ sidebar: false
       <div class="partner-strip">
         <span class="partner-strip-label">Developed with</span>
         <span class="partner-badge">University of Bern, Switzerland (Centre for Development and Environment)</span>
-        <span class="partner-badge">University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies, and the Centre for Training and Integrated Research on ASAL Development)</span>
-        <span class="partner-badge">Addis Ababa University, Ethiopia (Water and Land Resource Centre, and College of Education and Behavioral Studies)</span>
+        <span class="partner-badge">University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies)</span>
+        <span class="partner-badge">Centre for Training and Integrated Research on ASAL Development (CETRAD), Kenya</span>
+        <span class="partner-badge">Addis Ababa University, Ethiopia (College of Education and Behavioral Studies)</span>
+        <span class="partner-badge">Water and Land Resource Centre (WLRC), Ethiopia</span>
       </div>
     </div>
 
@@ -90,13 +92,17 @@ Who we are
 
 ## About this course
 
-This course was developed in 2023 by a tri-national (Swiss, Kenyan, and Ethiopian) project team of nine members, representing:
+This course was developed in 2023 by a Swiss-Kenyan-Ethiopian project team to respond to the growing urgency for higher education institutions (HEIs) to integrate sustainability and Education for Sustainable Development (ESD) into higher education teaching.
+
+The team members were from:
 
 - University of Bern, Switzerland (Centre for Development and Environment)
-- Addis Ababa University, Ethiopia (Water and Land Resource Centre, and College of Education and Behavioral Studies)
-- University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies, and the Centre for Training and Integrated Research on ASAL Development)
+- University of Nairobi, Kenya (Department of Geography, Population and Environmental Studies)
+- Centre for Training and Integrated Research on ASAL Development (CETRAD)
+- Addis Ababa University, Ethiopia (College of Education and Behavioral Studies)
+- Water and Land Resource Centre (WLRC)
 
-The team iteratively built and revised the course's four sessions through collaborative working groups. The course was initially piloted online with higher education faculty in Kenya in 2024, and on-site in Ethiopia in 2025. Following revision based on both pilots, it is now available for wider adoption.
+The team iteratively built and revised the course's four sessions through collaborative working groups. The course was initially piloted online with higher education faculty in Kenya in 2024, and on-site in Ethiopia in 2025. Following revision based on both pilots, the course is now available for wider adoption.
 
 ### Course objective
 
@@ -104,9 +110,17 @@ The course is designed to empower higher education lecturers with the knowledge,
 
 ### Target group
 
-The course is aimed at higher education teaching staff from all disciplines. Decision-makers and academic programme directors may also find it valuable to attend.
+The course is aimed at higher education teaching staff from all disciplines. Decision-makers and academic programme directors may also find it valuable.
 
 ### How you can use this course
+
+- You are a teaching staff interested to deepen your knowledge through self-paced learning.
+- You are a group of higher education teaching staff interested in exploring how your teaching is linked to sustainable development. The course can be taught as a live session on-site, online, hybrid, or also as an asynchronous format.
+- You are a teaching staff interested to use parts of the course in teaching units.
+
+This course was designed for co-teaching across institutions. Bringing participants from different institutions and disciplines together further strengthens the learning experience throughout — peer feedback and discussion have the potential to weigh more when they cross institutional and disciplinary lines rather than staying within one.
+
+**How**: Team up with a partner institution of your choice, or contact CDE's ESD team ([sustainability.cde@unibe.ch](mailto:sustainability.cde@unibe.ch)) if you would like support finding one.
 
 This course is designed to be adopted and adapted by Higher Education Institutions worldwide. Everything here (sessions, slides, lecture notes, assessment designs) is published under CC BY-NC-SA 4.0. You are free to take what you need, leave what you don't, and build something suitable for your own needs and context, for non-commercial purposes and under the same license. → [See the full Adapt & Reuse guide](adapt.qmd).
 

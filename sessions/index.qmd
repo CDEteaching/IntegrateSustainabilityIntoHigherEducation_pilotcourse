@@ -10,7 +10,7 @@ listing:
       - week-04.qmd
     type: grid
     grid-columns: 2
-    fields: [title, description, categories]
+    fields: [title, description]
     sort: false
 toc: false
 page-layout: full
@@ -25,7 +25,11 @@ Session by session
 ## All Sessions
 
 ::: {.section-intro}
-Each session page includes materials, tasks, and **recommendations for facilitation** guiding partner institutions on how to adapt examples and case studies to their regional context.
+Each session page includes a session overview, learning objectives and a session outline. In addition, materials, preparation tasks & learning activities are available.
+
+The core of each session are a PowerPoint slide deck and a detailed background reading providing further information.
+
+**Recommendations for facilitation** guide partner institutions on how to adapt examples and case studies to their regional context.
 :::
 
 :::
