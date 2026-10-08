@@ -57,7 +57,10 @@ within a larger programme. The Quarto format makes structural edits straightforw
 **How**: Fork the GitHub repository, i.e. create your own copy of it under your own GitHub
 account (a free account is enough; click "Fork" on the
 [repository page](https://github.com/CDEteaching/IntegrateSustainabilityIntoHigherEducation_pilotcourse)).
-You can then change your copy freely without affecting the original course. The `_quarto.yml` navigation and `sessions/index.qmd` listing
+You can then change your copy without affecting the original course. Your copy remains under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): credit the original authors
+(see [Attribution](#attribution)), use it for non-commercial purposes only, and publish any adapted
+version under the same license. The `_quarto.yml` navigation and `sessions/index.qmd` listing
 control the structure. `_variables.yml` lets you update course metadata in one place.
 :::
 
@@ -131,8 +134,11 @@ automatically. Use the Render button to preview individual pages.
 
 When using or adapting these materials, please attribute as follows:
 
-> *[Course name]. Developed by the Centre for Development and Environment (CDE), University of Bern,
-> and partner institutions. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+> *Integrating Sustainability into Higher Education: Theories, Concepts, and Practical Strategies. Developed by the Centre for Development and Environment (CDE), University of Bern,
+> together with the University of Nairobi (Department of Geography, Population and Environmental Studies),
+> the Centre for Training and Integrated Research on ASAL Development (CETRAD),
+> Addis Ababa University (College of Education and Behavioral Studies), and the Water and Land Resource
+> Centre (WLRC). Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
 
 A link back to the original repository is appreciated but not required.
 
