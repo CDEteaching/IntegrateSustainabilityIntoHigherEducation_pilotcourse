@@ -49,11 +49,6 @@ sidebar: false
 
         <!-- EDIT: Update metadata values -->
         <div class="cde-meta-row">
-          <span>🎓</span>
-          <span class="cde-meta-label">Level</span>
-          <span class="cde-meta-value">Bachelor / Introductory</span>
-        </div>
-        <div class="cde-meta-row">
           <span>📅</span>
           <span class="cde-meta-label">Duration</span>
           <span class="cde-meta-value">4 sessions</span>
